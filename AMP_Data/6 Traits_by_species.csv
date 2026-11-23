@@ -1,0 +1,777 @@
+Family,ScientificName,Data,Description,Observed,Predicted,Unit
+Arcidae,Arca noae,am,life span,5840.0,5839.0,d
+Arcidae,Arca noae,Lj,shell length at metam,0.1,0.09853,cm
+Arcidae,Arca noae,Lp,shell length at puberty,1.0,0.9997,cm
+Arcidae,Arca noae,Li,ultimate shell height,3.5,3.499,cm
+Arcidae,Arca noae,Wwb,wet weight at birth,5.8e-08,5.812e-08,g
+Arcidae,Arca noae,Wdi,ultimate dry weight,2.3,2.298,g
+Arcidae,Arca noae,Ri,maximum reprod rate for assumed SL 3 cm,13700.0,14180.0,#/d
+Arcticidae,Arctica islandica,ab,age at birth,4.0,4.247,d
+Arcticidae,Arctica islandica,tj,time since birth at metamorphosis,34.0,27.52,d
+Arcticidae,Arctica islandica,tp,time since birth at puberty,2190.0,2090.0,d
+Arcticidae,Arctica islandica,am,life span,185100.0,185100.0,d
+Arcticidae,Arctica islandica,Lj,shell length at metamorphosis,0.024,0.09088,cm
+Arcticidae,Arctica islandica,Lp,shell lenght at puberty,4.0,4.634,cm
+Arcticidae,Arctica islandica,Li,ultimate shell length,14.0,11.2,cm
+Arcticidae,Arctica islandica,Ww0,wet weight of an egg.,0.01375,0.01279,mg
+Arcticidae,Arctica islandica,Wdp,dry weight at puberty,0.98,0.9166,g
+Arcticidae,Arctica islandica,RL,maximum reprod rate,1096.0,1122.0,#/d
+Astartidae,Astarte borealis,am,life span,54750.0,54750.0,d
+Astartidae,Astarte borealis,Lb,shell length at birth,0.02,0.0216,cm
+Astartidae,Astarte borealis,Lp,shell length at puberty,2.0,2.0,cm
+Astartidae,Astarte borealis,Li,ultimate shell height,4.22,3.864,cm
+Astartidae,Astarte borealis,Wwb,wet weight at birth,2.8e-06,2.786e-06,g
+Astartidae,Astarte borealis,Wwi,ultimate wet weight,15.5,15.95,g
+Astartidae,Astarte borealis,Ri,maximum reprod rate,104.1,105.9,#/d
+Cardiidae,Cerastoderma edule,ab,age at birth,3.0,2.858,d
+Cardiidae,Cerastoderma edule,tp,time since birth at puberty,280.0,280.8,d
+Cardiidae,Cerastoderma edule,am,life span,5160.0,5160.0,d
+Cardiidae,Cerastoderma edule,Lb,total length at birth,0.015,0.0157,cm
+Cardiidae,Cerastoderma edule,Lp,total length at puberty,1.2,1.093,cm
+Cardiidae,Cerastoderma edule,Li,ultimate total length,5.0,5.065,cm
+Cardiidae,Cerastoderma edule,Wdp,dry weight at puberty,0.0098,0.009006,g
+Cardiidae,Cerastoderma edule,Wdi,ultimate dry weight,0.9,0.8956,g
+Cardiidae,Cerastoderma edule,Ri,maximum reprod rate,4658.0,4661.0,#/d
+Cardiidae,Cerastoderma edule,rB,van Bertalanffy growth rate,0.001,0.001046,1/d
+Cardiidae,Cerastoderma glaucum,ab,age at birth,3.0,2.856,d
+Cardiidae,Cerastoderma glaucum,tj,time since birth at metam,11.0,11.12,d
+Cardiidae,Cerastoderma glaucum,am,life span,1825.0,1825.0,d
+Cardiidae,Cerastoderma glaucum,Lp,total length at puberty,0.96,0.9601,cm
+Cardiidae,Cerastoderma glaucum,Li,ultimate total length,5.0,5.185,cm
+Cardiidae,Cerastoderma glaucum,Wwb,wet weight at birth,2.2e-07,2.229e-07,g
+Cardiidae,Cerastoderma glaucum,Ww15,wet weight at shell length 15 mm,0.17,0.1694,g
+Cardiidae,Cerastoderma glaucum,Ri,maximum reprod rate,4658.0,4660.0,#/d
+Cardiidae,Ciliatocardium ciliatum,am,life span,8760.0,8764.0,d
+Cardiidae,Ciliatocardium ciliatum,Lj,shell length at metam,0.2,0.1969,cm
+Cardiidae,Ciliatocardium ciliatum,Lp,shell length at puberty,1.2,1.199,cm
+Cardiidae,Ciliatocardium ciliatum,Li,ultimate shell length,4.5,4.505,cm
+Cardiidae,Ciliatocardium ciliatum,Wwb,wet weight at birth,1.44e-07,1.442e-07,g
+Cardiidae,Ciliatocardium ciliatum,Wwi,ultimate wet weight,11.3,11.32,g
+Cardiidae,Ciliatocardium ciliatum,Ri,maximum reprod rate,4657.0,4663.0,#/d
+Cardiidae,Tridacna gigas,ab,age at birth,0.8333,0.8487,d
+Cardiidae,Tridacna gigas,tj,time since birth at metamorphosis,7.0,6.94,d
+Cardiidae,Tridacna gigas,am,life span,36500.0,36510.0,d
+Cardiidae,Tridacna gigas,Lp,shell lenght at puberty,20.0,19.99,cm
+Cardiidae,Tridacna gigas,Li,ultimate shell height,137.0,124.1,cm
+Cardiidae,Tridacna gigas,L10,shell length at 10 month,2.6,5.416,cm
+Cardiidae,Tridacna gigas,L17,shell length at 17 month,8.3,8.994,cm
+Cardiidae,Tridacna gigas,L9,shell length at 9 yr,52.0,46.68,cm
+Cardiidae,Tridacna gigas,Wwb,wet dry weight at birth,5.23e-07,5.193e-07,g
+Cardiidae,Tridacna gigas,Wwi,ultimate wet weight,20000.0,20650.0,g
+Cardiidae,Tridacna gigas,Ww115,wet weight at 115 cm,17000.0,16440.0,g
+Cardiidae,Tridacna gigas,Ri,ultimate reproduction rate,1370000.0,1372000.0,#/d
+Cardiidae,Tridacna gigas,dLj,growth rate at settlement,0.03288,0.01778,cm/d
+Corbulidae,Corbula gibba,ab,age at birth,0.25,0.2554,d
+Corbulidae,Corbula gibba,aj,age at metamorphosis,9.0,9.332,d
+Corbulidae,Corbula gibba,am,life span,511.0,512.2,d
+Corbulidae,Corbula gibba,Lj,total length at metamorphosis,0.035,0.03249,cm
+Corbulidae,Corbula gibba,Lp,total length at puberty,0.4,0.3768,cm
+Corbulidae,Corbula gibba,Li,ultimate total length,1.2,1.303,cm
+Corbulidae,Corbula gibba,Wwb,wet weight at birth,1.131e-07,1.134e-07,g
+Corbulidae,Corbula gibba,Wdi,ultimate dry weight,0.0175,0.01722,g
+Corbulidae,Corbula gibba,Ri,maximum reprod rate,63.01,63.52,#/d
+Cyamiidae,Reloncavia chilenica,am,life span,365.0,364.9,d
+Cyamiidae,Reloncavia chilenica,Lb,shell length at birth,0.05,0.05348,cm
+Cyamiidae,Reloncavia chilenica,Lp,shell length at puberty,0.3,0.298,cm
+Cyamiidae,Reloncavia chilenica,Li,ultimate shell height,1.2,1.444,cm
+Cyrenidae,Geloina coaxans,ab,age at birth,1.4,0.9045,d
+Cyrenidae,Geloina coaxans,tp,time since birth at puberty,438.0,390.1,d
+Cyrenidae,Geloina coaxans,am,life span,1825.0,1990.0,d
+Cyrenidae,Geloina coaxans,Lp,shell length at puberty,3.5,3.887,cm
+Cyrenidae,Geloina coaxans,Li,ultimate shell length,7.65,7.8,cm
+Cyrenidae,Geloina coaxans,Wwb,wet weight at birth,2.7e-07,2.747e-07,g
+Cyrenidae,Geloina coaxans,Wwi,ultimate wet weight,20.2,19.66,g
+Cyrenidae,Geloina coaxans,GSI,gonado somatic index,0.24,0.2103,g/g
+Donacidae,Donax hanleyanus,am,life span,1898.0,1899.0,d
+Donacidae,Donax hanleyanus,Lp,shell length at puberty,1.4,1.393,cm
+Donacidae,Donax hanleyanus,Li,ultimate shell length,4.4,4.2,cm
+Donacidae,Donax hanleyanus,Wwb,wet weight at birth,9.7e-07,9.666e-07,g
+Donacidae,Donax hanleyanus,Wwi,ultimate wet weight,3.7,3.718,g
+Donacidae,Donax hanleyanus,Ri,max reproduction rate,575.3,579.5,#/d
+Donacidae,Donax trunculus,ab,age at birth,3.0,3.066,d
+Donacidae,Donax trunculus,am,life span,2920.0,2920.0,d
+Donacidae,Donax trunculus,Lp,total length at puberty,1.6,1.587,cm
+Donacidae,Donax trunculus,Li,ultimate total length,4.7,4.759,cm
+Donacidae,Donax trunculus,Wwb,wet weight at birth,4e-06,4.013e-06,g
+Donacidae,Donax trunculus,Wwi,ultimate tissue wet weight,4.3,4.279,g
+Donacidae,Donax trunculus,Ri,max reprod rate,274.0,275.6,#/d
+Donacidae,Donax vittatus,ab,age at birth,3.0,3.089,d
+Donacidae,Donax vittatus,am,life span,2920.0,2931.0,d
+Donacidae,Donax vittatus,Lp,total length at puberty,1.2,1.171,cm
+Donacidae,Donax vittatus,Li,ultimate total length,3.3,3.342,cm
+Donacidae,Donax vittatus,Wwb,wet weight at birth,4e-06,3.953e-06,g
+Donacidae,Donax vittatus,Ri,max reprod rate,274.0,273.9,#/d
+Donacidae,Galatea paradoxa,ab,age at birth,2.0,2.012,d
+Donacidae,Galatea paradoxa,am,life span,5475.0,5453.0,d
+Donacidae,Galatea paradoxa,Lp,total length at puberty,3.6,3.586,cm
+Donacidae,Galatea paradoxa,Li,ultimate total length,11.4,11.53,cm
+Donacidae,Galatea paradoxa,Wwb,wet weight at birth,4e-06,4.1e-06,g
+Donacidae,Galatea paradoxa,Wwi,tissue wet weight at SL 9.74 cm,344.8,370.3,g
+Donacidae,Galatea paradoxa,Ri,max reprod rate,274.0,3925.0,#/d
+Glycymerididae,Glycymeris glycymeris,am,life span,27380.0,25270.0,d
+Glycymerididae,Glycymeris glycymeris,Lj,shell length at metam,0.1,0.1052,cm
+Glycymerididae,Glycymeris glycymeris,Lp,shell length at puberty,3.0,1.385,cm
+Glycymerididae,Glycymeris glycymeris,Li,ultimate shell height,6.5,5.56,cm
+Glycymerididae,Glycymeris glycymeris,Wwb,wet weight at birth,5.8e-08,6.461e-08,g
+Glycymerididae,Glycymeris glycymeris,Wdi,ultimate dry weight,0.54,0.6251,g
+Glycymerididae,Glycymeris glycymeris,Ri,maximum reprod rate,1370.0,639.0,#/d
+Glycymerididae,Glycymeris longior,am,life span,25180.0,25190.0,d
+Glycymerididae,Glycymeris longior,Lj,shell length at metam,0.1,0.09961,cm
+Glycymerididae,Glycymeris longior,Lp,shell length at puberty,2.0,2.0,cm
+Glycymerididae,Glycymeris longior,Li,ultimate shell height,4.2,4.018,cm
+Glycymerididae,Glycymeris longior,Wwb,wet weight at birth,5.8e-08,5.8e-08,g
+Glycymerididae,Glycymeris longior,Wdi,ultimate dry weight,1.3,1.3,g
+Glycymerididae,Glycymeris longior,Ri,maximum reprod rate,6849.0,6993.0,#/d
+Glycymerididae,Glycymeris pilosa,am,life span,25180.0,26870.0,d
+Glycymerididae,Glycymeris pilosa,Lj,shell length at metam,0.1,0.1174,cm
+Glycymerididae,Glycymeris pilosa,Lp,shell length at puberty,4.0,3.976,cm
+Glycymerididae,Glycymeris pilosa,Li,ultimate shell height,8.5,8.265,cm
+Glycymerididae,Glycymeris pilosa,Wwb,wet weight at birth,5.8e-08,5.381e-08,g
+Glycymerididae,Glycymeris pilosa,Wwi,ultimate wet weight,181.7,182.8,g
+Glycymerididae,Glycymeris pilosa,Ri,maximum reprod rate,100000.0,107000.0,#/d
+Hiatellidae,Hiatella arctica,am,life span,45990.0,45990.0,d
+Hiatellidae,Hiatella arctica,Lj,shell length at metam,0.075,0.07558,cm
+Hiatellidae,Hiatella arctica,Lp,shell length at puberty,1.2,1.202,cm
+Hiatellidae,Hiatella arctica,Li,ultimate shell length,7.6,6.928,cm
+Hiatellidae,Hiatella arctica,Wwb,wet weight at birth,6e-07,5.985e-07,g
+Hiatellidae,Hiatella arctica,Wdi,ultimate dry weight,2.9,2.985,g
+Hiatellidae,Hiatella arctica,Ri,maximum reprod rate,15890.0,11510.0,#/d
+Hiatellidae,Panopea abbreviata,ab,age at birth,1.0,1.07,d
+Hiatellidae,Panopea abbreviata,am,life span,53290.0,53140.0,d
+Hiatellidae,Panopea abbreviata,Lp,shell length at puberty,3.9,3.883,cm
+Hiatellidae,Panopea abbreviata,Li,ultimate shell length,25.0,24.78,cm
+Hiatellidae,Panopea abbreviata,Wwb,wet weight at birth,2.8e-06,2.726e-06,g
+Hiatellidae,Panopea abbreviata,Wwi,ultimate wet weight,3000.0,3033.0,g
+Hiatellidae,Panopea abbreviata,Ri,maximum reprod rate,411000.0,424400.0,#/d
+Lasaeidae,Kurtiella bidentata,am,life span,1460.0,1470.0,d
+Lasaeidae,Kurtiella bidentata,Lb,shell length at birth,0.014,0.01392,cm
+Lasaeidae,Kurtiella bidentata,Lj,shell length at settling,0.028,0.02801,cm
+Lasaeidae,Kurtiella bidentata,Lp,shell length at puberty,0.16,0.1455,cm
+Lasaeidae,Kurtiella bidentata,Li,ultimate shell height,0.39,0.3946,cm
+Lasaeidae,Kurtiella bidentata,Wwi,ultimate wet weight,0.042,0.04168,g
+Lasaeidae,Lasaea rubra,ab,age at birth,60.0,56.74,d
+Lasaeidae,Lasaea rubra,am,life span,1460.0,1463.0,d
+Lasaeidae,Lasaea rubra,Lb,shell length at birth,0.06,0.05898,cm
+Lasaeidae,Lasaea rubra,Lp,shell length at puberty,0.11,0.1096,cm
+Lasaeidae,Lasaea rubra,Li,ultimate shell height,0.32,0.2859,cm
+Lasaeidae,Lasaea rubra,Wwi,ultimate wet weight,0.023,0.02334,g
+Laternulidae,Laternula elliptica,tp,time since birth at puberty,1095.0,1066.0,d
+Laternulidae,Laternula elliptica,am,life span,5110.0,5111.0,d
+Laternulidae,Laternula elliptica,Lj,shell length at metamorphosis,0.06,0.065,cm
+Laternulidae,Laternula elliptica,Li,ultimate shell length,9.0,11.5,cm
+Laternulidae,Laternula elliptica,Wwb,wet weight at birth,9e-07,8.764e-07,g
+Laternulidae,Laternula elliptica,GSI,gonado somatic index,0.15,0.1499,g/g
+Mactridae,Amarilladesma mactroides,am,life span,2190.0,2216.0,d
+Mactridae,Amarilladesma mactroides,Lp,shell length at puberty,4.0,3.981,cm
+Mactridae,Amarilladesma mactroides,Li,ultimate shell length,8.5,8.628,cm
+Mactridae,Amarilladesma mactroides,Wwb,wet weight at birth,4.2e-06,4.252e-06,g
+Mactridae,Amarilladesma mactroides,Wwi,ultimate wet tissue weight,11.6,11.61,g
+Mactridae,Amarilladesma mactroides,Ri,maximum reprod rate,3000.0,2963.0,#/d
+Mactridae,Spisula solidissima,ab,age at birth,2.0,2.12,d
+Mactridae,Spisula solidissima,aj,age at metamorphosis,30.0,14.74,d
+Mactridae,Spisula solidissima,ap,age at puberty,365.0,414.0,d
+Mactridae,Spisula solidissima,am,life span,11320.0,11540.0,d
+Mactridae,Spisula solidissima,Lb,shell length at birth,0.0056,0.00521,cm
+Mactridae,Spisula solidissima,Lj,shell length at metamorphosis,0.025,0.02662,cm
+Mactridae,Spisula solidissima,Lp,shell length at puberty,4.0,3.328,cm
+Mactridae,Spisula solidissima,Li,ultimate shell length,22.6,18.94,cm
+Mactridae,Spisula solidissima,Wdb,dry tissue weight at birth,9.19e-08,7.361e-08,g
+Mactridae,Spisula solidissima,Wdj,dry tissue weight at metamorphosis,8.18e-06,9.817e-06,g
+Mactridae,Spisula solidissima,Ri,maximum reprod rate,360000.0,369400.0,#/d
+Mactridae,Spisula subtruncata,ab,age at birth,3.0,1.722,d
+Mactridae,Spisula subtruncata,tj,time since birth at metamorphosis,24.0,23.74,d
+Mactridae,Spisula subtruncata,tp,time since birth at puberty,180.0,172.2,d
+Mactridae,Spisula subtruncata,am,life span,1460.0,1468.0,d
+Mactridae,Spisula subtruncata,Lp,shell lenght at puberty,1.0,0.8836,cm
+Mactridae,Spisula subtruncata,Li,ultimate shell height,3.5,3.509,cm
+Mactridae,Spisula subtruncata,Wwb,wet weight at birth,9.7e-08,9.641e-08,g
+Mactridae,Spisula subtruncata,Wdp,ashfree dry weight at puberty,0.02,0.004586,g
+Mactridae,Spisula subtruncata,WdR1,ashfree dry gonadal mass at 0.05 g AFDW,0.014,0.0,g
+Mactridae,Spisula subtruncata,WdR2,ashfree dry gonadal mass at 0.13 g AFDW,0.03,0.02904,g
+Mactridae,Spisula subtruncata,WdR3,ashfree dry gonadal mass at 0.17 g AFDW,0.038,0.03505,g
+Myidae,Mya arenaria,ab,age at birth,2.0,2.069,d
+Myidae,Mya arenaria,tj,time since birth at metam,291.0,285.4,d
+Myidae,Mya arenaria,am,life span,10220.0,10220.0,d
+Myidae,Mya arenaria,Lb,shell length at birth,0.0165,0.05995,cm
+Myidae,Mya arenaria,Lp,shell length at puberty,2.34,2.424,cm
+Myidae,Mya arenaria,Li,ultimate shell length,15.0,19.31,cm
+Myidae,Mya arenaria,Wdp,dry weight at puberty,0.03,0.03103,g
+Myidae,Mya arenaria,Wdi,ultimate dry weight,22.3,15.68,g
+Myidae,Mya arenaria,Ri,maximum reprod rate,8219.0,8956.0,#/d
+Mytilidae,Brachidontes pharaonis,ab,age at birth,1.1,1.049,d
+Mytilidae,Brachidontes pharaonis,tj,time since birth at metam,24.0,16.49,d
+Mytilidae,Brachidontes pharaonis,tp,time since birth at puberty,182.0,237.6,d
+Mytilidae,Brachidontes pharaonis,am,life span,1460.0,1411.0,d
+Mytilidae,Brachidontes pharaonis,Lb,shell height at birth,0.009,0.008743,cm
+Mytilidae,Brachidontes pharaonis,Lj,shell height at metam,0.0273,0.07747,cm
+Mytilidae,Brachidontes pharaonis,Lp,shell height at puberty,0.75,1.095,cm
+Mytilidae,Brachidontes pharaonis,Li,shell height length,3.8,3.374,cm
+Mytilidae,Brachidontes pharaonis,Wwp,wet weight at puberty,0.084,0.06876,g
+Mytilidae,Brachidontes pharaonis,Wwi,ultimate wet weight,1.546,2.011,g
+Mytilidae,Brachidontes pharaonis,Ri,maximum reprod rate,1208.0,1202.0,#/d
+Mytilidae,Geukensia demissa,am,life span,6935.0,7032.0,d
+Mytilidae,Geukensia demissa,Lj,shell height at metam,0.05,0.05011,cm
+Mytilidae,Geukensia demissa,Lp,shell height at puberty,2.0,2.192,cm
+Mytilidae,Geukensia demissa,Li,ultimate shell height,13.0,13.33,cm
+Mytilidae,Geukensia demissa,Wwb,wet weight at birth,5e-08,4.995e-08,g
+Mytilidae,Geukensia demissa,Wwi,ultimate wet weight,52.2,51.57,g
+Mytilidae,Geukensia demissa,Ri,maximum reprod rate,100000.0,102100.0,#/d
+Mytilidae,Leiosolenus patagonicus,am,life span,5475.0,5530.0,d
+Mytilidae,Leiosolenus patagonicus,Lp,total length at puberty,1.7,1.667,cm
+Mytilidae,Leiosolenus patagonicus,Li,ultimate total length,3.7,3.574,cm
+Mytilidae,Leiosolenus patagonicus,Wwb,wet weight at birth,9.7e-07,9.848e-07,g
+Mytilidae,Leiosolenus patagonicus,Wdp,dry weight at puberty,0.0353,0.03375,g
+Mytilidae,Leiosolenus patagonicus,Wdi,ultimate dry weight,0.337,0.3324,g
+Mytilidae,Leiosolenus patagonicus,GSI,gonado somatic index,0.12,0.1209,g/g
+Mytilidae,Lithophaga lithophaga,am,life span,20080.0,20740.0,d
+Mytilidae,Lithophaga lithophaga,Lp,total length at puberty,4.0,4.166,cm
+Mytilidae,Lithophaga lithophaga,Li,ultimate total length,9.5,9.175,cm
+Mytilidae,Lithophaga lithophaga,Wwb,wet weight at birth,9.7e-07,9.671e-07,g
+Mytilidae,Lithophaga lithophaga,Wdp,dry weight at puberty,0.25,0.238,g
+Mytilidae,Lithophaga lithophaga,Wdi,ultimate dry weight,2.42,2.542,g
+Mytilidae,Lithophaga lithophaga,GSI,gonado somatic index,0.12,0.1114,g/g
+Mytilidae,Modiolus barbatus,am,life span,4745.0,4746.0,d
+Mytilidae,Modiolus barbatus,Lp,total length at puberty,3.0,2.963,cm
+Mytilidae,Modiolus barbatus,Li,ultimate total length,6.0,5.838,cm
+Mytilidae,Modiolus barbatus,Wwb,wet weight at birth,2.8e-07,2.735e-07,g
+Mytilidae,Modiolus barbatus,Wwi,ultimate wet weight,22.2,22.39,g
+Mytilidae,Modiolus barbatus,Ri,reproduction rate at SL 8.1 cm,10140.0,10060.0,#/d
+Mytilidae,Modiolus modiolus,am,life span,18250.0,18230.0,d
+Mytilidae,Modiolus modiolus,Lp,total length at puberty,4.0,3.965,cm
+Mytilidae,Modiolus modiolus,Li,ultimate total length,22.0,18.39,cm
+Mytilidae,Modiolus modiolus,Wwb,wet weight at birth,2.8e-07,2.622e-07,g
+Mytilidae,Modiolus modiolus,Wwi,ultimate wet weight,897.0,949.2,g
+Mytilidae,Modiolus modiolus,Ri,reproduction rate at SL 8.1 cm,10140.0,9818.0,#/d
+Mytilidae,Musculus discors,am,life span,2920.0,2920.0,d
+Mytilidae,Musculus discors,Lb,shell length at birth,0.1,0.1036,cm
+Mytilidae,Musculus discors,Lp,shell length at puberty,0.7,0.6999,cm
+Mytilidae,Musculus discors,Li,ultimate shell height,2.2,2.589,cm
+Mytilidae,Musculus discors,Wwi,ultimate wet weight,0.39,0.3879,g
+Mytilidae,Musculus discors,Ri,maximum reprod rate,0.263,0.2638,#/d
+Mytilidae,Mytilaster minimus,ab,age at birth,1.1,1.115,d
+Mytilidae,Mytilaster minimus,tp,time since birth at puberty,182.0,187.9,d
+Mytilidae,Mytilaster minimus,am,life span,3650.0,3650.0,d
+Mytilidae,Mytilaster minimus,Lb,total length at birth,0.018,0.01797,cm
+Mytilidae,Mytilaster minimus,Lj,total length at metam,0.25,0.248,cm
+Mytilidae,Mytilaster minimus,Lp,total length at puberty,0.45,0.4746,cm
+Mytilidae,Mytilaster minimus,Li,ultimate total length,2.0,2.003,cm
+Mytilidae,Mytilaster minimus,Wwp,wet weight at puberty,0.015,0.006655,g
+Mytilidae,Mytilaster minimus,Wwi,ultimate wet weight,0.5,0.5007,g
+Mytilidae,Mytilaster minimus,Ri,maximum reprod rate,1400.0,1402.0,#/d
+Mytilidae,Mytilus californianus,ab,age at birth,1.0,1.03,d
+Mytilidae,Mytilus californianus,tj,time since birth at metam,3.0,2.738,d
+Mytilidae,Mytilus californianus,tp,time since birth at puberty,365.0,345.1,d
+Mytilidae,Mytilus californianus,am,life span,7300.0,7314.0,d
+Mytilidae,Mytilus californianus,Lb,total length at birth,0.018,0.01561,cm
+Mytilidae,Mytilus californianus,Lj,total length at metam,0.026,0.03142,cm
+Mytilidae,Mytilus californianus,Lp,total length at puberty,4.0,2.567,cm
+Mytilidae,Mytilus californianus,Li,ultimate total length,20.0,16.76,cm
+Mytilidae,Mytilus californianus,Wwp,wet weight at puberty,0.325,0.3803,g
+Mytilidae,Mytilus californianus,Wwi,ultimate wet weight,100.0,105.8,g
+Mytilidae,Mytilus californianus,Ri,maximum reprod rate,32880.0,33040.0,#/d
+Mytilidae,Mytilus edulis,ab,age at birth,0.2,0.3318,d
+Mytilidae,Mytilus edulis,tp,time since birth at puberty,365.0,288.0,d
+Mytilidae,Mytilus edulis,am,life span,8760.0,9595.0,d
+Mytilidae,Mytilus edulis,Lb,shell height at birth,0.009,0.008895,cm
+Mytilidae,Mytilus edulis,Lp,shell height at puberty,1.2,1.167,cm
+Mytilidae,Mytilus edulis,Li,ultimate shell height,15.0,14.19,cm
+Mytilidae,Mytilus edulis,Wwb,wet weight at birth,2.69e-08,3.047e-08,g
+Mytilidae,Mytilus edulis,Wwp,wet weight at puberty,0.0638,0.06881,g
+Mytilidae,Mytilus edulis,Wwi,ultimate wet weight,124.6,123.7,g
+Mytilidae,Mytilus edulis,Ri,maximum reprod rate,5650.0,6027.0,#/d
+Mytilidae,Mytilus edulis,GSI,gonado somatic index,0.2,0.0007691,g/g
+Mytilidae,Mytilus galloprovincialis,ab,age at birth,1.0,1.096,d
+Mytilidae,Mytilus galloprovincialis,aj,time since birth at metam,27.0,23.05,d
+Mytilidae,Mytilus galloprovincialis,ap,time since birth at puberty,210.0,227.2,d
+Mytilidae,Mytilus galloprovincialis,am,life span,4380.0,4379.0,d
+Mytilidae,Mytilus galloprovincialis,Lb,shell length at birth,0.01,0.01195,cm
+Mytilidae,Mytilus galloprovincialis,Lj,shell length at metam,0.0272,0.1079,cm
+Mytilidae,Mytilus galloprovincialis,Lp,shell length at puberty,3.0,3.367,cm
+Mytilidae,Mytilus galloprovincialis,Li,ultimate shell length,15.0,14.58,cm
+Mytilidae,Mytilus galloprovincialis,Wwb,wet weight at birth,2.69e-08,2.466e-08,g
+Mytilidae,Mytilus galloprovincialis,Wwp,wet weight at puberty,0.81,0.5342,g
+Mytilidae,Mytilus galloprovincialis,Wwi,ultimate wet weight,25.75,43.38,g
+Mytilidae,Mytilus galloprovincialis,GSI,gonado somatic index,1.5,1.516,g/g
+Mytilidae,Mytilus trossulus,ab,age at birth,1.75,1.859,d
+Mytilidae,Mytilus trossulus,tj,time since birth at metam,22.0,5.355,d
+Mytilidae,Mytilus trossulus,tp,time since birth at puberty,365.0,367.4,d
+Mytilidae,Mytilus trossulus,am,life span,1260.0,1260.0,d
+Mytilidae,Mytilus trossulus,Lb,shell height at birth,0.011,0.011,cm
+Mytilidae,Mytilus trossulus,Lj,shell height at metam,0.027,0.1081,cm
+Mytilidae,Mytilus trossulus,Lp,shell height at puberty,4.5,4.5,cm
+Mytilidae,Mytilus trossulus,Li,ultimate shell height,7.08,7.503,cm
+Mytilidae,Mytilus trossulus,Wdb,dry weight at birth,7e-07,6.703e-07,g
+Mytilidae,Mytilus trossulus,Wdj,dry weight at metam,1.035e-05,1.033e-05,g
+Mytilidae,Mytilus trossulus,Wdp,dry weight at puberty,0.75,0.7454,g
+Mytilidae,Mytilus trossulus,Wdi,ultimate dry weight,3.4,3.455,g
+Mytilidae,Mytilus trossulus,Ri,maximum reprod rate,16400.0,15970.0,#/d
+Mytilidae,Perna canaliculus,ab,age at birth,4.0,1.93,d
+Mytilidae,Perna canaliculus,tj,time since birth at metamorphosis,16.0,17.65,d
+Mytilidae,Perna canaliculus,tp,time since birth at puberty,150.0,134.4,d
+Mytilidae,Perna canaliculus,am,life span,7300.0,7059.0,d
+Mytilidae,Perna canaliculus,Lb,shell length at birth,0.0111,0.007383,cm
+Mytilidae,Perna canaliculus,Lj,shell length at metamorphosis,0.028,0.03227,cm
+Mytilidae,Perna canaliculus,Lp,shell length at puberty,2.7,2.971,cm
+Mytilidae,Perna canaliculus,Li,ultimate total length,14.5,19.48,cm
+Mytilidae,Perna canaliculus,Wdb,ash free dry weight at birth,5.669e-08,2.746e-08,g
+Mytilidae,Perna canaliculus,Wdj,ash free dry weight at metamorphosis,1.8e-06,1.493e-06,g
+Mytilidae,Perna canaliculus,Wdp,dry weight at puberty,0.15,0.1012,g
+Mytilidae,Perna canaliculus,Wdi,ultimate dry weight,35.0,28.52,g
+Mytilidae,Perna canaliculus,GSI,gonado somatic index,0.14,0.2106,-
+Mytilidae,Perna canaliculus,Ri,maximum reprod rate,274000.0,381300.0,#/d
+Mytilidae,Perna canaliculus,E0,energy content of an egg,0.0004,0.0006267,J
+Mytilidae,Perna perna,ab,age at birth,2.0,1.762,d
+Mytilidae,Perna perna,tj,time since birth at metam,12.0,9.128,d
+Mytilidae,Perna perna,tp,time since birth at puberty,100.0,99.05,d
+Mytilidae,Perna perna,am,life span,3285.0,3285.0,d
+Mytilidae,Perna perna,Lb,shell length at birth,0.008822,0.008822,cm
+Mytilidae,Perna perna,Lj,shell length at metam,0.0255,0.08732,cm
+Mytilidae,Perna perna,Lp,shell length at puberty,2.9,2.554,cm
+Mytilidae,Perna perna,Li,ultimate shell length,12.0,11.66,cm
+Mytilidae,Perna perna,Wwb,wet weight at birth,2.69e-08,2.626e-08,g
+Mytilidae,Perna perna,GSI,gonado somatic index,0.6,0.597,g/g
+Mytilidae,Perna viridis,ab,age at birth,0.9,0.9479,d
+Mytilidae,Perna viridis,tj,time since birth at metam,12.0,3.896,d
+Mytilidae,Perna viridis,tp,time since birth at puberty,75.0,63.92,d
+Mytilidae,Perna viridis,am,life span,1825.0,1825.0,d
+Mytilidae,Perna viridis,Lb,shell lenght at birth,0.008,0.008,cm
+Mytilidae,Perna viridis,Lj,shell lenght at metam,0.04,0.102,cm
+Mytilidae,Perna viridis,Lp,shell lenght at puberty,1.5,2.293,cm
+Mytilidae,Perna viridis,Li,ultimate shell lenght,23.0,22.83,cm
+Mytilidae,Perna viridis,Wdb,dry weight at birth,3e-08,3.03e-08,g
+Mytilidae,Perna viridis,Wdj,dry weight at metam,3e-06,2.465e-06,g
+Mytilidae,Perna viridis,Wdp,dry weight at puberty,0.03,0.02801,g
+Mytilidae,Perna viridis,Wdi,ultimate dry weight,28.0,27.67,g
+Mytilidae,Perna viridis,Ri,maximum reprod rate,159000.0,159300.0,#/d
+Mytilidae,Septifer virgatus,ab,age at birth,1.0,1.08,d
+Mytilidae,Septifer virgatus,tp,time since birth at puberty,365.0,242.4,d
+Mytilidae,Septifer virgatus,am,life span,4380.0,4381.0,d
+Mytilidae,Septifer virgatus,Lb,total length at birth,0.039,0.03529,cm
+Mytilidae,Septifer virgatus,Lp,total length at puberty,1.5,1.688,cm
+Mytilidae,Septifer virgatus,Li,ultimate total length,6.5,6.283,cm
+Mytilidae,Septifer virgatus,Wwp,wet weight at puberty,0.1,0.104,g
+Mytilidae,Septifer virgatus,Wwi,ultimate wet weight,5.81,5.365,g
+Mytilidae,Septifer virgatus,Ri,maximum reprod rate,2740.0,2741.0,#/d
+Neoleptonidae,Neolepton cobbi,am,life span,427.0,427.0,d
+Neoleptonidae,Neolepton cobbi,Lb,shell length at birth,0.026,0.02653,cm
+Neoleptonidae,Neolepton cobbi,Lp,shell length at puberty,0.13,0.1303,cm
+Neoleptonidae,Neolepton cobbi,Li,ultimate shell height,0.42,0.4735,cm
+Neoleptonidae,Neolepton cobbi,Wwi,ultimate wet weight,0.0173,0.01727,g
+Ostreidae,Crassostrea corteziensis,ab,age at birth,5.5,5.503,d
+Ostreidae,Crassostrea corteziensis,tj,time since birth at metam,14.5,7.941,d
+Ostreidae,Crassostrea corteziensis,tp,time since birth at puberty,26.6,42.62,d
+Ostreidae,Crassostrea corteziensis,am,life span,10950.0,11010.0,d
+Ostreidae,Crassostrea corteziensis,Lb,shell length at birth,0.01,0.01387,cm
+Ostreidae,Crassostrea corteziensis,Lj,shell length at metam,0.034,0.1306,cm
+Ostreidae,Crassostrea corteziensis,Lp,total length at puberty,2.1,1.339,cm
+Ostreidae,Crassostrea corteziensis,Li,ultimate total length,13.0,11.33,cm
+Ostreidae,Crassostrea corteziensis,Wdi,ultimate dry weight,9.0,9.01,g
+Ostreidae,Crassostrea corteziensis,Ri,maximum reprod rate,400000.0,418000.0,#/d
+Ostreidae,Crassostrea virginica,ab,age at birth,1.5,1.742,d
+Ostreidae,Crassostrea virginica,aj,age at metamorphosis,20.0,14.44,d
+Ostreidae,Crassostrea virginica,ap,age at puberty,84.0,181.4,d
+Ostreidae,Crassostrea virginica,am,life span,7300.0,7254.0,d
+Ostreidae,Crassostrea virginica,Lb,diameter of a D-larvae,0.0075,0.008234,cm
+Ostreidae,Crassostrea virginica,Lj,diameter of a settling larvae,0.035,0.03178,cm
+Ostreidae,Crassostrea virginica,Lp,shell height,3.0,3.772,cm
+Ostreidae,Crassostrea virginica,Li,ultimate shell height,20.6,28.97,cm
+Ostreidae,Crassostrea virginica,Wdb,dry weight at birth,1.5e-07,1.294e-07,g
+Ostreidae,Crassostrea virginica,Wdj,dry weight at metamorphosis,7.5e-06,7.44e-06,g
+Ostreidae,Crassostrea virginica,Wdp,dry weight at puberty,0.12,0.09312,g
+Ostreidae,Crassostrea virginica,Wdi,ultimate dry weight,35.8,42.19,g
+Ostreidae,Crassostrea virginica,Ri,maximum reprod rate,1300000.0,153800.0,#/d
+Ostreidae,Magallana gigas,ab,age at birth,5.5,1.589,d
+Ostreidae,Magallana gigas,tj,time since birth at metam,14.5,3.407,d
+Ostreidae,Magallana gigas,tp,time since birth at puberty,26.6,11.29,d
+Ostreidae,Magallana gigas,am,life span,10950.0,16430.0,d
+Ostreidae,Magallana gigas,Lb,shell length at birth,0.01,0.003709,cm
+Ostreidae,Magallana gigas,Lj,shell length at metam,0.034,0.08886,cm
+Ostreidae,Magallana gigas,Lp,shell length at puberty,0.588,0.4169,cm
+Ostreidae,Magallana gigas,Li,ultimate shell length,45.0,31.09,cm
+Ostreidae,Magallana gigas,Wdb,dry weight at birth,5e-08,2.598e-08,g
+Ostreidae,Magallana gigas,Wdj,dry weight at metam,2e-06,3.198e-06,g
+Ostreidae,Magallana gigas,Wwp,wet weight at puberty,0.0029,0.00367,g
+Ostreidae,Magallana gigas,Wwi,ultimate wet weight,1431.0,1522.0,g
+Ostreidae,Magallana gigas,Ri,maximum reprod rate,2700000.0,2930000.0,#/d
+Ostreidae,Magallana gigas,GSI,gonado somatic index,0.64,0.2833,g/g
+Ostreidae,Magallana gigas,KV,half saturation coefficient,600000000.0,373000000.0,mum^3/dm^3
+Ostreidae,Ostrea chilensis,am,life span,2190.0,2006.0,d
+Ostreidae,Ostrea chilensis,Lb,total length at start feeding,0.035,0.01691,cm
+Ostreidae,Ostrea chilensis,Lr,total length at release,0.0461,0.04426,cm
+Ostreidae,Ostrea chilensis,Li,maximum length,9.0,9.579,cm
+Ostreidae,Ostrea chilensis,Ww0,wet weight of eggs,4.6e-06,5.214e-06,g
+Ostreidae,Ostrea chilensis,Wdr,weight at release,8e-06,7.927e-06,g
+Ostreidae,Ostrea chilensis,Wwp,wet weight at puberty,1.062,1.102,g
+Ostreidae,Ostrea chilensis,Wwi,ultimate wet weight,4.98,99.8,g
+Ostreidae,Ostrea edulis,am,life span,12780.0,12790.0,d
+Ostreidae,Ostrea edulis,Lb,length at birth,0.015,0.01776,cm
+Ostreidae,Ostrea edulis,Lr,length at release,0.0183,0.01942,cm
+Ostreidae,Ostrea edulis,Ls,length at eyespot,0.03,0.04341,cm
+Ostreidae,Ostrea edulis,Li,maximul length,23.0,24.02,cm
+Ostreidae,Ostrea edulis,Ww0,initial wet weight,1.44e-06,1.362e-06,g
+Ostreidae,Ostrea edulis,Wdr,dry weight at release,1.7e-07,1.407e-07,g
+Ostreidae,Ostrea edulis,Wwp,wet weight at puberty,1.062,1.062,g
+Ostreidae,Saccostrea cuccullata,am,life span,9490.0,9492.0,d
+Ostreidae,Saccostrea cuccullata,Lp,total length at puberty,0.58,0.5528,cm
+Ostreidae,Saccostrea cuccullata,Li,maximum length,8.0,7.43,cm
+Ostreidae,Saccostrea cuccullata,Wwb,tissue wet weight at birth,4.6e-06,4.134e-06,g
+Ostreidae,Saccostrea cuccullata,Wdi,ultimate dry weight,3.5,3.643,g
+Ostreidae,Saccostrea cuccullata,Ri,max reproduction rate,29000.0,1064.0,#/d
+Pectinidae,Adamussium colbecki,ab,age at birth,7.375,7.04,d
+Pectinidae,Adamussium colbecki,tj,age at metamorphosis since birth,90.0,32.32,d
+Pectinidae,Adamussium colbecki,ap,age at puberty,2372.0,2399.0,d
+Pectinidae,Adamussium colbecki,am,life span,6570.0,6564.0,d
+Pectinidae,Adamussium colbecki,Lb,larval shell at birth (trochophore stadium),0.0055,0.005508,cm
+Pectinidae,Adamussium colbecki,Lj,larval shell at metamorphosis (PII),0.0344,0.0339,cm
+Pectinidae,Adamussium colbecki,Lp,size at puberty,5.0,5.102,cm
+Pectinidae,Adamussium colbecki,Li,maximum measured size,9.2,9.589,cm
+Pectinidae,Adamussium colbecki,Wwb,wet weight at birth,8.711e-08,8.893e-08,g
+Pectinidae,Adamussium colbecki,Wwp,wet weight at puberty,9.0,8.469,g
+Pectinidae,Adamussium colbecki,Wwi,ultimate wet weight,50.0,56.21,g
+Pectinidae,Aequipecten opercularis,ab,age at birth,2.0,1.968,d
+Pectinidae,Aequipecten opercularis,tj,time since birth at metam,20.0,21.14,d
+Pectinidae,Aequipecten opercularis,tp,time since birth at puberty,365.0,378.9,d
+Pectinidae,Aequipecten opercularis,am,life span,3650.0,3649.0,d
+Pectinidae,Aequipecten opercularis,Li,ultimate shell height,9.0,9.102,cm
+Pectinidae,Aequipecten opercularis,Wwb,wet weight at birth,1.64e-07,1.812e-07,g
+Pectinidae,Aequipecten opercularis,Wwi,ultimate wet weight,107.0,106.7,g
+Pectinidae,Aequipecten opercularis,Ri,max reproduction rate,16440.0,13740.0,#/d
+Pectinidae,Argopecten purpuratus,ab,age at birth,4.0,0.4165,d
+Pectinidae,Argopecten purpuratus,tj,time since birth at metam,24.0,1.552,d
+Pectinidae,Argopecten purpuratus,tp,time since birth at puberty,60.0,64.26,d
+Pectinidae,Argopecten purpuratus,am,life span,1825.0,1829.0,d
+Pectinidae,Argopecten purpuratus,Lb,shell height at birth,0.01,0.009254,cm
+Pectinidae,Argopecten purpuratus,Lj,shell height at metam,0.0388,0.05005,cm
+Pectinidae,Argopecten purpuratus,Lp,shell height at puberty,2.0,2.58,cm
+Pectinidae,Argopecten purpuratus,Li,ultimate shell height,11.0,14.09,cm
+Pectinidae,Argopecten purpuratus,Wdb,dry weight at birth,1.334e-07,6.157e-09,g
+Pectinidae,Argopecten purpuratus,Wdj,dry weight at metam,9.8e-07,9.74e-07,g
+Pectinidae,Argopecten purpuratus,Wdp,dry weight at puberty,0.16,0.1334,g
+Pectinidae,Argopecten purpuratus,Wdi,ultimate dry weight,19.24,21.75,g
+Pectinidae,Argopecten purpuratus,Ri,maximum reprod rate,893000.0,901600.0,#/d
+Pectinidae,Chlamys islandica,ab,age at birth,8.0,7.39,d
+Pectinidae,Chlamys islandica,tj,time since birth at metam,75.0,76.98,d
+Pectinidae,Chlamys islandica,am,life span,8395.0,8398.0,d
+Pectinidae,Chlamys islandica,Lp,shell height at puberty,2.45,2.447,cm
+Pectinidae,Chlamys islandica,Li,ultimate shell height,11.0,11.61,cm
+Pectinidae,Chlamys islandica,Wwb,wet weight at birth,1.8e-07,1.835e-07,g
+Pectinidae,Chlamys islandica,WdR,gonad dry weight at shell height 6.7 cm,4.5,4.263,g
+Pectinidae,Mimachlamys asperrima,ab,age at birth,2.0,2.023,d
+Pectinidae,Mimachlamys asperrima,tj,time since birth at metam,20.0,19.99,d
+Pectinidae,Mimachlamys asperrima,am,life span,3650.0,3643.0,d
+Pectinidae,Mimachlamys asperrima,Lp,shell height at puberty,5.75,5.461,cm
+Pectinidae,Mimachlamys asperrima,Li,ultimate shell height,11.0,11.0,cm
+Pectinidae,Mimachlamys asperrima,Wwb,wet weight at birth,1.64e-07,1.637e-07,g
+Pectinidae,Mimachlamys asperrima,GSI,gonadic somatic index,0.35,0.3504,g/g
+Pectinidae,Mimachlamys varia,ab,age at birth,2.0,1.94,d
+Pectinidae,Mimachlamys varia,tj,time since birth at metam,20.0,20.51,d
+Pectinidae,Mimachlamys varia,am,life span,2555.0,2587.0,d
+Pectinidae,Mimachlamys varia,Lp,shell height at puberty,5.75,5.297,cm
+Pectinidae,Mimachlamys varia,Li,ultimate shell height,8.0,7.69,cm
+Pectinidae,Mimachlamys varia,Wwb,wet weight at birth,1.64e-07,1.625e-07,g
+Pectinidae,Mimachlamys varia,Wwi,ultimate wet weight,31.7,31.04,g
+Pectinidae,Mimachlamys varia,Ri,max reproduction rate,16440.0,16550.0,#/d
+Pectinidae,Nodipecten subnodosus,ab,age at birth,1.0,0.9368,d
+Pectinidae,Nodipecten subnodosus,tj,time since birth at metam,14.0,5.548,d
+Pectinidae,Nodipecten subnodosus,tp,time since birth at puberty,406.0,370.1,d
+Pectinidae,Nodipecten subnodosus,am,life span,2555.0,2166.0,d
+Pectinidae,Nodipecten subnodosus,Lb,shell length at birth,0.006,0.005253,cm
+Pectinidae,Nodipecten subnodosus,Lj,shell length at metam,0.021,0.08383,cm
+Pectinidae,Nodipecten subnodosus,Lp,shell length at puberty,6.6,7.191,cm
+Pectinidae,Nodipecten subnodosus,Li,ultimate shell length  ,19.0,19.73,cm
+Pectinidae,Nodipecten subnodosus,Wdb,dry weight at birth,2.34e-08,4.706e-08,g
+Pectinidae,Nodipecten subnodosus,Wdj,dry weight at metam,1.682e-07,7.673e-06,g
+Pectinidae,Nodipecten subnodosus,Wwp,Mass Wet weight at puberty,25.34,24.21,g
+Pectinidae,Nodipecten subnodosus,Wwi,ultimate wet total weight,513.5,500.4,g
+Pectinidae,Nodipecten subnodosus,R_L,reprod rate at a large size,84250.0,87980.0,#/d
+Pectinidae,Nodipecten subnodosus,E_0,egg energy content,0.00212,0.001377,J
+Pectinidae,Patinopecten caurinus,tp,time since birth at puberty,1095.0,1088.0,d
+Pectinidae,Patinopecten caurinus,am,life span,7665.0,7665.0,d
+Pectinidae,Patinopecten caurinus,Lj,shell length at metamorphosis,0.06,0.06602,cm
+Pectinidae,Patinopecten caurinus,Li,ultimate shell length,17.0,16.52,cm
+Pectinidae,Patinopecten caurinus,Wwb,wet weight at birth,4.2e-06,4.07e-06,g
+Pectinidae,Patinopecten caurinus,GSI,gonado somatic index,0.15,0.1508,g/g
+Pectinidae,Pecten maximus,ab,age at birth,2.0,1.378,d
+Pectinidae,Pecten maximus,tj,time since birth at metam,25.0,6.299,d
+Pectinidae,Pecten maximus,tp,time since birth at puberty,365.0,246.7,d
+Pectinidae,Pecten maximus,am,life span,7300.0,4806.0,d
+Pectinidae,Pecten maximus,Lb,shell height at birth,0.008,0.02815,cm
+Pectinidae,Pecten maximus,Lj,shell height at metam,0.024,0.1231,cm
+Pectinidae,Pecten maximus,Lp,shell height at puberty,4.0,5.56,cm
+Pectinidae,Pecten maximus,Li,ultimate shell height,12.0,13.77,cm
+Pectinidae,Pecten maximus,Wdb,dry weight at birth,1.04e-07,1.444e-07,g
+Pectinidae,Pecten maximus,Wdj,dry weight at metam,3e-06,1.208e-05,g
+Pectinidae,Pecten maximus,Wdp,dry weight at puberty,1.0,1.112,g
+Pectinidae,Pecten maximus,Wdi,ultimate dry weight,20.0,16.91,g
+Pectinidae,Pecten maximus,Ri,maximum reprod rate,57530.0,78840.0,#/d
+Pectinidae,Placopecten magellanicus,ab,age at birth,4.0,2.09,d
+Pectinidae,Placopecten magellanicus,aj,age at metamorphosis,35.0,4.839,d
+Pectinidae,Placopecten magellanicus,ap,age at puberty,365.0,186.2,d
+Pectinidae,Placopecten magellanicus,am,life span,7300.0,7400.0,d
+Pectinidae,Placopecten magellanicus,Lb,shell length at birth,0.0105,0.01069,cm
+Pectinidae,Placopecten magellanicus,Lj,shell length at metamorphosis,0.035,0.0367,cm
+Pectinidae,Placopecten magellanicus,Lp,shell length at puberty,2.5,3.486,cm
+Pectinidae,Placopecten magellanicus,Li,ultimate shell length,23.0,16.56,cm
+Pectinidae,Placopecten magellanicus,Wdb,dry tissue weight at birth,1.5e-07,1.12e-07,g
+Pectinidae,Placopecten magellanicus,Wdj,dry tissue weight at metamorphosis,4e-06,4.529e-06,g
+Pectinidae,Placopecten magellanicus,Wdp,dry tissue weight at puberty,0.5,0.581,g
+Pectinidae,Placopecten magellanicus,Wdi,ultimate dry tissue weight,50.0,62.23,g
+Pectinidae,Placopecten magellanicus,Ri,maximum reprod rate,300000.0,263300.0,#/d
+Pectinidae,Zygochlamys patagonica,tp,time since birth at puberty,1095.0,1196.0,d
+Pectinidae,Zygochlamys patagonica,am,life span,7665.0,7665.0,d
+Pectinidae,Zygochlamys patagonica,Lj,shell length at metamorphosis,0.06,0.06214,cm
+Pectinidae,Zygochlamys patagonica,Li,ultimate shell length,7.0,7.625,cm
+Pectinidae,Zygochlamys patagonica,Wwb,wet weight at birth,4.2e-06,4.477e-06,g
+Philobryidae,Lissarca notorcadensis,am,life span,7300.0,7300.0,d
+Philobryidae,Lissarca notorcadensis,Lj,shell length at metam,0.0513,0.05183,cm
+Philobryidae,Lissarca notorcadensis,Lp,shell length at puberty,0.38,0.38,cm
+Philobryidae,Lissarca notorcadensis,Li,ultimate shell length,0.8,0.8562,cm
+Philobryidae,Lissarca notorcadensis,Wwb,wet weight at birth,5.72e-06,5.719e-06,g
+Philobryidae,Lissarca notorcadensis,Wdi,ultimate dry weight,0.0037,0.003699,g
+Philobryidae,Lissarca notorcadensis,Ri,maximum reprod rate for assumed SL 3 cm,0.1562,0.1563,#/d
+Pholadidae,Barnea candida,am,life span,1825.0,1775.0,d
+Pholadidae,Barnea candida,Lp,total length at puberty,1.7,1.57,cm
+Pholadidae,Barnea candida,Li,ultimate total length,3.82,3.492,cm
+Pholadidae,Barnea candida,Wwb,wet weight at birth,9.7e-07,9.676e-07,g
+Pholadidae,Barnea candida,Wdp,dry weight at puberty,0.0353,0.03232,g
+Pholadidae,Barnea candida,Wdi,ultimate dry weight,0.37,0.3557,g
+Pholadidae,Barnea candida,GSI,gonado somatic index,0.12,0.1206,g/g
+Pholadidae,Barnea parva,am,life span,2190.0,2251.0,d
+Pholadidae,Barnea parva,Lp,total length at puberty,1.7,1.727,cm
+Pholadidae,Barnea parva,Li,ultimate total length,4.6,4.59,cm
+Pholadidae,Barnea parva,Wwb,wet weight at birth,9.7e-07,9.68e-07,g
+Pholadidae,Barnea parva,Wdp,dry weight at puberty,0.0353,0.03376,g
+Pholadidae,Barnea parva,Wdi,ultimate dry weight,0.634,0.6335,g
+Pholadidae,Barnea parva,GSI,gonado somatic index,0.12,0.12,g/g
+Pholadidae,Penitella penita,tj,time since birth at metamorphosis,9.0,7.809,d
+Pholadidae,Penitella penita,tp,time since birth at puberty,730.0,777.4,d
+Pholadidae,Penitella penita,am,life span,7665.0,7604.0,d
+Pholadidae,Penitella penita,Li,ultimate shell depth,5.2,4.903,cm
+Pholadidae,Penitella penita,Wwb,wet weight at birth,1.131e-07,1.123e-07,g
+Pholadidae,Penitella penita,Wwi,ultimate wet weight,103.0,104.1,g
+Pholadidae,Penitella penita,Ri,maximum reprod rate,13700.0,13300.0,#/d
+Pholadidae,Pholas dactylus,am,life span,5475.0,5474.0,d
+Pholadidae,Pholas dactylus,Lp,total length at puberty,3.7,3.716,cm
+Pholadidae,Pholas dactylus,Li,ultimate total length,7.54,7.43,cm
+Pholadidae,Pholas dactylus,Wwb,wet weight at birth,9.7e-07,9.704e-07,g
+Pholadidae,Pholas dactylus,Wdp,dry weight at puberty,0.337,0.3344,g
+Pholadidae,Pholas dactylus,Wdi,ultimate dry weight,2.66,2.673,g
+Pholadidae,Pholas dactylus,GSI,gonado somatic index,0.12,0.1201,g/g
+Pinnidae,Atrina maura,am,life span,1095.0,1098.0,d
+Pinnidae,Atrina maura,Lp,total length at puberty,23.3,21.74,cm
+Pinnidae,Atrina maura,Li,ultimate total length,35.0,33.75,cm
+Pinnidae,Atrina maura,Wwb,wet weight at birth,8.2e-08,7.674e-08,g
+Pinnidae,Atrina maura,Ri,maximum reprod rate at SL 24 cm,547900.0,530900.0,#/d
+Pinnidae,Pinna nobilis,ab,age at birth,2.0,2.02,d
+Pinnidae,Pinna nobilis,aj,age at metamorphosis,10.0,6.57,d
+Pinnidae,Pinna nobilis,tp,age at puberty since birth,545.5,425.0,d
+Pinnidae,Pinna nobilis,am,life span,9855.0,9851.0,d
+Pinnidae,Pinna nobilis,Lb,total length at birth,0.0085,0.008515,cm
+Pinnidae,Pinna nobilis,Lj,total length at metamorphosis,0.1,0.2051,cm
+Pinnidae,Pinna nobilis,Lp,total length at puberty,16.5,22.32,cm
+Pinnidae,Pinna nobilis,Li,ultimate length in the wild,86.0,89.37,cm
+Pinnidae,Pinna nobilis,GSI,gonado somatic index,0.15,0.141,g/g
+Pinnidae,Pinna nobilis,E0,initial energy content,0.001,0.001047,J
+Pteriidae,Pinctada imbricata,am,life span,1095.0,1096.0,d
+Pteriidae,Pinctada imbricata,Lp,total length at puberty,0.97,0.9609,cm
+Pteriidae,Pinctada imbricata,Li,ultimate total length,8.51,9.178,cm
+Pteriidae,Pinctada imbricata,Wwb,wet weight at birth,1.43e-08,1.451e-08,g
+Pteriidae,Pinctada imbricata,Wwi,flesh wet weight,84.0,84.53,g
+Pteriidae,Pinctada imbricata,Ri,maximum reprod rate,10000000.0,10330000.0,#/d
+Pteriidae,Pinctada margaritifera,ab,age at birth stage,1.0,0.895,d
+Pteriidae,Pinctada margaritifera,aj,age at metamorphosis,18.0,21.5,d
+Pteriidae,Pinctada margaritifera,ap,age at puberty,365.0,230.3,d
+Pteriidae,Pinctada margaritifera,am,ultimate age,7300.0,7368.0,d
+Pteriidae,Pinctada margaritifera,Lb,shell diameter,0.006,0.002714,cm
+Pteriidae,Pinctada margaritifera,Lj,shell diameter,0.018,0.02666,cm
+Pteriidae,Pinctada margaritifera,Lp,shell height,4.0,2.014,cm
+Pteriidae,Pinctada margaritifera,Li,ultimate shell height,30.0,8.102,cm
+Pteriidae,Pinctada margaritifera,Wwb,wet weight at birth,1.6e-07,2.089e-08,g
+Pteriidae,Pinctada margaritifera,GSI,Gonado Somatic Index,0.5,0.5327,g/g
+Pteriidae,Pteria hirundo,am,life span,1825.0,1834.0,d
+Pteriidae,Pteria hirundo,Lp,total length at puberty,3.5,3.498,cm
+Pteriidae,Pteria hirundo,Li,ultimate shell length,8.0,7.604,cm
+Pteriidae,Pteria hirundo,Wwb,wet weight at birth,3.35e-08,3.34e-08,g
+Pteriidae,Pteria hirundo,Wwi,flesh wet weight,30.6,30.37,g
+Pteriidae,Pteria hirundo,GSI,gonado somatic index,0.3,0.3033,g/g
+Pteriidae,Pteria penguin,tj,time since birth at settlement,25.0,24.18,d
+Pteriidae,Pteria penguin,am,life span,1460.0,1460.0,d
+Pteriidae,Pteria penguin,Lp,total length at puberty,8.88,7.676,cm
+Pteriidae,Pteria penguin,Li,ultimate shell length,18.0,17.79,cm
+Pteriidae,Pteria penguin,Wwb,wet weight at birth,8.7e-08,8.791e-08,g
+Pteriidae,Pteria penguin,Wwi,flesh wet weight,317.0,315.2,g
+Pteriidae,Pteria penguin,GSI,gonado somatic index,0.3,0.2965,g/g
+Pteriidae,Pteria sterna,am,life span,1825.0,1824.0,d
+Pteriidae,Pteria sterna,Lp,total length at puberty,5.95,6.622,cm
+Pteriidae,Pteria sterna,Li,ultimate total length,9.5,8.588,cm
+Pteriidae,Pteria sterna,Wwb,wet weight at birth,3.35e-08,3.329e-08,g
+Pteriidae,Pteria sterna,Wwi,flesh wet weight,119.0,118.8,g
+Pteriidae,Pteria sterna,GSI,gonado somatic index,0.3,0.3039,g/g
+Semelidae,Abra segmentum,am,life span,610.0,610.0,d
+Semelidae,Abra segmentum,Lp,total length at puberty,0.9,0.8269,cm
+Semelidae,Abra segmentum,Li,ultimate total length,1.9,2.07,cm
+Semelidae,Abra segmentum,Wwb,wet weight at birth,4e-06,4e-06,g
+Semelidae,Abra segmentum,Ri,max reprod rate,68.49,66.31,#/d
+Solecurtidae,Tagelus plebeius,am,life span,457.5,457.7,d
+Solecurtidae,Tagelus plebeius,Lp,total length at puberty,2.0,1.77,cm
+Solecurtidae,Tagelus plebeius,Li,ultimate total length,6.5,6.214,cm
+Solecurtidae,Tagelus plebeius,Wwb,wet weight at birth,5e-08,4.999e-08,g
+Solecurtidae,Tagelus plebeius,Wdi,ultimate dry weight,2.5,2.495,g
+Solecurtidae,Tagelus plebeius,Ri,max reprod rate,219200.0,227100.0,#/d
+Solenidae,Ensis directus,ab,age at birth,5.0,2.749,d
+Solenidae,Ensis directus,tj,time since birth at metam,10.5,10.32,d
+Solenidae,Ensis directus,tp,time since birth at puberty,492.0,501.6,d
+Solenidae,Ensis directus,am,life span,2555.0,2555.0,d
+Solenidae,Ensis directus,Lb,shell length at birth,0.0136,0.005494,cm
+Solenidae,Ensis directus,Lj,shell length at metam,0.045,0.07891,cm
+Solenidae,Ensis directus,Lp,shell length at puberty,4.841,4.156,cm
+Solenidae,Ensis directus,L730,shell length at 730 d,8.0,8.488,cm
+Solenidae,Ensis directus,L1825,shell length at 1825 d,15.0,11.31,cm
+Solenidae,Ensis directus,Li,ultimate total length,17.1,11.81,cm
+Solenidae,Ensis directus,Wdi,ultimate ashfree dry weight,1.831,2.187,g
+Solenidae,Ensis directus,GSI,gonado somatic index,0.025,0.02398,g/g
+Solenidae,Ensis directus,Fm,maximum spec filtering rate,5.3,3.961,L/h
+Solenidae,Ensis siliqua,ab,age at birth,5.0,4.826,d
+Solenidae,Ensis siliqua,am,life span,7300.0,7315.0,d
+Solenidae,Ensis siliqua,Lj,shell length at metam,0.045,0.04451,cm
+Solenidae,Ensis siliqua,Lp,shell length at puberty,11.2,10.32,cm
+Solenidae,Ensis siliqua,Li,ultimate total length,21.5,23.01,cm
+Solenidae,Ensis siliqua,Wwb,wet weight at birth,3.5e-09,3.549e-09,g
+Solenidae,Ensis siliqua,Wwi,ultimate wet weight,110.0,109.0,g
+Solenidae,Ensis siliqua,GSI,gonado somatic index,0.13,0.1224,g/g
+Tellinidae,Macoma balthica,ab,age at birth,3.0,2.833,d
+Tellinidae,Macoma balthica,tp,time since birth at puberty,422.0,70.88,d
+Tellinidae,Macoma balthica,am,life span,3832.0,3829.0,d
+Tellinidae,Macoma balthica,Lb,total length at birth,0.015,0.01572,cm
+Tellinidae,Macoma balthica,Lp,total length at puberty,1.0,0.8181,cm
+Tellinidae,Macoma balthica,Li,ultimate total length,2.8,2.212,cm
+Tellinidae,Macoma balthica,Wdp,dry weight at puberty,0.0047,0.005638,g
+Tellinidae,Macoma balthica,Wdi,ultimate dry weight,0.131,0.1115,g
+Tellinidae,Macoma balthica,R16,reprod rate at 1.64 cm,158.9,157.7,#/d
+Tellinidae,Macomangulus tenuis,ab,age at birth,2.167,2.259,d
+Tellinidae,Macomangulus tenuis,am,life span,2190.0,2190.0,d
+Tellinidae,Macomangulus tenuis,Lj,shell length at metam,0.2,0.1955,cm
+Tellinidae,Macomangulus tenuis,Lp,shell length at puberty,1.0,1.0,cm
+Tellinidae,Macomangulus tenuis,Li,ultimate shell length,3.0,3.007,cm
+Tellinidae,Macomangulus tenuis,Wwb,wet weight at birth,1.44e-07,1.423e-07,g
+Tellinidae,Macomangulus tenuis,Wdi,ultimate dry weight,0.13,0.13,g
+Tellinidae,Macomangulus tenuis,Ri,maximum reprod rate at SL 3 cm,2185.0,462.4,#/d
+Teredinidae,Teredo navalis,ah,age at hatching,1.0,1.257,d
+Teredinidae,Teredo navalis,ab,age at birth,9.0,4.028,d
+Teredinidae,Teredo navalis,tj,time since birth at settlement,51.0,62.43,d
+Teredinidae,Teredo navalis,tp,time since settlement at puberty,56.0,37.33,d
+Teredinidae,Teredo navalis,am,life span,1095.0,1083.0,d
+Teredinidae,Teredo navalis,am11,life span,730.0,757.1,d
+Teredinidae,Teredo navalis,Lh,length of trochophora,0.005,0.003871,cm
+Teredinidae,Teredo navalis,Lb,shell length of umboveliger,0.012,0.01003,cm
+Teredinidae,Teredo navalis,Lj,body length at the end of metamorphosis,0.1,0.03908,cm
+Teredinidae,Teredo navalis,Lp,total length at puberty,4.0,2.391,cm
+Teredinidae,Teredo navalis,Li,ultimate total length,60.0,60.76,cm
+Teredinidae,Teredo navalis,Wwb,wet weight at birth,1.3e-07,1.129e-07,g
+Teredinidae,Teredo navalis,Wdp,dry weight at puberty,0.01,0.007057,g
+Teredinidae,Teredo navalis,Wwi,ultimate wet weight,47.0,50.63,g
+Teredinidae,Teredo navalis,Ri,maximum reprod rate,27400.0,26420.0,#/d
+Thyasiridae,Parathyasira sp,am,life span,2190.0,2186.0,d
+Thyasiridae,Parathyasira sp,Lb,total length at birth,0.0138,0.01377,cm
+Thyasiridae,Parathyasira sp,Lp,total length at puberty,0.28,0.2797,cm
+Thyasiridae,Parathyasira sp,Li,ultimate total length,0.514,0.4885,cm
+Thyasiridae,Parathyasira sp,Wdi,ultimate ash-free dry weight,0.002783,0.002911,g
+Thyasiridae,Parathyasira sp,Ri,maximum reprod rate,6.137,6.107,#/d
+Thyasiridae,Thyasira cf gouldi,am,life span,2190.0,2190.0,d
+Thyasiridae,Thyasira cf gouldi,Lb,total length at birth,0.0185,0.01858,cm
+Thyasiridae,Thyasira cf gouldi,Lp,total length at puberty,0.28,0.2801,cm
+Thyasiridae,Thyasira cf gouldi,Li,ultimate total length,0.514,0.5341,cm
+Thyasiridae,Thyasira cf gouldi,Wdi,ultimate ash-free dry weight,0.001882,0.001844,g
+Thyasiridae,Thyasira cf gouldi,Ri,maximum reprod rate,6.137,6.142,#/d
+Thyasiridae,Thyasira flexuosa,am,life span,1095.0,1095.0,d
+Thyasiridae,Thyasira flexuosa,Lb,total length at birth,0.0185,0.01931,cm
+Thyasiridae,Thyasira flexuosa,Lj,shell height at settlment,0.12,0.111,cm
+Thyasiridae,Thyasira flexuosa,Lp,total length at puberty,0.54,0.5394,cm
+Thyasiridae,Thyasira flexuosa,Li,ultimate total length,0.99,1.021,cm
+Thyasiridae,Thyasira flexuosa,Ri,maximum reprod rate,79.0,79.08,#/d
+Veneridae,Callista chione,ab,age at birth,2.167,2.098,d
+Veneridae,Callista chione,am,life span,16420.0,16420.0,d
+Veneridae,Callista chione,Lp,total length at puberty,5.1,5.099,cm
+Veneridae,Callista chione,Li,ultimate shell length,8.0,7.941,cm
+Veneridae,Callista chione,Wwb,wet weight at birth,3.8e-07,3.839e-07,g
+Veneridae,Callista chione,Wwi,ultimate wet weight,122.5,122.6,g
+Veneridae,Callista chione,Ri,maximum reprod rate,54790.0,65930.0,#/d
+Veneridae,Chamelea gallina,ab,age at birth,2.167,2.065,d
+Veneridae,Chamelea gallina,am,life span,16420.0,16340.0,d
+Veneridae,Chamelea gallina,Lp,total length at puberty,1.03,1.015,cm
+Veneridae,Chamelea gallina,Li,ultimate shell length,4.4,4.358,cm
+Veneridae,Chamelea gallina,Wwb,wet weight at birth,1.44e-07,1.447e-07,g
+Veneridae,Chamelea gallina,Wwi,ultimate wet weight,19.9,19.75,g
+Veneridae,Chamelea gallina,Ri,maximum reprod rate at SL 3 cm,2185.0,2166.0,#/d
+Veneridae,Dosinia exoleta,ab,age at birth,3.5,3.504,d
+Veneridae,Dosinia exoleta,am,life span,4380.0,4370.0,d
+Veneridae,Dosinia exoleta,Lp,total length at puberty,1.2,1.089,cm
+Veneridae,Dosinia exoleta,Li,ultimate shell length,6.0,6.59,cm
+Veneridae,Dosinia exoleta,Wwb,wet weight at birth,5.2e-07,5.203e-07,g
+Veneridae,Dosinia exoleta,Wwp,wet weight at puberty,0.13,0.135,g
+Veneridae,Dosinia exoleta,Wwi,ultimate wet weight,30.85,29.89,g
+Veneridae,Dosinia exoleta,Ri,maximum reprod rate,27400.0,27390.0,#/d
+Veneridae,Dosinia japonica,ab,age at birth,1.5,1.476,d
+Veneridae,Dosinia japonica,am,life span,4380.0,4347.0,d
+Veneridae,Dosinia japonica,Lj,total length at settlement,0.05,0.05276,cm
+Veneridae,Dosinia japonica,Lp,total length at puberty,3.8,3.914,cm
+Veneridae,Dosinia japonica,Li,ultimate shell length,7.5,7.052,cm
+Veneridae,Dosinia japonica,Wwb,wet weight at birth,3.4e-08,3.398e-08,g
+Veneridae,Dosinia japonica,Wwi,ultimate wet weight,65.8,67.16,g
+Veneridae,Dosinia japonica,GSI,gonado somatic index,0.12,0.1202,g/g
+Veneridae,Mercenaria mercenaria,ab,age at birth,0.75,0.7628,d
+Veneridae,Mercenaria mercenaria,aj,age at metamorphosis,15.0,33.0,d
+Veneridae,Mercenaria mercenaria,ap,age at puberty,1095.0,956.3,d
+Veneridae,Mercenaria mercenaria,am,life span,36500.0,36500.0,d
+Veneridae,Mercenaria mercenaria,Lb,diameter of a D-larvae,0.008,0.003784,cm
+Veneridae,Mercenaria mercenaria,Lj,diameter of a pediveliger larvae,0.025,0.05358,cm
+Veneridae,Mercenaria mercenaria,Lp,shell length at puberty,3.0,3.38,cm
+Veneridae,Mercenaria mercenaria,Li,ultimate shell length,11.0,13.62,cm
+Veneridae,Mercenaria mercenaria,Wwb,wet weight at birth,2.2e-08,2.326e-08,g
+Veneridae,Mercenaria mercenaria,Wdj,dry weight at metamorphosis,7.5e-06,5.943e-06,g
+Veneridae,Mercenaria mercenaria,Wdp,dry weight at puberty,0.25,0.2016,g
+Veneridae,Mercenaria mercenaria,Wdi,ultimate dry weight,12.3,13.19,g
+Veneridae,Mercenaria mercenaria,Ri,maximum reprod rate,108200.0,108500.0,#/d
+Veneridae,Ruditapes decussatus,ab,age at birth,1.625,1.74,d
+Veneridae,Ruditapes decussatus,aj,age at metamorphosis,27.0,20.95,d
+Veneridae,Ruditapes decussatus,aj28,age at metamorphosis,13.0,15.32,d
+Veneridae,Ruditapes decussatus,tp,time since birth at puberty,365.0,518.6,d
+Veneridae,Ruditapes decussatus,am,life span,2920.0,2919.0,d
+Veneridae,Ruditapes decussatus,L0,egg diameter,0.00674,0.006853,cm
+Veneridae,Ruditapes decussatus,Lb,length at birth,0.01,0.008728,cm
+Veneridae,Ruditapes decussatus,Lj,length at metamorphosis,0.02076,0.03395,cm
+Veneridae,Ruditapes decussatus,Lp,total length at puberty,2.0,2.112,cm
+Veneridae,Ruditapes decussatus,Li,ultimate total length,6.8,6.801,cm
+Veneridae,Ruditapes decussatus,Ri,daily egg production,22000.0,20480.0,#/d
+Veneridae,Ruditapes philippinarum,ab,age at birth,2.0,1.899,d
+Veneridae,Ruditapes philippinarum,aj,age at metamorphosis,11.0,11.03,d
+Veneridae,Ruditapes philippinarum,tp,time since birth at puberty,363.0,348.0,d
+Veneridae,Ruditapes philippinarum,am,life span,6000.0,6000.0,d
+Veneridae,Ruditapes philippinarum,Lb,total length at birth,0.0095,0.006615,cm
+Veneridae,Ruditapes philippinarum,Lj,total length at metamorphosis,0.025,0.04418,cm
+Veneridae,Ruditapes philippinarum,Lp,total length at puberty,1.5,1.673,cm
+Veneridae,Ruditapes philippinarum,Li,ultimate total length,5.212,4.792,cm
+Veneridae,Ruditapes philippinarum,Wdb,dry weight at birth,2.3e-09,2.608e-09,g
+Veneridae,Ruditapes philippinarum,Wdj,dry weight at metamorphosis,1e-05,8.631e-06,g
+Veneridae,Ruditapes philippinarum,Wdp,dry weight at puberty,0.043,0.04219,g
+Veneridae,Ruditapes philippinarum,Wdi,ultimate dry weight,0.98,0.9914,g
+Veneridae,Ruditapes philippinarum,Ri,maximum reprod rate,7500.0,7515.0,#/d
+Veneridae,Venus verrucosa,am,life span,5110.0,4943.0,d
+Veneridae,Venus verrucosa,Lj,shell length at settling,0.05,0.04864,cm
+Veneridae,Venus verrucosa,Lp,shell length at puberty,2.58,2.518,cm
+Veneridae,Venus verrucosa,Li,ultimate shell height,5.5,5.35,cm
+Veneridae,Venus verrucosa,Wwb,wet weight at birth,2.3e-06,2.332e-06,g
+Veneridae,Venus verrucosa,Wwi,ultimate wet weight,37.9,38.57,g
+Veneridae,Venus verrucosa,GSI,gonado somatic index,0.05,0.04888,g/g
+Xylophagaidae,Xylonora atlantica,ah,age at hatching,2.0,2.478,d
+Xylophagaidae,Xylonora atlantica,ab,age at birth,25.0,15.49,d
+Xylophagaidae,Xylonora atlantica,tj,time since birth at end of metamorphosis,31.0,28.4,d
+Xylophagaidae,Xylonora atlantica,tp,time since birth at puberty,108.0,81.32,d
+Xylophagaidae,Xylonora atlantica,am,life span,547.0,544.5,d
+Xylophagaidae,Xylonora atlantica,Lh,length of trochophore,0.004,0.003241,cm
+Xylophagaidae,Xylonora atlantica,Lb,shell height of the umboveliger,0.0135,0.01674,cm
+Xylophagaidae,Xylonora atlantica,Lj,shell height at the end of metamorphosis,0.035,0.04696,cm
+Xylophagaidae,Xylonora atlantica,Lp,shell height at puberty,0.2,0.1307,cm
+Xylophagaidae,Xylonora atlantica,Li,ultimate shell height,1.5,1.598,cm
+Xylophagaidae,Xylonora atlantica,Wwp,wet weight at puberty,0.004,0.001108,g
+Xylophagaidae,Xylonora atlantica,Ri,maximum reprod rate,10.85,10.81,#/d

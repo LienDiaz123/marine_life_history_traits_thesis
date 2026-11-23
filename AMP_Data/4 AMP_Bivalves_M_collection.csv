@@ -1,0 +1,777 @@
+Data,Observed,Predicted,RE,Unit,Description,Reference,Datanotes,Descnotes,Species,Temperature,MeanTemperature,ID,Phylum,Class,Order,Family,ScientificName
+am,5840.0,5839.0,0.000136,d,life span,PehaRich2002,Temperature: 19 C,mean temparature is guessed,Arca_noae,19.0,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+Lj,0.1,0.09853,0.01474,cm,shell length at metam,guess,,,Arca_noae,,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+Lp,1.0,0.9997,0.0003295,cm,shell length at puberty,GhriBell2017,,based on shell length 2 cm: 2/7*3.5,Arca_noae,,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+Li,3.5,3.499,0.000243,cm,ultimate shell height,PehaRich2002,,shell length 7 cm,Arca_noae,,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+Wwb,5.8e-08,5.812e-08,0.002089,g,wet weight at birth,PehaMlad2006,,based on egg diameter of 55 mum: pi/9*0.0055^3,Arca_noae,,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+Wdi,2.3,2.298,0.0009937,g,ultimate dry weight,GhriBell2017,,Shell length is not clear,Arca_noae,,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+Ri,13700.0,14180.0,0.03496,#/d,maximum reprod rate for assumed SL 3 cm,guess,Temperature: 19 C,based on kap = 0.98,Arca_noae,19.0,19.0,Arca_noae,Mollusca,Bivalvia,Arcida,Arcidae,Arca noae
+am,27380.0,25270.0,0.07702,d,life span,BrocReyn2012,Temperature: 9 C,mean temparature is guessed,Glycymeris_glycymeris,9.0,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+Lj,0.1,0.1052,0.05192,cm,shell length at metam,guess,,,Glycymeris_glycymeris,,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+Lp,3.0,1.385,0.5384,cm,shell length at puberty,guess,,based on shell length 2 cm: 2/7*3.5,Glycymeris_glycymeris,,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+Li,6.5,5.56,0.1447,cm,ultimate shell height,Wiki,,,Glycymeris_glycymeris,,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+Wwb,5.8e-08,6.461e-08,0.1139,g,wet weight at birth,guess,,based on egg diameter of 55 mum: pi/9*0.0055^3,Glycymeris_glycymeris,,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+Wdi,0.54,0.6251,0.1576,g,ultimate dry weight,guess,,Shell length Glycymeris_glycymeris: (4.2/6.5)^2*1.3,Glycymeris_glycymeris,,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+Ri,1370.0,639.0,0.5335,#/d,maximum reprod rate,guess,Temperature: 9 C,based on kap = 0.98,Glycymeris_glycymeris,9.0,9.0,Glycymeris_glycymeris,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris glycymeris
+am,25180.0,25190.0,3.788e-06,d,life span,GimeSoco2020,Temperature: 21 C,mean temparature is guessed,Glycymeris_longior,21.0,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+Lj,0.1,0.09961,0.003923,cm,shell length at metam,guess,,,Glycymeris_longior,,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+Lp,2.0,2.0,1.487e-05,cm,shell length at puberty,guess,,,Glycymeris_longior,,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+Li,4.2,4.018,0.04331,cm,ultimate shell height,GimeSoco2020,,,Glycymeris_longior,,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+Wwb,5.8e-08,5.8e-08,9.777e-06,g,wet weight at birth,guess,,based on egg diameter of 55 mum: pi/9*0.0055^3,Glycymeris_longior,,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+Wdi,1.3,1.3,4.668e-05,g,ultimate dry weight,guess,,based on Glycymeris_glycymeris,Glycymeris_longior,,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+Ri,6849.0,6993.0,0.02095,#/d,maximum reprod rate,guess,Temperature: 21 C,based on kap = 0.98,Glycymeris_longior,21.0,21.0,Glycymeris_longior,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris longior
+am,25180.0,26870.0,0.06699,d,life span,PehaBlac2016,Temperature: 21 C,mean temparature is guessed,Glycymeris_pilosa,21.0,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+Lj,0.1,0.1174,0.1735,cm,shell length at metam,guess,,,Glycymeris_pilosa,,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+Lp,4.0,3.976,0.00612,cm,shell length at puberty,guess,,based on same relative shell length 2 cm compared to G. glycymeris: 2/7*3.5,Glycymeris_pilosa,,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+Li,8.5,8.265,0.02767,cm,ultimate shell height,PehaBlac2016,,,Glycymeris_pilosa,,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+Wwb,5.8e-08,5.381e-08,0.07228,g,wet weight at birth,guess,,based on egg diameter of 55 mum: pi/9*0.0055^3,Glycymeris_pilosa,,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+Wwi,181.7,182.8,0.005907,g,ultimate wet weight,PehaBlac2016,,Weight probably includes shell,Glycymeris_pilosa,,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+Ri,100000.0,107000.0,0.06951,#/d,maximum reprod rate,guess,Temperature: 21 C,based on kap = 0.98,Glycymeris_pilosa,21.0,21.0,Glycymeris_pilosa,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris pilosa
+am,7300.0,7300.0,2.903e-05,d,life span,BreyHain1992,Temperature: 2 C,mean temparature is guessed,Lissarca_notorcadensis,2.0,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+Lj,0.0513,0.05183,0.01031,cm,shell length at metam,BreyHain1992,,,Lissarca_notorcadensis,,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+Lp,0.38,0.38,3.146e-05,cm,shell length at puberty,BreyHain1992,,,Lissarca_notorcadensis,,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+Li,0.8,0.8562,0.07021,cm,ultimate shell length,EoL,,,Lissarca_notorcadensis,,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+Wwb,5.72e-06,5.719e-06,0.0002073,g,wet weight at birth,BreyHain1992,,based on egg diameter of 254 mum: pi/9*0.0254^3,Lissarca_notorcadensis,,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+Wdi,0.0037,0.003699,0.0003492,g,ultimate dry weight,BreyHain1992,,"based on 18e-6*(10*Li)^2.567, see F1",Lissarca_notorcadensis,,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+Ri,0.1562,0.1563,0.0005631,#/d,maximum reprod rate for assumed SL 3 cm,BreyHain1992,Temperature: 2 C,based on -8.414+17.655e3*Wwd,Lissarca_notorcadensis,2.0,2.0,Lissarca_notorcadensis,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca notorcadensis
+ab,7.375,7.04,0.04539,d,age at birth,PeckPowe2007,Temperature: 0.9 C,experimental. Time to reach trochophore at 0.9 C and f=0.8,Adamussium_colbecki,0.9,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+tj,90.0,32.32,0.6409,d,age at metamorphosis since birth,TyleReev2003,Temperature: -1.5 C,"able to feed at PII stadium, when metamorphosis occurs",Adamussium_colbecki,-1.5,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+ap,2372.0,2399.0,0.01132,d,age at puberty,Catt1997,Temperature: -1.5 C,,Adamussium_colbecki,-1.5,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+am,6570.0,6564.0,0.0008474,d,life span,ChiaCatt2001,Temperature: -1.5 C,18 years is provided by a VBL model; Berk1991 reported an observed individual of 13 years; Stoc1994 reported at Explorer Cove Invidivuals of 7cm max of 6-7 yo with really high abundances in the area,Adamussium_colbecki,-1.5,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Lb,0.0055,0.005508,0.001467,cm,larval shell at birth (trochophore stadium),PeckPowe2007,,,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Lj,0.0344,0.0339,0.01441,cm,larval shell at metamorphosis (PII),BerkWall1991,,,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Lp,5.0,5.102,0.02047,cm,size at puberty,ChiaCatt2003,,,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Li,9.2,9.589,0.04226,cm,maximum measured size,Schi2019,,,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Wwb,8.711e-08,8.893e-08,0.02081,g,wet weight at birth,guess,,based on egg diameter of 55 mum: pi/6*0.0055^3,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Wwp,9.0,8.469,0.05899,g,wet weight at puberty,Stoc1984,,rough estimate,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+Wwi,50.0,56.21,0.1242,g,ultimate wet weight,Stoc1984,,,Adamussium_colbecki,,-0.9,Adamussium_colbecki,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium colbecki
+ab,4.0,2.09,0.4775,d,age at birth,Cull1974,Temperature: 15 C,,Placopecten_magellanicus,15.0,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+aj,35.0,4.839,0.8617,d,age at metamorphosis,Cull1974,Temperature: 15 C,,Placopecten_magellanicus,15.0,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+ap,365.0,186.2,0.49,d,age at puberty,"Naid1970, ParsRobi1992",Temperature: 12 C,,Placopecten_magellanicus,12.0,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+am,7300.0,7400.0,0.0137,d,life span,MacDThom1985,Temperature: 12 C,,Placopecten_magellanicus,12.0,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Lb,0.0105,0.01069,0.01829,cm,shell length at birth,Cull1974,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Lj,0.035,0.0367,0.04859,cm,shell length at metamorphosis,Cull1974,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Lp,2.5,3.486,0.3944,cm,shell length at puberty,"Naid1970, LangRobi1987, ParsRobi1992",,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Li,23.0,16.56,0.2802,cm,ultimate shell length,ADW,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Wdb,1.5e-07,1.12e-07,0.2535,g,dry tissue weight at birth,guess,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Wdj,4e-06,4.529e-06,0.1321,g,dry tissue weight at metamorphosis,guess,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Wdp,0.5,0.581,0.162,g,dry tissue weight at puberty,guess,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Wdi,50.0,62.23,0.2447,g,ultimate dry tissue weight,guess,,,Placopecten_magellanicus,,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+Ri,300000.0,263300.0,0.1224,#/d,maximum reprod rate,"MacDThom1985, Guess",Temperature: 7 C,,Placopecten_magellanicus,7.0,12.2,Placopecten_magellanicus,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten magellanicus
+ab,4.0,0.4165,0.8959,d,age at birth,BellTole1994,Temperature: 18 C,,Argopecten_purpuratus,18.0,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+tj,24.0,1.552,0.9353,d,time since birth at metam,UriaRupp2001,Temperature: 18 C,,Argopecten_purpuratus,18.0,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+tp,60.0,64.26,0.07104,d,time since birth at puberty,Agui2013,Temperature: 16 C,,Argopecten_purpuratus,16.0,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+am,1825.0,1829.0,0.002341,d,life span,StotGonz1997,Temperature: 16 C,4-5 yr,Argopecten_purpuratus,16.0,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Lb,0.01,0.009254,0.07459,cm,shell height at birth,BellTole1994,,,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Lj,0.0388,0.05005,0.2899,cm,shell height at metam,FariUria1998,,,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Lp,2.0,2.58,0.2898,cm,shell height at puberty,Agui2013,,,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Li,11.0,14.09,0.2812,cm,ultimate shell height,Wolf1987,,,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Wdb,1.334e-07,6.157e-09,0.9538,g,dry weight at birth,FariUria1998,,,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Wdj,9.8e-07,9.74e-07,0.006152,g,dry weight at metam,FariUria1998,,,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Wdp,0.16,0.1334,0.1665,g,dry weight at puberty,Agui2013,,obtained from Lp via LW-regression,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Wdi,19.24,21.75,0.1304,g,ultimate dry weight,Agui2013,,obtained from Li via LW-regression,Argopecten_purpuratus,,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+Ri,893000.0,901600.0,0.009665,#/d,maximum reprod rate,Agui2013,Temperature: 16 C,,Argopecten_purpuratus,16.0,16.8,Argopecten_purpuratus,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten purpuratus
+ab,2.0,1.968,0.01623,d,age at birth,guess,Temperature: 15 C,based on 2 d for Pecten maximus at 18 C,Aequipecten_opercularis,15.0,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+tj,20.0,21.14,0.05677,d,time since birth at metam,marlin,Temperature: 10 C,11-30 d,Aequipecten_opercularis,10.0,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+tp,365.0,378.9,0.03819,d,time since birth at puberty,ADW,Temperature: 10 C,,Aequipecten_opercularis,10.0,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+am,3650.0,3649.0,0.0001852,d,life span,ADW,Temperature: 10 C,8-10 yr,Aequipecten_opercularis,10.0,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+Li,9.0,9.102,0.01138,cm,ultimate shell height,ADW,,marlin gives 11 cm,Aequipecten_opercularis,,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+Wwb,1.64e-07,1.812e-07,0.1052,g,wet weight at birth,marlin,,"Based on 0.1510*Li^2.986, see F3",Aequipecten_opercularis,,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+Wwi,107.0,106.7,0.002506,g,ultimate wet weight,sealifebase,,,Aequipecten_opercularis,,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+Ri,16440.0,13740.0,0.1642,#/d,max reproduction rate,marlin,Temperature: 10 C,based on fecundity 3e6 - 6e6 eggs per yr,Aequipecten_opercularis,10.0,11.0,Aequipecten_opercularis,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten opercularis
+ab,1.0,0.9368,0.06321,d,age at birth,"NavaG2022, Serrano1997",Temperature: 26.5 C,D larvae observed 20 to 24h after fertilization,Nodipecten_subnodosus,26.5,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+tj,14.0,5.548,0.6037,d,time since birth at metam,NavaG2022,Temperature: 26.5 C,"experimental, not directly oberved, measures stop and begin once individual metamorphosed, metamorphosis occur during 3 to 5 days and measures stop in a same scale",Nodipecten_subnodosus,26.5,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+tp,406.0,370.1,0.08835,d,time since birth at puberty,Ram2009,Temperature: 23.8 C,"experimental - two phase of cultivation, first in lab, with 24°C maintain until individuals reach size of 2mm in length, then Bahia Loreto field experiment, with data of surface temperature integrated in the 406 days of cultivation to get temperature but day 0 of cultivation is when scallops are 6-months old (add 6*30 to the value)",Nodipecten_subnodosus,23.8,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+am,2555.0,2166.0,0.1523,d,life span,Minchin2003,Temperature: 23 C,"chapter 29 in the book, not found mentioned elsewhere",Nodipecten_subnodosus,23.0,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Lb,0.006,0.005253,0.1245,cm,shell length at birth,Abasolo2009,,"Experimental, measure start with stade D of larvae which is supposed to be the start of feeding, according to Serr-Guz97 [70-90] micrometer so taken the mean",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Lj,0.021,0.08383,2.992,cm,shell length at metam,NavaG2022,,"experimental - no exact measure when metam start, but measure before and after [200-400] micro m",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Lp,6.6,7.191,0.08947,cm,shell length at puberty,Ram2009,,"Length, 50% of individuals reach sexual maturity at this size temperature extract from digitize R package from the study, integration from the beginning to day 406 for the temperature",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Li,19.0,19.73,0.03859,cm,ultimate shell length  ,VelAbu2006,,"L infinite for the von bertalanffy model, random sampling from Bahia Los Angeles, , from January to December 2006",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Wdb,2.34e-08,4.706e-08,1.011,g,dry weight at birth,NavaG2022,Temperature: 26.5 C,"experimental, from linear regression of Shell length/dry weight of larva througout 35 days of experimentation",Nodipecten_subnodosus,26.5,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Wdj,1.682e-07,7.673e-06,44.63,g,dry weight at metam,NavaG2022,Temperature: 26.5 C,"experimental - end of measure during metamorphosis, last measure was near 200 micro m, from linear regression of DW and shell length of larvae",Nodipecten_subnodosus,26.5,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Wwp,25.34,24.21,0.0445,g,Mass Wet weight at puberty,VelAbu2006,,"from the linear regression of Length/Total weight (TW = 0.2979 * L^2.9193) and Mass weight/Total weight (MW = 2.2213 + 0.3144*TW) ,  random sampling from Bahia Los Angeles, from January to December 2006",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+Wwi,513.5,500.4,0.02542,g,ultimate wet total weight,VelAbu2006,,"from the linear regression extended of Length/Total weight (TW = 0.2979 * L^2.9193) and Mass weight/Total weight (MW = 2.2213 + 0.3144*TW) ,  random sampling from Bahia Los Angeles, from January to December 2006",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+R_L,84250.0,87980.0,0.04428,#/d,reprod rate at a large size,MaldAmp2004,Temperature: 20 C,"Average of the values given in this paper, with spawning induced in the lab. Hypothesis of 1.5 spawning events per year 20.5 million*1.5/365 1.5 because usually one major and maybe another one (Racotta et al., 2003)",Nodipecten_subnodosus,20.0,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+E_0,0.00212,0.001377,0.3506,J,egg energy content,guess,,"calculated from egg diameter (52.5 mum), which gives egg dry weight from M. varia and P. magellanicus data, and times 26kJ/gdw from P. magellanicus litterature",Nodipecten_subnodosus,,24.685714285714287,Nodipecten_subnodosus,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten subnodosus
+ab,2.0,1.378,0.311,d,age at birth,"ShumPars2006, GrufBeau1972",Temperature: 18 C,,Pecten_maximus,18.0,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+tj,25.0,6.299,0.7481,d,time since birth at metam,"RicoBern2010, ShumPars2006",Temperature: 13 C,,Pecten_maximus,13.0,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+tp,365.0,246.7,0.3242,d,time since birth at puberty,"Lava2011, ShumPars2006",Temperature: 13 C,,Pecten_maximus,13.0,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+am,7300.0,4806.0,0.3416,d,life span,ShumPars2006,Temperature: 13 C,,Pecten_maximus,13.0,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Lb,0.008,0.02815,2.519,cm,shell height at birth,"ShumPars2006, SamaCoch1987",,,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Lj,0.024,0.1231,4.131,cm,shell height at metam,"BuesCoch1982, ShumPars2006",,,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Lp,4.0,5.56,0.39,cm,shell height at puberty,"Lava2011, ShumPars2006",,,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Li,12.0,13.77,0.1478,cm,ultimate shell height,Jean2011,,,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Wdb,1.04e-07,1.444e-07,0.3884,g,dry weight at birth,Lava2011,,computed from length,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Wdj,3e-06,1.208e-05,3.028,g,dry weight at metam,"Ande2011, SamaCoch1987",,,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Wdp,1.0,1.112,0.1125,g,dry weight at puberty,Lava2011,,obtained from Lp via LW-regression,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Wdi,20.0,16.91,0.1543,g,ultimate dry weight,Lava2011,,obtained from Li via LW-regression,Pecten_maximus,,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+Ri,57530.0,78840.0,0.3703,#/d,maximum reprod rate,"PaulFifa1989, PaulBekh1997",Temperature: 13 C,,Pecten_maximus,13.0,14.0,Pecten_maximus,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten maximus
+ab,8.0,7.39,0.0763,d,age at birth,guess,Temperature: 2 C,Guess based on 2 d for Pecten maximus at 18 C,Chlamys_islandica,2.0,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+tj,75.0,76.98,0.02635,d,time since birth at metam,guess,Temperature: 2 C,Guess based on 25 d for Pecten maximus at 13 C,Chlamys_islandica,2.0,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+am,8395.0,8398.0,0.0003257,d,life span,sealifebase,Temperature: 2 C,,Chlamys_islandica,2.0,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+Lp,2.45,2.447,0.001257,cm,shell height at puberty,BlicRysg2010,,,Chlamys_islandica,,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+Li,11.0,11.61,0.05518,cm,ultimate shell height,sealifebase,,,Chlamys_islandica,,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+Wwb,1.8e-07,1.835e-07,0.01934,g,wet weight at birth,ShumPars2016,,Based on 70 mum egg diameter: 4/3*pi*0.0035^3,Chlamys_islandica,,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+WdR,4.5,4.263,0.05258,g,gonad dry weight at shell height 6.7 cm,BlicRysg2010,Temperature: 2 C,,Chlamys_islandica,2.0,2.0,Chlamys_islandica,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys islandica
+tp,1095.0,1196.0,0.09197,d,time since birth at puberty,LomoLast2008,Temperature: 7 C,,Zygochlamys_patagonica,7.0,7.0,Zygochlamys_patagonica,Mollusca,Bivalvia,Pectinida,Pectinidae,Zygochlamys patagonica
+am,7665.0,7665.0,1.258e-05,d,life span,LomoLast2008,Temperature: 7 C,,Zygochlamys_patagonica,7.0,7.0,Zygochlamys_patagonica,Mollusca,Bivalvia,Pectinida,Pectinidae,Zygochlamys patagonica
+Lj,0.06,0.06214,0.03562,cm,shell length at metamorphosis,guess,,,Zygochlamys_patagonica,,7.0,Zygochlamys_patagonica,Mollusca,Bivalvia,Pectinida,Pectinidae,Zygochlamys patagonica
+Li,7.0,7.625,0.08923,cm,ultimate shell length,LomoLast2008,,,Zygochlamys_patagonica,,7.0,Zygochlamys_patagonica,Mollusca,Bivalvia,Pectinida,Pectinidae,Zygochlamys patagonica
+Wwb,4.2e-06,4.477e-06,0.06588,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Zygochlamys_patagonica,,7.0,Zygochlamys_patagonica,Mollusca,Bivalvia,Pectinida,Pectinidae,Zygochlamys patagonica
+tp,1095.0,1088.0,0.006012,d,time since birth at puberty,guess,Temperature: 9 C,,Patinopecten_caurinus,9.0,9.0,Patinopecten_caurinus,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten caurinus
+am,7665.0,7665.0,1.616e-05,d,life span,MacDBour1987,Temperature: 9 C,,Patinopecten_caurinus,9.0,9.0,Patinopecten_caurinus,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten caurinus
+Lj,0.06,0.06602,0.1004,cm,shell length at metamorphosis,guess,,,Patinopecten_caurinus,,9.0,Patinopecten_caurinus,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten caurinus
+Li,17.0,16.52,0.02835,cm,ultimate shell length,MacDBour1987,,,Patinopecten_caurinus,,9.0,Patinopecten_caurinus,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten caurinus
+Wwb,4.2e-06,4.07e-06,0.03087,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Patinopecten_caurinus,,9.0,Patinopecten_caurinus,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten caurinus
+GSI,0.15,0.1508,0.00537,g/g,gonado somatic index,guess,Temperature: 9 C,GSI = 0.33 for E. arcuatus,Patinopecten_caurinus,9.0,9.0,Patinopecten_caurinus,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten caurinus
+ab,2.0,2.023,0.01146,d,age at birth,guess,Temperature: 14 C,based on 2 d for Pecten maximus at 18 C,Mimachlamys_asperrima,14.0,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+tj,20.0,19.99,0.0007291,d,time since birth at metam,guess,Temperature: 14 C,based on Aequipecten_opercularis,Mimachlamys_asperrima,14.0,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+am,3650.0,3643.0,0.001817,d,life span,guess,Temperature: 14 C,based on Aequipecten_opercularis,Mimachlamys_asperrima,14.0,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+Lp,5.75,5.461,0.05023,cm,shell height at puberty,Zach1995,,,Mimachlamys_asperrima,,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+Li,11.0,11.0,0.000285,cm,ultimate shell height,Zach1995,,marlin gives 11 cm,Mimachlamys_asperrima,,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+Wwb,1.64e-07,1.637e-07,0.001797,g,wet weight at birth,marlin,,Based on 68 mum egg diameter for Aequipecten_opercularis: pi/6*0.0068^3,Mimachlamys_asperrima,,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+GSI,0.35,0.3504,0.001132,g/g,gonadic somatic index,Zach1995,Temperature: 14 C,,Mimachlamys_asperrima,14.0,14.0,Mimachlamys_asperrima,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys asperrima
+ab,2.0,1.94,0.02992,d,age at birth,guess,Temperature: 16 C,based on 2 d for Pecten maximus at 18 C,Mimachlamys_varia,16.0,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+tj,20.0,20.51,0.02534,d,time since birth at metam,guess,Temperature: 16 C,based on Aequipecten_opercularis,Mimachlamys_varia,16.0,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+am,2555.0,2587.0,0.01257,d,life span,sealifebase,Temperature: 16 C,,Mimachlamys_varia,16.0,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+Lp,5.75,5.297,0.07879,cm,shell height at puberty,guess,,,Mimachlamys_varia,,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+Li,8.0,7.69,0.03878,cm,ultimate shell height,marlin,, 3-10 cm,Mimachlamys_varia,,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+Wwb,1.64e-07,1.625e-07,0.009149,g,wet weight at birth,marlin,,Based on 68 mum egg diameter for Aequipecten_opercularis: pi/6*0.0068^3,Mimachlamys_varia,,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+Wwi,31.7,31.04,0.02067,g,ultimate wet weight,guess,,Based on size-corrected value for Aequipecten_opercularis: 107*(6/9)^3,Mimachlamys_varia,,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+Ri,16440.0,16550.0,0.006787,#/d,max reproduction rate,guess,Temperature: 16 C,based on size-corrected fecundity of Aequipecten_opercularis,Mimachlamys_varia,16.0,16.0,Mimachlamys_varia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys varia
+ab,5.5,1.589,0.7111,d,age at birth,RicoPouv2009,Temperature: 25 C,,Magallana_gigas,25.0,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+tj,14.5,3.407,0.7651,d,time since birth at metam,RicoBern2010,Temperature: 25 C,,Magallana_gigas,25.0,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+tp,26.6,11.29,0.5756,d,time since birth at puberty,Mark2011,Temperature: 25 C,,Magallana_gigas,25.0,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+am,10950.0,16430.0,0.5003,d,life span,Wiki,Temperature: 7.8 C,,Magallana_gigas,7.8,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Lb,0.01,0.003709,0.6291,cm,shell length at birth,RicoPouv2009,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Lj,0.034,0.08886,1.614,cm,shell length at metam,RicoBern2010,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Lp,0.588,0.4169,0.2909,cm,shell length at puberty,Mark2011,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Li,45.0,31.09,0.3091,cm,ultimate shell length,VeerCard2006,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Wdb,5e-08,2.598e-08,0.4804,g,dry weight at birth,RicoBern2010,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Wdj,2e-06,3.198e-06,0.5988,g,dry weight at metam,RicoBern2010,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Wwp,0.0029,0.00367,0.2655,g,wet weight at puberty,Mark2011,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Wwi,1431.0,1522.0,0.06372,g,ultimate wet weight,PouvBour2006,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+Ri,2700000.0,2930000.0,0.08534,#/d,maximum reprod rate,PouvBour2006,Temperature: 7.8 C,,Magallana_gigas,7.8,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+GSI,0.64,0.2833,0.5574,g/g,gonado somatic index,DuteBeni2009,Temperature: 7.8 C,,Magallana_gigas,7.8,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+KV,600000000.0,373000000.0,0.3783,mum^3/dm^3,half saturation coefficient,RicoBern2010,,,Magallana_gigas,,16.4,Magallana_gigas,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana gigas
+ab,5.5,5.503,0.0005797,d,age at birth,RicoPouv2009,Temperature: 25 C,Larval growth between C. gigas and C. corteziensis is very similar,Crassostrea_corteziensis,25.0,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+tj,14.5,7.941,0.4523,d,time since birth at metam,RicoBern2010,Temperature: 25 C,Larval growth between C. gigas and C. corteziensis is very similar,Crassostrea_corteziensis,25.0,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+tp,26.6,42.62,0.6022,d,time since birth at puberty,Mark2011,Temperature: 25 C,,Crassostrea_corteziensis,25.0,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+am,10950.0,11010.0,0.005286,d,life span,Wiki,Temperature: 7.8 C,,Crassostrea_corteziensis,7.8,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+Lb,0.01,0.01387,0.3869,cm,shell length at birth,RicoPouv2009,,Larval growth between C. gigas and C. corteziensis is very similar,Crassostrea_corteziensis,,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+Lj,0.034,0.1306,2.84,cm,shell length at metam,RicoBern2010,,Larval growth between C. gigas and C. corteziensis is very similar,Crassostrea_corteziensis,,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+Lp,2.1,1.339,0.3626,cm,total length at puberty,Rodr2017,,,Crassostrea_corteziensis,,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+Li,13.0,11.33,0.1282,cm,ultimate total length,Gong2018,,,Crassostrea_corteziensis,,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+Wdi,9.0,9.01,0.001148,g,ultimate dry weight,guess,,based on Crassostrea_virginica: (13/20.6)^3*35.8,Crassostrea_corteziensis,,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+Ri,400000.0,418000.0,0.04498,#/d,maximum reprod rate,PouvBour2006,Temperature: 7.8 C,,Crassostrea_corteziensis,7.8,18.12,Crassostrea_corteziensis,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea corteziensis
+ab,1.5,1.742,0.1614,d,age at birth,"Gals1964, Carr2009",Temperature: 25 C,,Crassostrea_virginica,25.0,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+aj,20.0,14.44,0.2782,d,age at metamorphosis,"Gals1964, Carr2009",Temperature: 23 C,,Crassostrea_virginica,23.0,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+ap,84.0,181.4,1.16,d,age at puberty,"HayeMenz1981, ObeiHeff1996",Temperature: 28 C,,Crassostrea_virginica,28.0,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+am,7300.0,7254.0,0.006286,d,life span,Gals1964,Temperature: 20 C,,Crassostrea_virginica,20.0,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Lb,0.0075,0.008234,0.09792,cm,diameter of a D-larvae,"Gals1964, GallMann1986, Carr2009",,,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Lj,0.035,0.03178,0.09204,cm,diameter of a settling larvae,"Andr1979, Toma1981, Carr2009",,,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Lp,3.0,3.772,0.2574,cm,shell height,"Gals1964, HayeMenz1981, ObeiHeff1996, Carr2009",,,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Li,20.6,28.97,0.4064,cm,ultimate shell height,Gals1964,,,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Wdb,1.5e-07,1.294e-07,0.1371,g,dry weight at birth,GallMann1986,,,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Wdj,7.5e-06,7.44e-06,0.008058,g,dry weight at metamorphosis,LabaFern1999,,data from Ostrea edulis,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Wdp,0.12,0.09312,0.224,g,dry weight at puberty,"HayeMenz1981, ObeiHeff1996",,estimated from length given by HayeMenz1981 and ObreHeff1996 (with W=L^3),Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Wdi,35.8,42.19,0.1784,g,ultimate dry weight,Gals1964,,,Crassostrea_virginica,,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+Ri,1300000.0,153800.0,0.8817,#/d,maximum reprod rate,"HoffPowe1992, ChoiLewi1993",Temperature: 20 C,,Crassostrea_virginica,20.0,23.2,Crassostrea_virginica,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea virginica
+am,12780.0,12790.0,0.0007266,d,life span,Saur2003,Temperature: 12.4 C,,Ostrea_edulis,12.4,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Lb,0.015,0.01776,0.1839,cm,length at birth,Buro1985,,,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Lr,0.0183,0.01942,0.06132,cm,length at release,Robe2017,,,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Ls,0.03,0.04341,0.447,cm,length at eyespot,Rodr2019,,,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Li,23.0,24.02,0.04435,cm,maximul length,Cole1941,,,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Ww0,1.44e-06,1.362e-06,0.05444,g,initial wet weight,Bayn2017,,based on egg diameter of 0.014 cm: pi/6*0.014^3;,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Wdr,1.7e-07,1.407e-07,0.1723,g,dry weight at release,Laba1999,,,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+Wwp,1.062,1.062,0.0003665,g,wet weight at puberty,Elbe2013,,,Ostrea_edulis,,12.4,Ostrea_edulis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea edulis
+am,2190.0,2006.0,0.084,d,life span,Rodri1990,Temperature: 15 C,Datapoint taken from O. edulis,Ostrea_chilensis,15.0,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Lb,0.035,0.01691,0.5168,cm,total length at start feeding,Wils1996,,,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Lr,0.0461,0.04426,0.03995,cm,total length at release,Wils1996,,,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Li,9.0,9.579,0.0643,cm,maximum length,Fu2016,,,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Ww0,4.6e-06,5.214e-06,0.1335,g,wet weight of eggs,Chap2006,,,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Wdr,8e-06,7.927e-06,0.009141,g,weight at release,Wils1996,,,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Wwp,1.062,1.102,0.03798,g,wet weight at puberty,Elbe2013,,Datapoint taken from O. edulis,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+Wwi,4.98,99.8,19.04,g,ultimate wet weight,Rich1993,,,Ostrea_chilensis,,15.0,Ostrea_chilensis,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea chilensis
+am,9490.0,9492.0,0.0002617,d,life span,ArkhBouc2017,Temperature: 26 C,Minimum value,Saccostrea_cuccullata,26.0,26.0,Saccostrea_cuccullata,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea cuccullata
+Lp,0.58,0.5528,0.04696,cm,total length at puberty,guess,,based on Ostra edulis: (1/2597)^(1/3)*Li),Saccostrea_cuccullata,,26.0,Saccostrea_cuccullata,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea cuccullata
+Li,8.0,7.43,0.07122,cm,maximum length,ArkhBouc2017,,,Saccostrea_cuccullata,,26.0,Saccostrea_cuccullata,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea cuccullata
+Wwb,4.6e-06,4.134e-06,0.1013,g,tissue wet weight at birth,guess,,based on Ostrea chilensis,Saccostrea_cuccullata,,26.0,Saccostrea_cuccullata,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea cuccullata
+Wdi,3.5,3.643,0.04092,g,ultimate dry weight,guess,,based on Ostrea chilensis,Saccostrea_cuccullata,,26.0,Saccostrea_cuccullata,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea cuccullata
+Ri,29000.0,1064.0,0.9633,#/d,max reproduction rate,guess,Temperature: 26 C,based on kap=0.98,Saccostrea_cuccullata,26.0,26.0,Saccostrea_cuccullata,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea cuccullata
+ab,1.1,1.049,0.04604,d,age at birth,MontRoch2006,Temperature: 20 C,Data for B. solisianus,Brachidontes_pharaonis,20.0,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+tj,24.0,16.49,0.3128,d,time since birth at metam,MontRoch2006,Temperature: 26 C,Data for B. solisianus,Brachidontes_pharaonis,26.0,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+tp,182.0,237.6,0.3053,d,time since birth at puberty,Rina2013,Temperature: 20 C,,Brachidontes_pharaonis,20.0,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+am,1460.0,1411.0,0.03322,d,life span,SaraPalm2013,Temperature: 20 C,,Brachidontes_pharaonis,20.0,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Lb,0.009,0.008743,0.02858,cm,shell height at birth,MontRoch2006,,shell height is from umbo to ventral margin; Data for B. solisianus,Brachidontes_pharaonis,,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Lj,0.0273,0.07747,1.838,cm,shell height at metam,MontRoch2006,,,Brachidontes_pharaonis,,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Lp,0.75,1.095,0.4603,cm,shell height at puberty,Mort1988,,,Brachidontes_pharaonis,,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Li,3.8,3.374,0.112,cm,shell height length,SaraPalm2013,,,Brachidontes_pharaonis,,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Wwp,0.084,0.06876,0.1815,g,wet weight at puberty,Rina2013,,,Brachidontes_pharaonis,,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Wwi,1.546,2.011,0.3011,g,ultimate wet weight,Rina2013,,,Brachidontes_pharaonis,,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+Ri,1208.0,1202.0,0.005071,#/d,maximum reprod rate,SaraPalm2013,Temperature: 20 C,,Brachidontes_pharaonis,20.0,21.2,Brachidontes_pharaonis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes pharaonis
+am,6935.0,7032.0,0.01403,d,life span,Brou1984,Temperature: 15 C,,Geukensia_demissa,15.0,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+Lj,0.05,0.05011,0.002203,cm,shell height at metam,guess,,,Geukensia_demissa,,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+Lp,2.0,2.192,0.09618,cm,shell height at puberty,Wiki,,,Geukensia_demissa,,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+Li,13.0,13.33,0.02563,cm,ultimate shell height,Wiki,,,Geukensia_demissa,,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+Wwb,5e-08,4.995e-08,0.0009889,g,wet weight at birth,VirgBarb2017,,based on oocyte dimater of 46 mum: pi/6*0.0046^3,Geukensia_demissa,,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+Wwi,52.2,51.57,0.01201,g,ultimate wet weight,"Wiki, sealifebase",,"based on 0.0387*Li^2.810, see F2",Geukensia_demissa,,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+Ri,100000.0,102100.0,0.02142,#/d,maximum reprod rate,VirgBarb2017,Temperature: 15 C,For shell length 7 cm,Geukensia_demissa,15.0,15.0,Geukensia_demissa,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia demissa
+ab,1.1,1.115,0.0135,d,age at birth,SaraBuff2004,Temperature: 20 C,,Mytilaster_minimus,20.0,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+tp,182.0,187.9,0.03239,d,time since birth at puberty,Rina2011,Temperature: 20 C,,Mytilaster_minimus,20.0,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+am,3650.0,3650.0,8.087e-05,d,life span,guess,Temperature: 20 C,,Mytilaster_minimus,20.0,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Lb,0.018,0.01797,0.001554,cm,total length at birth,guess,,,Mytilaster_minimus,,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Lj,0.25,0.248,0.00782,cm,total length at metam,Mont2011,,,Mytilaster_minimus,,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Lp,0.45,0.4746,0.05458,cm,total length at puberty,Mont2011,,,Mytilaster_minimus,,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Li,2.0,2.003,0.001727,cm,ultimate total length,Mont2011,,,Mytilaster_minimus,,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Wwp,0.015,0.006655,0.5563,g,wet weight at puberty,Mont2011,,,Mytilaster_minimus,,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Wwi,0.5,0.5007,0.001456,g,ultimate wet weight,Mont2011,,,Mytilaster_minimus,,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+Ri,1400.0,1402.0,0.001384,#/d,maximum reprod rate,Mont2011,Temperature: 20 C,,Mytilaster_minimus,20.0,20.0,Mytilaster_minimus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster minimus
+am,5475.0,5530.0,0.01007,d,life span,BaguRich2013,Temperature: 19 C,,Leiosolenus_patagonicus,19.0,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+Lp,1.7,1.667,0.01913,cm,total length at puberty,guess,,,Leiosolenus_patagonicus,,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+Li,3.7,3.574,0.03396,cm,ultimate total length,BaguRich2013,,,Leiosolenus_patagonicus,,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+Wwb,9.7e-07,9.848e-07,0.01522,g,wet weight at birth,guess,,based on egg diameter of 123 mum: pi/6*0.0123^3,Leiosolenus_patagonicus,,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+Wdp,0.0353,0.03375,0.04395,g,dry weight at puberty,"guess, BaguRich2013",,"Based on 10^(-5.02 + 2.9*log10(10*Lp)), see F1",Leiosolenus_patagonicus,,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+Wdi,0.337,0.3324,0.01366,g,ultimate dry weight,BaguRich2013,,"Based on 10^(-5.02 + 2.9*log10(10*Li)), see F1",Leiosolenus_patagonicus,,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+GSI,0.12,0.1209,0.007906,g/g,gonado somatic index,guess,Temperature: 19 C,,Leiosolenus_patagonicus,19.0,19.0,Leiosolenus_patagonicus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus patagonicus
+am,20080.0,20740.0,0.03296,d,life span,KefiBoub2014,Temperature: 19 C,,Lithophaga_lithophaga,19.0,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+Lp,4.0,4.166,0.04146,cm,total length at puberty,KefiBoub2014,,,Lithophaga_lithophaga,,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+Li,9.5,9.175,0.0342,cm,ultimate total length,PehaPulj2015,,,Lithophaga_lithophaga,,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+Wwb,9.7e-07,9.671e-07,0.003027,g,wet weight at birth,KefiBoub2014,,based on egg diameter of 123 mum: pi/6*0.0123^3,Lithophaga_lithophaga,,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+Wdp,0.25,0.238,0.04815,g,dry weight at puberty,"KefiBoub2014, PehaPulj2015",,,Lithophaga_lithophaga,,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+Wdi,2.42,2.542,0.05055,g,ultimate dry weight,"KefiBoub2014, PehaPulj2015",,"Based on 10^(-4.780)*(10*Li)^2.611, see F1",Lithophaga_lithophaga,,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+GSI,0.12,0.1114,0.07165,g/g,gonado somatic index,KefiBoub2014,Temperature: 19 C,,Lithophaga_lithophaga,19.0,19.0,Lithophaga_lithophaga,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga lithophaga
+am,4745.0,4746.0,0.0001675,d,life span,PehaRich2007,Temperature: 15 C,,Modiolus_barbatus,15.0,15.0,Modiolus_barbatus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus barbatus
+Lp,3.0,2.963,0.01218,cm,total length at puberty,Wiki,,,Modiolus_barbatus,,15.0,Modiolus_barbatus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus barbatus
+Li,6.0,5.838,0.027,cm,ultimate total length,Wiki,,,Modiolus_barbatus,,15.0,Modiolus_barbatus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus barbatus
+Wwb,2.8e-07,2.735e-07,0.02332,g,wet weight at birth,WongArsh2013,,based on egg diameter of 81 mum for Modiolus philippinarum: pi/6*0.0081^3,Modiolus_barbatus,,15.0,Modiolus_barbatus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus barbatus
+Wwi,22.2,22.39,0.00842,g,ultimate wet weight,sealifebase,,"Based on 10^(-3.716 + 2.847*log10(10*Li)) for Modiolus_modiolus, see F1",Modiolus_barbatus,,15.0,Modiolus_barbatus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus barbatus
+Ri,10140.0,10060.0,0.007345,#/d,reproduction rate at SL 8.1 cm,WongArsh2013,Temperature: 15 C,value for Modiolus philippinarum,Modiolus_barbatus,15.0,15.0,Modiolus_barbatus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus barbatus
+am,18250.0,18230.0,0.001138,d,life span,marlin,Temperature: 15 C,max age exceeds 50 yr,Modiolus_modiolus,15.0,15.0,Modiolus_modiolus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus modiolus
+Lp,4.0,3.965,0.008753,cm,total length at puberty,SeedBrow1978,,,Modiolus_modiolus,,15.0,Modiolus_modiolus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus modiolus
+Li,22.0,18.39,0.1642,cm,ultimate total length,Wiki,,,Modiolus_modiolus,,15.0,Modiolus_modiolus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus modiolus
+Wwb,2.8e-07,2.622e-07,0.0634,g,wet weight at birth,WongArsh2013,,based on egg diameter of 81 mum: pi/6*0.0081^3,Modiolus_modiolus,,15.0,Modiolus_modiolus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus modiolus
+Wwi,897.0,949.2,0.05823,g,ultimate wet weight,sealifebase,,"Based on 10^(-3.716 + 2.847*log10(10*Li)), see F1",Modiolus_modiolus,,15.0,Modiolus_modiolus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus modiolus
+Ri,10140.0,9818.0,0.03144,#/d,reproduction rate at SL 8.1 cm,WongArsh2013,Temperature: 15 C,value for Modiolus philippinarum,Modiolus_modiolus,15.0,15.0,Modiolus_modiolus,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus modiolus
+am,2920.0,2920.0,4.933e-06,d,life span,guess,Temperature: 5 C,,Musculus_discors,5.0,5.0,Musculus_discors,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus discors
+Lb,0.1,0.1036,0.03631,cm,shell length at birth,guess,,,Musculus_discors,,5.0,Musculus_discors,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus discors
+Lp,0.7,0.6999,7.608e-05,cm,shell length at puberty,guess,,,Musculus_discors,,5.0,Musculus_discors,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus discors
+Li,2.2,2.589,0.1767,cm,ultimate shell height,marlin,,based on tL data,Musculus_discors,,5.0,Musculus_discors,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus discors
+Wwi,0.39,0.3879,0.005322,g,ultimate wet weight,guess,,based on .03693*Li^3 for Mytilus edulis,Musculus_discors,,5.0,Musculus_discors,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus discors
+Ri,0.263,0.2638,0.002898,#/d,maximum reprod rate,guess,Temperature: 5 C,"based on kap = 0.99, close to that for Mytilus edulis",Musculus_discors,5.0,5.0,Musculus_discors,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus discors
+ab,0.2,0.3318,0.6588,d,age at birth,Newe1989,Temperature: 18 C,,Mytilus_edulis,18.0,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+tp,365.0,288.0,0.2111,d,time since birth at puberty,Newe1989,Temperature: 18 C,,Mytilus_edulis,18.0,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+am,8760.0,9595.0,0.09534,d,life span,RodhRode1984,Temperature: 10 C,,Mytilus_edulis,10.0,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Lb,0.009,0.008895,0.01169,cm,shell height at birth,Newe1989,,shell height is from umbo to ventral margin,Mytilus_edulis,,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Lp,1.2,1.167,0.0275,cm,shell height at puberty,VeerCard2006,,,Mytilus_edulis,,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Li,15.0,14.19,0.05398,cm,ultimate shell height,VeerCard2006,,,Mytilus_edulis,,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Wwb,2.69e-08,3.047e-08,0.1326,g,wet weight at birth,guess,,Based on .03693*Lb^3 from HareKooy1993,Mytilus_edulis,,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Wwp,0.0638,0.06881,0.07847,g,wet weight at puberty,guess,,Based on .03693*Lp^3 from HareKooy1993,Mytilus_edulis,,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Wwi,124.6,123.7,0.007169,g,ultimate wet weight,guess,,Based on .03693*Li^3 from HareKooy1993,Mytilus_edulis,,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+Ri,5650.0,6027.0,0.06685,#/d,maximum reprod rate,HonkMeer1998,Temperature: 10 C,,Mytilus_edulis,10.0,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+GSI,0.2,0.0007691,0.9962,g/g,gonado somatic index,CardDekk2007,Temperature: 12 C,,Mytilus_edulis,12.0,13.6,Mytilus_edulis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus edulis
+ab,1.0,1.03,0.03032,d,age at birth,Schm1999,Temperature: 18 C,temp from FoxCoe1943,Mytilus_californianus,18.0,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+tj,3.0,2.738,0.08724,d,time since birth at metam,Schm1999,Temperature: 18 C,,Mytilus_californianus,18.0,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+tp,365.0,345.1,0.0545,d,time since birth at puberty,Schm1999,Temperature: 18 C,,Mytilus_californianus,18.0,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+am,7300.0,7314.0,0.001922,d,life span,Such1981,Temperature: 18 C,,Mytilus_californianus,18.0,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Lb,0.018,0.01561,0.133,cm,total length at birth,Schm1999,,Mean size of velichonca stage,Mytilus_californianus,,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Lj,0.026,0.03142,0.2086,cm,total length at metam,Schm1999,,,Mytilus_californianus,,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Lp,4.0,2.567,0.3582,cm,total length at puberty,Such1981,,,Mytilus_californianus,,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Li,20.0,16.76,0.1621,cm,ultimate total length,Payn1976,,,Mytilus_californianus,,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Wwp,0.325,0.3803,0.17,g,wet weight at puberty,FoxCoe1943,,,Mytilus_californianus,,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Wwi,100.0,105.8,0.0577,g,ultimate wet weight,Matz2013,,,Mytilus_californianus,,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+Ri,32880.0,33040.0,0.005091,#/d,maximum reprod rate,FoxCoe1943,Temperature: 18 C,,Mytilus_californianus,18.0,18.0,Mytilus_californianus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus californianus
+ab,1.0,1.096,0.09572,d,age at birth,SancMart2012,Temperature: 17 C,,Mytilus_galloprovincialis,17.0,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+aj,27.0,23.05,0.1465,d,time since birth at metam,SancMart2012,Temperature: 17 C,,Mytilus_galloprovincialis,17.0,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+ap,210.0,227.2,0.08174,d,time since birth at puberty,CeccRoss1984,Temperature: 20 C,,Mytilus_galloprovincialis,20.0,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+am,4380.0,4379.0,0.000233,d,life span,Zaik1970,Temperature: 20 C,,Mytilus_galloprovincialis,20.0,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Lb,0.01,0.01195,0.1948,cm,shell length at birth,SancMart2012,,,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Lj,0.0272,0.1079,2.968,cm,shell length at metam,SancMart2012,,,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Lp,3.0,3.367,0.1224,cm,shell length at puberty,CeccRoss1984,,,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Li,15.0,14.58,0.02793,cm,ultimate shell length,Harb1997,,,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Wwb,2.69e-08,2.466e-08,0.08334,g,wet weight at birth,guess,,Based on .03693*Lb^3 from HareKooy1993,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Wwp,0.81,0.5342,0.3405,g,wet weight at puberty,Mont2014,,,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+Wwi,25.75,43.38,0.6846,g,ultimate wet weight,Mont2014,,,Mytilus_galloprovincialis,,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+GSI,1.5,1.516,0.01034,g/g,gonado somatic index,ErkoGrif1991,Temperature: 20 C,Gonad dry weight over soma dry weight. For a 65mm mussel (Fig. 5). Mean anual temp from www.seatemperature.org,Mytilus_galloprovincialis,20.0,18.8,Mytilus_galloprovincialis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus galloprovincialis
+ab,1.75,1.859,0.0624,d,age at birth,Strat1987,Temperature: 18 C,,Mytilus_trossulus,18.0,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+tj,22.0,5.355,0.7566,d,time since birth at metam,Wate1979,Temperature: 18 C,,Mytilus_trossulus,18.0,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+tp,365.0,367.4,0.006696,d,time since birth at puberty,Seed1976,Temperature: 18 C,"value is from Mytilus edulis, but is reasonable for Mytilus trossulus}",Mytilus_trossulus,18.0,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+am,1260.0,1260.0,1.407e-05,d,life span,Skid1983,Temperature: 18 C,,Mytilus_trossulus,18.0,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Lb,0.011,0.011,2.202e-05,cm,shell height at birth,Wate1979,,shell height is from umbo to ventral margin,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Lj,0.027,0.1081,3.003,cm,shell height at metam,Wate1979,,,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Lp,4.5,4.5,1.321e-05,cm,shell height at puberty,SkidChew1985,,,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Li,7.08,7.503,0.05978,cm,ultimate shell height,Elliot2008,,,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Wdb,7e-07,6.703e-07,0.04243,g,dry weight at birth,Sand2015,,,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Wdj,1.035e-05,1.033e-05,0.001919,g,dry weight at metam,Sand2015,,based on Wdb * (Lj/Lb)^3,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Wdp,0.75,0.7454,0.006183,g,dry weight at puberty,SkidChew1985,,,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Wdi,3.4,3.455,0.0163,g,ultimate dry weight,SkidChew1985,,,Mytilus_trossulus,,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+Ri,16400.0,15970.0,0.02646,#/d,maximum reprod rate,Wate1979,Temperature: 18 C,,Mytilus_trossulus,18.0,18.0,Mytilus_trossulus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus trossulus
+ab,0.9,0.9479,0.05326,d,age at birth,LaxmRao2011,Temperature: 27 C,,Perna_viridis,27.0,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+tj,12.0,3.896,0.6753,d,time since birth at metam,Tan1975,Temperature: 27 C,,Perna_viridis,27.0,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+tp,75.0,63.92,0.1478,d,time since birth at puberty,RajaVenu2006,Temperature: 27 C,,Perna_viridis,27.0,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+am,1825.0,1825.0,2.211e-05,d,life span,Cheng2016,Temperature: 27 C,,Perna_viridis,27.0,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Lb,0.008,0.008,1.352e-05,cm,shell lenght at birth,LaxmRao2011,,shell lenght is from umbo to ventral margin,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Lj,0.04,0.102,1.55,cm,shell lenght at metam,Tan1975,,,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Lp,1.5,2.293,0.5285,cm,shell lenght at puberty,RajaVenu2006,,,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Li,23.0,22.83,0.00721,cm,ultimate shell lenght,Appukuttan1977,,,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Wdb,3e-08,3.03e-08,0.01002,g,dry weight at birth,guess,,from Mytilid species files,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Wdj,3e-06,2.465e-06,0.1783,g,dry weight at metam,guess,,from Mytilid species files,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Wdp,0.03,0.02801,0.06644,g,dry weight at puberty,McFa2015,,field results,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Wdi,28.0,27.67,0.01196,g,ultimate dry weight,McFa2015,,field results,Perna_viridis,,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+Ri,159000.0,159300.0,0.002094,#/d,maximum reprod rate,McFa2015,Temperature: 27 C,Laboratory results,Perna_viridis,27.0,27.0,Perna_viridis,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna viridis
+ab,2.0,1.762,0.1192,d,age at birth,Aara2013,Temperature: 21 C,,Perna_perna,21.0,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+tj,12.0,9.128,0.2393,d,time since birth at metam,Aara2013,Temperature: 21 C,,Perna_perna,21.0,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+tp,100.0,99.05,0.009465,d,time since birth at puberty,Berr1978,Temperature: 24 C,"estimated from the Berr1987 subtidal growth curve, assuming Lp = 29 mm",Perna_perna,24.0,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+am,3285.0,3285.0,6.646e-06,d,life span,Lind1998,Temperature: 20 C,lifespan on exposed (2-3years) and sheltered (5-9 years) in south Africa,Perna_perna,20.0,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+Lb,0.008822,0.008822,7.243e-06,cm,shell length at birth,Aara2013,,48 h after fertilisation the D-larvae has an initial size of 88.22 x 66.54 um,Perna_perna,,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+Lj,0.0255,0.08732,2.424,cm,shell length at metam,Aara2013,,pediveliger stage 250.14 x 222.45 or 278.83 X 259.52 um - Primary settlers 200-400 um,Perna_perna,,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+Lp,2.9,2.554,0.1192,cm,shell length at puberty,Phil1995,,Intertidal South Africa 25-30mm,Perna_perna,,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+Li,12.0,11.66,0.02827,cm,ultimate shell length,Acos2009,,"120mm subtidal, 90mm intertidal, 99 intertidal low",Perna_perna,,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+Wwb,2.69e-08,2.626e-08,0.02366,g,wet weight at birth,guess,,Based on .03693*Lb^3 from HareKooy1993,Perna_perna,,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+GSI,0.6,0.597,0.00501,g/g,gonado somatic index,Acos2009,Temperature: 26 C,,Perna_perna,26.0,22.4,Perna_perna,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna perna
+ab,4.0,1.93,0.5174,d,age at birth,"Rusk2012, RuskAlfa2017",Temperature: 15.5 C,"D-larvae at day 2 pf, some late D-larvae (4 days pf) have developed PII layer, which coincides with digestive system and exogenous feeding, see also https://doi.org/10.1093/mollus/eyt044 ",Perna_canaliculus,15.5,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+tj,16.0,17.65,0.1031,d,time since birth at metamorphosis,Rusk2012,Temperature: 19.1 C,"post-larvae at day 20 post-fertilization, characterized by layers indicating the onset of settlement transition",Perna_canaliculus,19.1,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+tp,150.0,134.4,0.1039,d,time since birth at puberty,guess,Temperature: 17 C,,Perna_canaliculus,17.0,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+am,7300.0,7059.0,0.03304,d,life span,guess,Temperature: 15 C,,Perna_canaliculus,15.0,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Lb,0.0111,0.007383,0.3349,cm,shell length at birth,"Rusk2012, RuskAlfa2017",,shell length of late D-larvae,Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Lj,0.028,0.03227,0.1524,cm,shell length at metamorphosis,RaggGale2019,,0.0242 cm in Rusk2012,Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Lp,2.7,2.971,0.1003,cm,shell length at puberty,Alfa2001,,"estimate based on Alfa2001: spawning occurs between Jun and Dec, and in Jul and Apr shells 3-60mm in length were recovered; zero weight for par estimation",Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Li,14.5,19.48,0.3432,cm,ultimate total length,Alfa2001,,,Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Wdb,5.669e-08,2.746e-08,0.5155,g,ash free dry weight at birth,"Rusk2012, RaggGale2019",,"Used the ratio of lengths for 2-day and 4-day old D-larvae, and weight of 2-day D-larva; resulting value 5.67e-08",Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Wdj,1.8e-06,1.493e-06,0.1708,g,ash free dry weight at metamorphosis,RaggGale2019,,,Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Wdp,0.15,0.1012,0.3252,g,dry weight at puberty,NIWA,,Calculation based on mean value of 2 length-dry weight relationships established by Ibarrola et al. 2017 (Lp=27mm),Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Wdi,35.0,28.52,0.1851,g,ultimate dry weight,guess,,,Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+GSI,0.14,0.2106,0.5044,-,gonado somatic index,NIWA,Temperature: 16 C,GSI is both temporally and spatially variable,Perna_canaliculus,16.0,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+Ri,274000.0,381300.0,0.3916,#/d,maximum reprod rate,"Jenk1979, ChenRagg2020",Temperature: 15 C,"95th percentile of exper.data, in accordance with Jenk1979; Temperature is average from exp data",Perna_canaliculus,15.0,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+E0,0.0004,0.0006267,0.5668,J,energy content of an egg,ChenRagg2020,,"median 0.0003 J, average 0.0004 J, range 0.00007-0.003J; calculated from egg diameter, and energy content of AFDW/g egg according to Kooijman 2010; WW to AFDW using 0.137 from adult data",Perna_canaliculus,,16.266666666666666,Perna_canaliculus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna canaliculus
+ab,1.0,1.08,0.08033,d,age at birth,guess,Temperature: 25 C,Guess based on Brachidontes pharaonis,Septifer_virgatus,25.0,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+tp,365.0,242.4,0.3359,d,time since birth at puberty,Mort1995,Temperature: 25 C,,Septifer_virgatus,25.0,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+am,4380.0,4381.0,0.0001151,d,life span,Mort1995,Temperature: 25 C,,Septifer_virgatus,25.0,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+Lb,0.039,0.03529,0.09515,cm,total length at birth,HayaKase1993,,,Septifer_virgatus,,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+Lp,1.5,1.688,0.1252,cm,total length at puberty,Mort1995,,,Septifer_virgatus,,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+Li,6.5,6.283,0.03333,cm,ultimate total length,Mort1995,,,Septifer_virgatus,,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+Wwp,0.1,0.104,0.03981,g,wet weight at puberty,Luk2014,,,Septifer_virgatus,,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+Wwi,5.81,5.365,0.07656,g,ultimate wet weight,Luk2014,,"Based on L-Ww data, given Li",Septifer_virgatus,,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+Ri,2740.0,2741.0,0.000284,#/d,maximum reprod rate,guess,Temperature: 25 C,guess based on Crassostrea gigas,Septifer_virgatus,25.0,25.0,Septifer_virgatus,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer virgatus
+ab,1.0,0.895,0.105,d,age at birth stage,SoutLuca2011,Temperature: 28 C,"observed age at birth is frequently larger than ab, because of diapauzes during incubation; mean value taken from several measurements",Pinctada_margaritifera,28.0,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+aj,18.0,21.5,0.1946,d,age at metamorphosis,Sang2019,Temperature: 28.1 C,"Plantigrade larvae, 23 d, 240 um",Pinctada_margaritifera,28.1,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+ap,365.0,230.3,0.369,d,age at puberty,Pouv2000,Temperature: 28 C,based on a family of maximal length equal to 14 cm,Pinctada_margaritifera,28.0,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+am,7300.0,7368.0,0.00937,d,ultimate age,guess,Temperature: 28 C,based on Crassostrea gigas,Pinctada_margaritifera,28.0,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+Lb,0.006,0.002714,0.5477,cm,shell diameter,Sang2019,,,Pinctada_margaritifera,,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+Lj,0.018,0.02666,0.4809,cm,shell diameter,Sang2019,,,Pinctada_margaritifera,,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+Lp,4.0,2.014,0.4966,cm,shell height,Pouv2000,,Based on a family of maximal length equal to 14 cm,Pinctada_margaritifera,,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+Li,30.0,8.102,0.7299,cm,ultimate shell height,guess,,"Maximal length data vary from 14 to 25 cm depending on the study; Shell height: length from the heel to the furthermost edge of non-nacreous border, excluding digitate processes without taking into account the curve of the right shell",Pinctada_margaritifera,,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+Wwb,1.6e-07,2.089e-08,0.8694,g,wet weight at birth,Sang2019,,based on egg diameter of 67 mum: pi/6*67e-4^3,Pinctada_margaritifera,,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+GSI,0.5,0.5327,0.06535,g/g,Gonado Somatic Index,Four2011,Temperature: 28 C,Calculated from a surface area ratio between total flesh and gonad,Pinctada_margaritifera,28.0,28.02,Pinctada_margaritifera,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada margaritifera
+am,1095.0,1096.0,0.0007362,d,life span,MarcPrie2005,Temperature: 25 C,,Pinctada_imbricata,25.0,25.0,Pinctada_imbricata,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada imbricata
+Lp,0.97,0.9609,0.009357,cm,total length at puberty,guess,,"based on same relative length, compared to Pinctada_margaritifera: 8.51*4/35",Pinctada_imbricata,,25.0,Pinctada_imbricata,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada imbricata
+Li,8.51,9.178,0.0785,cm,ultimate total length,MarcPrie2005,,,Pinctada_imbricata,,25.0,Pinctada_imbricata,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada imbricata
+Wwb,1.43e-08,1.451e-08,0.01497,g,wet weight at birth,guess,,based on Pinctada_margaritifera,Pinctada_imbricata,,25.0,Pinctada_imbricata,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada imbricata
+Wwi,84.0,84.53,0.006317,g,flesh wet weight,MarcPrie2005,,Based on 0.00007*(Li*10)^3.15,Pinctada_imbricata,,25.0,Pinctada_imbricata,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada imbricata
+Ri,10000000.0,10330000.0,0.0335,#/d,maximum reprod rate,guess,Temperature: 25 C,Guessed based on kap = 0.74 as found for Pinctada_margaritifera,Pinctada_imbricata,25.0,25.0,Pinctada_imbricata,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada imbricata
+am,1825.0,1834.0,0.005076,d,life span,guess,Temperature: 27.5 C,,Pteria_hirundo,27.5,24.75,Pteria_hirundo,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria hirundo
+Lp,3.5,3.498,0.0004449,cm,total length at puberty,guess,,,Pteria_hirundo,,24.75,Pteria_hirundo,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria hirundo
+Li,8.0,7.604,0.04946,cm,ultimate shell length,AlbuAlve2012,,,Pteria_hirundo,,24.75,Pteria_hirundo,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria hirundo
+Wwb,3.35e-08,3.34e-08,0.003034,g,wet weight at birth,guess,,based on egg diameter of 40 mum: pi/6*0.004^3,Pteria_hirundo,,24.75,Pteria_hirundo,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria hirundo
+Wwi,30.6,30.37,0.007462,g,flesh wet weight,EoL,,,Pteria_hirundo,,24.75,Pteria_hirundo,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria hirundo
+GSI,0.3,0.3033,0.01089,g/g,gonado somatic index,guess,Temperature: 22 C,,Pteria_hirundo,22.0,24.75,Pteria_hirundo,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria hirundo
+tj,25.0,24.18,0.03286,d,time since birth at settlement,Mili2011,Temperature: 27.5 C,20-30 d,Pteria_penguin,27.5,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+am,1460.0,1460.0,7.974e-06,d,life span,Mili2011,Temperature: 27.5 C,,Pteria_penguin,27.5,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+Lp,8.88,7.676,0.1356,cm,total length at puberty,Mili2011,,,Pteria_penguin,,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+Li,18.0,17.79,0.01153,cm,ultimate shell length,Mili2011,,,Pteria_penguin,,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+Wwb,8.7e-08,8.791e-08,0.01048,g,wet weight at birth,Mili2011,,based on egg diameter of 55 mum: pi/6*0.0055^3,Pteria_penguin,,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+Wwi,317.0,315.2,0.005722,g,flesh wet weight,EoL,,,Pteria_penguin,,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+GSI,0.3,0.2965,0.01174,g/g,gonado somatic index,guess,Temperature: 27.5 C,,Pteria_penguin,27.5,27.5,Pteria_penguin,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria penguin
+am,1825.0,1824.0,0.0006006,d,life span,guess,Temperature: 27.5 C,,Pteria_sterna,27.5,27.5,Pteria_sterna,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria sterna
+Lp,5.95,6.622,0.113,cm,total length at puberty,SernRuiz2014,,,Pteria_sterna,,27.5,Pteria_sterna,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria sterna
+Li,9.5,8.588,0.09601,cm,ultimate total length,SernRuiz2014,,,Pteria_sterna,,27.5,Pteria_sterna,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria sterna
+Wwb,3.35e-08,3.329e-08,0.006139,g,wet weight at birth,SernRuiz2014,,based on egg diameter of 40 mum: pi/6*0.004^3,Pteria_sterna,,27.5,Pteria_sterna,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria sterna
+Wwi,119.0,118.8,0.002014,g,flesh wet weight,guess,,Based on 0.00007*(Li*10)^3.15 for Pinctada_imbricata,Pteria_sterna,,27.5,Pteria_sterna,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria sterna
+GSI,0.3,0.3039,0.01299,g/g,gonado somatic index,SernRuiz2014,Temperature: 27.5 C,,Pteria_sterna,27.5,27.5,Pteria_sterna,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria sterna
+am,1095.0,1098.0,0.002416,d,life span,guess,Temperature: 20 C,,Atrina_maura,20.0,20.0,Atrina_maura,Mollusca,Bivalvia,Pterioida,Pinnidae,Atrina maura
+Lp,23.3,21.74,0.06678,cm,total length at puberty,CamaArel2012,,,Atrina_maura,,20.0,Atrina_maura,Mollusca,Bivalvia,Pterioida,Pinnidae,Atrina maura
+Li,35.0,33.75,0.03563,cm,ultimate total length,EscaDiar2017,,,Atrina_maura,,20.0,Atrina_maura,Mollusca,Bivalvia,Pterioida,Pinnidae,Atrina maura
+Wwb,8.2e-08,7.674e-08,0.06409,g,wet weight at birth,AngeArel2015,,based on egg diameter of 54 mum: pi/6*0.0054^3,Atrina_maura,,20.0,Atrina_maura,Mollusca,Bivalvia,Pterioida,Pinnidae,Atrina maura
+Ri,547900.0,530900.0,0.03103,#/d,maximum reprod rate at SL 24 cm,AngeArel2015,Temperature: 20 C,,Atrina_maura,20.0,20.0,Atrina_maura,Mollusca,Bivalvia,Pterioida,Pinnidae,Atrina maura
+ab,2.0,2.02,0.01022,d,age at birth,TrigVice2017,Temperature: 21 C,"the feeding starts with the development of the ciliary structure, i.e. vellum",Pinna_nobilis,21.0,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+aj,10.0,6.57,0.343,d,age at metamorphosis,ButlVice1993,Temperature: 20 C,,Pinna_nobilis,20.0,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+tp,545.5,425.0,0.221,d,age at puberty since birth,RichKenn1999,Temperature: 20 C,,Pinna_nobilis,20.0,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+am,9855.0,9851.0,0.0003948,d,life span,GaliVlah2006,Temperature: 20 C,,Pinna_nobilis,20.0,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+Lb,0.0085,0.008515,0.001782,cm,total length at birth,TrigVice2017,,,Pinna_nobilis,,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+Lj,0.1,0.2051,1.051,cm,total length at metamorphosis,ButlVice1993,,,Pinna_nobilis,,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+Lp,16.5,22.32,0.3529,cm,total length at puberty,DeudGrau2017,,,Pinna_nobilis,,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+Li,86.0,89.37,0.03916,cm,ultimate length in the wild,RichKenn1999,,Common ultimate size in the wild. Largest specimen ever reported was 120 cm.,Pinna_nobilis,,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+GSI,0.15,0.141,0.06026,g/g,gonado somatic index,AcarLok2018,Temperature: 20 C,max GSI value (Table 1),Pinna_nobilis,20.0,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+E0,0.001,0.001047,0.04734,J,initial energy content,VeerCard2006,,data for Crassostrea gigas,Pinna_nobilis,,20.2,Pinna_nobilis,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna nobilis
+am,54750.0,54750.0,6.955e-05,d,life span,MossSurg2018,Temperature: 5.5 C,reported from NW Greenland,Astarte_borealis,5.5,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+Lb,0.02,0.0216,0.0799,cm,shell length at birth,MossSurg2018,,,Astarte_borealis,,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+Lp,2.0,2.0,1.015e-05,cm,shell length at puberty,guess,,,Astarte_borealis,,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+Li,4.22,3.864,0.08445,cm,ultimate shell height,MossSurg2018,,,Astarte_borealis,,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+Wwb,2.8e-06,2.786e-06,0.004944,g,wet weight at birth,MossSurg2018,,based on egg diameter of 200 mum: pi/9*0.02^3,Astarte_borealis,,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+Wwi,15.5,15.95,0.029,g,ultimate wet weight,sealifebase,,"based on 0.2321*Li^2.920, see F2",Astarte_borealis,,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+Ri,104.1,105.9,0.01674,#/d,maximum reprod rate,guess,Temperature: 5.5 C,based on kap = 0.98,Astarte_borealis,5.5,5.5,Astarte_borealis,Mollusca,Bivalvia,Carditida,Astartidae,Astarte borealis
+am,365.0,364.9,0.0001986,d,life span,Gall1993,Temperature: 9 C,,Reloncavia_chilenica,9.0,9.0,Reloncavia_chilenica,Mollusca,Bivalvia,Cyamioida,Cyamiidae,Reloncavia chilenica
+Lb,0.05,0.05348,0.06964,cm,shell length at birth,Gall1993,,,Reloncavia_chilenica,,9.0,Reloncavia_chilenica,Mollusca,Bivalvia,Cyamioida,Cyamiidae,Reloncavia chilenica
+Lp,0.3,0.298,0.006658,cm,shell length at puberty,Gall1993,,,Reloncavia_chilenica,,9.0,Reloncavia_chilenica,Mollusca,Bivalvia,Cyamioida,Cyamiidae,Reloncavia chilenica
+Li,1.2,1.444,0.2032,cm,ultimate shell height,Gall1993,,,Reloncavia_chilenica,,9.0,Reloncavia_chilenica,Mollusca,Bivalvia,Cyamioida,Cyamiidae,Reloncavia chilenica
+am,1460.0,1470.0,0.00675,d,life span,FoigMcGr1984,Temperature: 11 C,,Kurtiella_bidentata,11.0,11.0,Kurtiella_bidentata,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella bidentata
+Lb,0.014,0.01392,0.005886,cm,shell length at birth,Franz1973,,data for Kurtiella planulata,Kurtiella_bidentata,,11.0,Kurtiella_bidentata,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella bidentata
+Lj,0.028,0.02801,0.0003546,cm,shell length at settling,Franz1973,,data for Kurtiella planulata,Kurtiella_bidentata,,11.0,Kurtiella_bidentata,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella bidentata
+Lp,0.16,0.1455,0.09037,cm,shell length at puberty,FoigMcGr1984,,,Kurtiella_bidentata,,11.0,Kurtiella_bidentata,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella bidentata
+Li,0.39,0.3946,0.01168,cm,ultimate shell height,FoigMcGr1984,,,Kurtiella_bidentata,,11.0,Kurtiella_bidentata,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella bidentata
+Wwi,0.042,0.04168,0.007715,g,ultimate wet weight,guess,,based on Sphaerium corneum: 2.32*(0.39/1.486)^3,Kurtiella_bidentata,,11.0,Kurtiella_bidentata,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella bidentata
+ab,60.0,56.74,0.05438,d,age at birth,GratFoig1986,Temperature: 11 C,,Lasaea_rubra,11.0,11.0,Lasaea_rubra,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea rubra
+am,1460.0,1463.0,0.00184,d,life span,GratFoig1986,Temperature: 11 C,,Lasaea_rubra,11.0,11.0,Lasaea_rubra,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea rubra
+Lb,0.06,0.05898,0.01702,cm,shell length at birth,GratFoig1986,,,Lasaea_rubra,,11.0,Lasaea_rubra,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea rubra
+Lp,0.11,0.1096,0.004006,cm,shell length at puberty,GratFoig1986,,,Lasaea_rubra,,11.0,Lasaea_rubra,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea rubra
+Li,0.32,0.2859,0.1067,cm,ultimate shell height,GratFoig1986,,,Lasaea_rubra,,11.0,Lasaea_rubra,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea rubra
+Wwi,0.023,0.02334,0.01483,g,ultimate wet weight,guess,,based on Sphaerium corneum: 2.32*(0.32/1.486)^3,Lasaea_rubra,,11.0,Lasaea_rubra,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea rubra
+tp,1095.0,1066.0,0.0265,d,time since birth at puberty,guess,Temperature: 0.5 C,,Laternula_elliptica,0.5,0.5,Laternula_elliptica,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula elliptica
+am,5110.0,5111.0,0.0001151,d,life span,RalpMaxw1977,Temperature: 0.5 C,,Laternula_elliptica,0.5,0.5,Laternula_elliptica,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula elliptica
+Lj,0.06,0.065,0.08333,cm,shell length at metamorphosis,guess,,,Laternula_elliptica,,0.5,Laternula_elliptica,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula elliptica
+Li,9.0,11.5,0.2778,cm,ultimate shell length,RalpMaxw1977,,,Laternula_elliptica,,0.5,Laternula_elliptica,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula elliptica
+Wwb,9e-07,8.764e-07,0.0262,g,wet weight at birth,KangAhn2009,,based on egg diameter of 120 mum: pi/6*0.012^3,Laternula_elliptica,,0.5,Laternula_elliptica,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula elliptica
+GSI,0.15,0.1499,0.0007008,g/g,gonado somatic index,guess,Temperature: 0.5 C,GSI = 0.33 for E. arcuatus,Laternula_elliptica,0.5,0.5,Laternula_elliptica,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula elliptica
+am,45990.0,45990.0,8.78e-05,d,life span,SejrJens2002,Temperature: -1.2 C,mean temparature is guessed,Hiatella_arctica,-1.2,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+Lj,0.075,0.07558,0.007725,cm,shell length at metam,Hieb2015,,,Hiatella_arctica,,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+Lp,1.2,1.202,0.001811,cm,shell length at puberty,guess,,"based on same relative length, compared to Mya arenaria: (2.34/15)*Li",Hiatella_arctica,,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+Li,7.6,6.928,0.08848,cm,ultimate shell length,Hieb2015,,,Hiatella_arctica,,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+Wwb,6e-07,5.985e-07,0.002448,g,wet weight at birth,Hieb2015,,based on egg diameter of 120 mum: pi/9*0.012^3,Hiatella_arctica,,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+Wdi,2.9,2.985,0.02919,g,ultimate dry weight,guess,,based on size-corrected value for Mya arenaria: 22.3*(7.6/15)^3,Hiatella_arctica,,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+Ri,15890.0,11510.0,0.2756,#/d,maximum reprod rate,guess,Temperature: -1.2 C,"based on kap = 0.8, found for Mya arenaria",Hiatella_arctica,-1.2,-1.2,Hiatella_arctica,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella arctica
+ab,1.0,1.07,0.07048,d,age at birth,guess,Temperature: 18 C,,Panopea_abbreviata,18.0,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+am,53290.0,53140.0,0.002896,d,life span,MorsCioc2004,Temperature: 18 C,,Panopea_abbreviata,18.0,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+Lp,3.9,3.883,0.00448,cm,shell length at puberty,guess,,"based on same relative length, compared to Mya arenaria: (2.34/15)*Li",Panopea_abbreviata,,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+Li,25.0,24.78,0.008742,cm,ultimate shell length,MorsCioc2004,,,Panopea_abbreviata,,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+Wwb,2.8e-06,2.726e-06,0.02656,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/9*0.02^3,Panopea_abbreviata,,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+Wwi,3000.0,3033.0,0.01091,g,ultimate wet weight,MorsCioc2004,,,Panopea_abbreviata,,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+Ri,411000.0,424400.0,0.03277,#/d,maximum reprod rate,guess,Temperature: 18 C,"based on kap = 0.8, found for Mya arenaria",Panopea_abbreviata,18.0,18.0,Panopea_abbreviata,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea abbreviata
+ab,5.0,2.749,0.4502,d,age at birth,Wijs2011,Temperature: 18 C,,Ensis_directus,18.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+tj,10.5,10.32,0.01744,d,time since birth at metam,Wijs2011,Temperature: 12 C,,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+tp,492.0,501.6,0.01961,d,time since birth at puberty,Wijs2011,Temperature: 12 C,,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+am,2555.0,2555.0,5.688e-06,d,life span,Wijs2011,Temperature: 12 C,,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+Lb,0.0136,0.005494,0.5961,cm,shell length at birth,Wijs2011,,,Ensis_directus,,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+Lj,0.045,0.07891,0.7536,cm,shell length at metam,Wijs2011,,,Ensis_directus,,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+Lp,4.841,4.156,0.1414,cm,shell length at puberty,Wijs2011,,,Ensis_directus,,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+L730,8.0,8.488,0.06103,cm,shell length at 730 d,Wijs2011,Temperature: 12 C,,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+L1825,15.0,11.31,0.2459,cm,shell length at 1825 d,Wijs2011,Temperature: 12 C,,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+Li,17.1,11.81,0.3096,cm,ultimate total length,Wijs2011,,"18.6 cm in Germany, 20 cm in western Atlantic",Ensis_directus,,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+Wdi,1.831,2.187,0.1945,g,ultimate ashfree dry weight,Wijs2011,,,Ensis_directus,,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+GSI,0.025,0.02398,0.04089,g/g,gonado somatic index,Wijs2011,Temperature: 12 C,GSI = 0.33 for E. arcuatus,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+Fm,5.3,3.961,0.2527,L/h,maximum spec filtering rate,Wijs2011,Temperature: 12 C,,Ensis_directus,12.0,12.75,Ensis_directus,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis directus
+ab,5.0,4.826,0.03479,d,age at birth,Wijs2011,Temperature: 13 C,Value for Ensis directus,Ensis_siliqua,13.0,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+am,7300.0,7315.0,0.002044,d,life span,FahyGaff2001,Temperature: 10 C,,Ensis_siliqua,10.0,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+Lj,0.045,0.04451,0.01088,cm,shell length at metam,Wijs2011,,,Ensis_siliqua,,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+Lp,11.2,10.32,0.0783,cm,shell length at puberty,FahyGaff2001,,,Ensis_siliqua,,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+Li,21.5,23.01,0.07019,cm,ultimate total length,Wiki,,,Ensis_siliqua,,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+Wwb,3.5e-09,3.549e-09,0.01393,g,wet weight at birth,Wijs2011,,based on egg diameter of 6.7e-3 cm for Ensis directus: pi/6*6.7e-9,Ensis_siliqua,,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+Wwi,110.0,109.0,0.008672,g,ultimate wet weight,FahyGaff2001,,EoL gives 239 g,Ensis_siliqua,,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+GSI,0.13,0.1224,0.05868,g/g,gonado somatic index,CrosRior2014,Temperature: 10 C,"based on mean weight of 85 g in Mar-May Jan and 75 g in July-Aug (spent), but values are uncertain",Ensis_siliqua,10.0,11.0,Ensis_siliqua,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis siliqua
+ab,3.0,2.858,0.04729,d,age at birth,Card2007,Temperature: 14 C,,Cerastoderma_edule,14.0,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+tp,280.0,280.8,0.002871,d,time since birth at puberty,Card2009,Temperature: 12 C,,Cerastoderma_edule,12.0,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+am,5160.0,5160.0,2.087e-05,d,life span,FreiCard2009,Temperature: 7 C,Data fro Norway,Cerastoderma_edule,7.0,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+Lb,0.015,0.0157,0.04688,cm,total length at birth,Card2007,,,Cerastoderma_edule,,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+Lp,1.2,1.093,0.08901,cm,total length at puberty,Card2009,,,Cerastoderma_edule,,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+Li,5.0,5.065,0.01292,cm,ultimate total length,Card2007,,,Cerastoderma_edule,,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+Wdp,0.0098,0.009006,0.08103,g,dry weight at puberty,Card2009,,,Cerastoderma_edule,,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+Wdi,0.9,0.8956,0.00494,g,ultimate dry weight,Card2009,,,Cerastoderma_edule,,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+Ri,4658.0,4661.0,0.0007378,#/d,maximum reprod rate,Honk1998,Temperature: 15 C,,Cerastoderma_edule,15.0,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+rB,0.001,0.001046,0.04562,1/d,van Bertalanffy growth rate,Card2007,Temperature: 15 C,in a subtidal area of the Wadden Sea,Cerastoderma_edule,15.0,12.6,Cerastoderma_edule,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma edule
+ab,3.0,2.856,0.04816,d,age at birth,Card2007,Temperature: 11 C,Data for C. edule,Cerastoderma_glaucum,11.0,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+tj,11.0,11.12,0.01128,d,time since birth at metam,marlin,Temperature: 15 C,"time since birth at settlement 11 till 30 d, but temp is guessed ",Cerastoderma_glaucum,15.0,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+am,1825.0,1825.0,4.42e-06,d,life span,marlin,Temperature: 15 C,,Cerastoderma_glaucum,15.0,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+Lp,0.96,0.9601,0.0001279,cm,total length at puberty,KandMoha2013,,Data for female,Cerastoderma_glaucum,,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+Li,5.0,5.185,0.0371,cm,ultimate total length,Wiki,,,Cerastoderma_glaucum,,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+Wwb,2.2e-07,2.229e-07,0.01323,g,wet weight at birth,marlin_Ce,,Based on 75 mum egg diameter for C. edule: 4/3*pi*0.00375^3,Cerastoderma_glaucum,,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+Ww15,0.17,0.1694,0.0034,g,wet weight at shell length 15 mm,KandMoha2013,,,Cerastoderma_glaucum,,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+Ri,4658.0,4660.0,0.0005211,#/d,maximum reprod rate,Honk1998,Temperature: 15 C,Data for C. edule,Cerastoderma_glaucum,15.0,14.0,Cerastoderma_glaucum,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma glaucum
+am,8760.0,8764.0,0.0004366,d,life span,TallSund2000,Temperature: 3 C,,Ciliatocardium_ciliatum,3.0,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+Lj,0.2,0.1969,0.01543,cm,shell length at metam,guess,,,Ciliatocardium_ciliatum,,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+Lp,1.2,1.199,0.0007082,cm,shell length at puberty,Card2009,,Value for Cerastoderma_edule,Ciliatocardium_ciliatum,,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+Li,4.5,4.505,0.001054,cm,ultimate shell length,TallSund2000,,,Ciliatocardium_ciliatum,,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+Wwb,1.44e-07,1.442e-07,0.001071,g,wet weight at birth,guess,,based from guessed egg diameter of 65 mum: pi/6*0.0065^3,Ciliatocardium_ciliatum,,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+Wwi,11.3,11.32,0.001791,g,ultimate wet weight,EoL,,based on Macoma baltica,Ciliatocardium_ciliatum,,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+Ri,4657.0,4663.0,0.001236,#/d,maximum reprod rate,Honk1998,Temperature: 3 C,Value for Cerastoderma_edule,Ciliatocardium_ciliatum,3.0,3.0,Ciliatocardium_ciliatum,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium ciliatum
+ab,0.8333,0.8487,0.01849,d,age at birth,Beck1981,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+tj,7.0,6.94,0.008643,d,time since birth at metamorphosis,Beck1981,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+am,36500.0,36510.0,0.000327,d,life span,Wiki,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+Lp,20.0,19.99,0.0003891,cm,shell lenght at puberty,Wiki,,,Tridacna_gigas,,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+Li,137.0,124.1,0.0942,cm,ultimate shell height,Wiki,,,Tridacna_gigas,,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+L10,2.6,5.416,1.083,cm,shell length at 10 month,Beck1981,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+L17,8.3,8.994,0.08358,cm,shell length at 17 month,Beck1981,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+L9,52.0,46.68,0.1023,cm,shell length at 9 yr,Bonh1965,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+Wwb,5.23e-07,5.193e-07,0.006999,g,wet dry weight at birth,Wiki,,based on egg diameter of 100 mum: pi/6*0.01^3,Tridacna_gigas,,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+Wwi,20000.0,20650.0,0.03271,g,ultimate wet weight,Wiki,,"Corresponds with 250 kg weight, including shells",Tridacna_gigas,,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+Ww115,17000.0,16440.0,0.03307,g,wet weight at 115 cm,Wiki,,,Tridacna_gigas,,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+Ri,1370000.0,1372000.0,0.001665,#/d,ultimate reproduction rate,Wiki,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+dLj,0.03288,0.01778,0.4593,cm/d,growth rate at settlement,Beck1981,Temperature: 30 C,,Tridacna_gigas,30.0,30.0,Tridacna_gigas,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna gigas
+am,1898.0,1899.0,0.0005868,d,life span,HerrCars2009,Temperature: 17 C,,Donax_hanleyanus,17.0,17.0,Donax_hanleyanus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax hanleyanus
+Lp,1.4,1.393,0.004717,cm,shell length at puberty,guess,,,Donax_hanleyanus,,17.0,Donax_hanleyanus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax hanleyanus
+Li,4.4,4.2,0.04554,cm,ultimate shell length,HerrCars2009,,,Donax_hanleyanus,,17.0,Donax_hanleyanus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax hanleyanus
+Wwb,9.7e-07,9.666e-07,0.003464,g,wet weight at birth,guess,,based on egg diameter of 123 mum: pi/6*0.0123^3,Donax_hanleyanus,,17.0,Donax_hanleyanus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax hanleyanus
+Wwi,3.7,3.718,0.004797,g,ultimate wet weight,guess,,Based on size-corrected value for Donax trunculus: 4.3*(4.4/4.7)^3,Donax_hanleyanus,,17.0,Donax_hanleyanus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax hanleyanus
+Ri,575.3,579.5,0.007172,#/d,max reproduction rate,guess,Temperature: 17 C,based on kap=0.94,Donax_hanleyanus,17.0,17.0,Donax_hanleyanus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax hanleyanus
+ab,3.0,3.066,0.02183,d,age at birth,guess,Temperature: 15 C,,Donax_trunculus,15.0,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+am,2920.0,2920.0,0.0001265,d,life span,GaspFerr1999,Temperature: 15 C,,Donax_trunculus,15.0,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+Lp,1.6,1.587,0.008117,cm,total length at puberty,GaspFerr1999,,,Donax_trunculus,,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+Li,4.7,4.759,0.01262,cm,ultimate total length,GaspFerr1999,,,Donax_trunculus,,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+Wwb,4e-06,4.013e-06,0.00325,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Donax_trunculus,,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+Wwi,4.3,4.279,0.004897,g,ultimate tissue wet weight,"GaspFerr1999, AnseFren1980",,based on length-weight relation of F1 for Li,Donax_trunculus,,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+Ri,274.0,275.6,0.005968,#/d,max reprod rate,guess,Temperature: 15 C,based on kap = 0.95,Donax_trunculus,15.0,15.0,Donax_trunculus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax trunculus
+ab,3.0,3.089,0.02965,d,age at birth,guess,Temperature: 15 C,,Donax_vittatus,15.0,15.0,Donax_vittatus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax vittatus
+am,2920.0,2931.0,0.003705,d,life span,EoL,Temperature: 15 C,,Donax_vittatus,15.0,15.0,Donax_vittatus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax vittatus
+Lp,1.2,1.171,0.02448,cm,total length at puberty,guess,,,Donax_vittatus,,15.0,Donax_vittatus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax vittatus
+Li,3.3,3.342,0.01268,cm,ultimate total length,Wiki,,,Donax_vittatus,,15.0,Donax_vittatus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax vittatus
+Wwb,4e-06,3.953e-06,0.01179,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Donax_vittatus,,15.0,Donax_vittatus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax vittatus
+Ri,274.0,273.9,0.0004226,#/d,max reprod rate,guess,Temperature: 15 C,based on kap = 0.95,Donax_vittatus,15.0,15.0,Donax_vittatus,Mollusca,Bivalvia,Cardiida,Donacidae,Donax vittatus
+ab,2.0,2.012,0.006118,d,age at birth,guess,Temperature: 25 C,,Galatea_paradoxa,25.0,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+am,5475.0,5453.0,0.004092,d,life span,KingAzag2017,Temperature: 25 C,,Galatea_paradoxa,25.0,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+Lp,3.6,3.586,0.003848,cm,total length at puberty,guess,,,Galatea_paradoxa,,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+Li,11.4,11.53,0.0113,cm,ultimate total length,KingAzag2017,,,Galatea_paradoxa,,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+Wwb,4e-06,4.1e-06,0.02499,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Galatea_paradoxa,,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+Wwi,344.8,370.3,0.07392,g,tissue wet weight at SL 9.74 cm,KingAzag2017,,,Galatea_paradoxa,,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+Ri,274.0,3925.0,13.33,#/d,max reprod rate,guess,Temperature: 25 C,based on kap = 0.95,Galatea_paradoxa,25.0,25.0,Galatea_paradoxa,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea paradoxa
+am,610.0,610.0,3.75e-05,d,life span,KevrKasa2009,Temperature: 15 C,,Abra_segmentum,15.0,15.0,Abra_segmentum,Mollusca,Bivalvia,Cardiida,Semelidae,Abra segmentum
+Lp,0.9,0.8269,0.08117,cm,total length at puberty,guess,,,Abra_segmentum,,15.0,Abra_segmentum,Mollusca,Bivalvia,Cardiida,Semelidae,Abra segmentum
+Li,1.9,2.07,0.08964,cm,ultimate total length,KevrKasa2009,,based on tL data,Abra_segmentum,,15.0,Abra_segmentum,Mollusca,Bivalvia,Cardiida,Semelidae,Abra segmentum
+Wwb,4e-06,4e-06,8.157e-05,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Abra_segmentum,,15.0,Abra_segmentum,Mollusca,Bivalvia,Cardiida,Semelidae,Abra segmentum
+Ri,68.49,66.31,0.03191,#/d,max reprod rate,guess,Temperature: 15 C,based on kap = 0.93,Abra_segmentum,15.0,15.0,Abra_segmentum,Mollusca,Bivalvia,Cardiida,Semelidae,Abra segmentum
+am,457.5,457.7,0.0004266,d,life span,guess,Temperature: 24 C,,Tagelus_plebeius,24.0,24.0,Tagelus_plebeius,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus plebeius
+Lp,2.0,1.77,0.1148,cm,total length at puberty,guess,,,Tagelus_plebeius,,24.0,Tagelus_plebeius,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus plebeius
+Li,6.5,6.214,0.04393,cm,ultimate total length,SilvCort2015,,,Tagelus_plebeius,,24.0,Tagelus_plebeius,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus plebeius
+Wwb,5e-08,4.999e-08,0.0002333,g,wet weight at birth,SilvCort2015,,based on egg diameter of 46 mum: pi/6*0.0046^3,Tagelus_plebeius,,24.0,Tagelus_plebeius,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus plebeius
+Wdi,2.5,2.495,0.00183,g,ultimate dry weight,guess,,based on L-Wd relationship of Abra segmentum,Tagelus_plebeius,,24.0,Tagelus_plebeius,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus plebeius
+Ri,219200.0,227100.0,0.03627,#/d,max reprod rate,guess,Temperature: 24 C,based on kap = 0.93,Tagelus_plebeius,24.0,24.0,Tagelus_plebeius,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus plebeius
+ab,3.0,2.833,0.05574,d,age at birth,Dren2004,Temperature: 15 C,,Macoma_balthica,15.0,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+tp,422.0,70.88,0.832,d,time since birth at puberty,Card2009,Temperature: 12 C,,Macoma_balthica,12.0,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+am,3832.0,3829.0,0.0008282,d,life span,FreiCard2009,Temperature: 7 C,,Macoma_balthica,7.0,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+Lb,0.015,0.01572,0.04806,cm,total length at birth,BosPhil2007,,,Macoma_balthica,,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+Lp,1.0,0.8181,0.1819,cm,total length at puberty,HonkMeer1998,,,Macoma_balthica,,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+Li,2.8,2.212,0.2099,cm,ultimate total length,Dekk2009,,,Macoma_balthica,,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+Wdp,0.0047,0.005638,0.1995,g,dry weight at puberty,Card2009,,,Macoma_balthica,,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+Wdi,0.131,0.1115,0.149,g,ultimate dry weight,FreiCard2009,,,Macoma_balthica,,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+R16,158.9,157.7,0.007586,#/d,reprod rate at 1.64 cm,HonkMeer1997,Temperature: 12 C,,Macoma_balthica,12.0,11.5,Macoma_balthica,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma balthica
+ab,2.167,2.259,0.04281,d,age at birth,guess,Temperature: 13 C,,Macomangulus_tenuis,13.0,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+am,2190.0,2190.0,7.361e-05,d,life span,DekkBeuk1999,Temperature: 10 C,,Macomangulus_tenuis,10.0,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+Lj,0.2,0.1955,0.02233,cm,shell length at metam,guess,,,Macomangulus_tenuis,,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+Lp,1.0,1.0,2.243e-05,cm,shell length at puberty,guess,,,Macomangulus_tenuis,,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+Li,3.0,3.007,0.002206,cm,ultimate shell length,sealifebase,,,Macomangulus_tenuis,,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+Wwb,1.44e-07,1.423e-07,0.01169,g,wet weight at birth,guess,,based from guessed egg diameter of 65 mum: pi/6*0.0065^3,Macomangulus_tenuis,,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+Wdi,0.13,0.13,2.261e-05,g,ultimate dry weight,guess,,based on Macoma baltica,Macomangulus_tenuis,,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+Ri,2185.0,462.4,0.7884,#/d,maximum reprod rate at SL 3 cm,guess,Temperature: 10 C,based on kap=0.95,Macomangulus_tenuis,10.0,11.0,Macomangulus_tenuis,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus tenuis
+am,2190.0,2190.0,1.905e-05,d,life span,Dufo2017,Temperature: 6 C,,Thyasira_cf_gouldi,6.0,8.0,Thyasira_cf_gouldi,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira cf gouldi
+Lb,0.0185,0.01858,0.004273,cm,total length at birth,GiolDufo2015,,Measured as the length of the smallest individual found bearing eggs.,Thyasira_cf_gouldi,,8.0,Thyasira_cf_gouldi,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira cf gouldi
+Lp,0.28,0.2801,0.0003578,cm,total length at puberty,Dufo2017,,,Thyasira_cf_gouldi,,8.0,Thyasira_cf_gouldi,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira cf gouldi
+Li,0.514,0.5341,0.03911,cm,ultimate total length,Dufo2017,,Total length measured as shell length (anterior-posterior).,Thyasira_cf_gouldi,,8.0,Thyasira_cf_gouldi,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira cf gouldi
+Wdi,0.001882,0.001844,0.01994,g,ultimate ash-free dry weight,Mari2017,,,Thyasira_cf_gouldi,,8.0,Thyasira_cf_gouldi,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira cf gouldi
+Ri,6.137,6.142,0.0008921,#/d,maximum reprod rate,guess,Temperature: 10 C,"Guessed based on Thyasira gouldi (Blac1973).The Ri is taken as the maximum number of eggs contained within the gonad divided by days in a year.In this population, temperature ranges from 7 to 13 C.",Thyasira_cf_gouldi,10.0,8.0,Thyasira_cf_gouldi,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira cf gouldi
+am,1095.0,1095.0,1.231e-05,d,life span,LopeGonz1987,Temperature: 6 C,,Thyasira_flexuosa,6.0,8.0,Thyasira_flexuosa,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira flexuosa
+Lb,0.0185,0.01931,0.04365,cm,total length at birth,guess,,"based on same relative length, compared  Thyasira_cf_gouldi: 0.99*0.28/0.514",Thyasira_flexuosa,,8.0,Thyasira_flexuosa,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira flexuosa
+Lj,0.12,0.111,0.07518,cm,shell height at settlment,LopeGonz1987,,,Thyasira_flexuosa,,8.0,Thyasira_flexuosa,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira flexuosa
+Lp,0.54,0.5394,0.001172,cm,total length at puberty,guess,,,Thyasira_flexuosa,,8.0,Thyasira_flexuosa,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira flexuosa
+Li,0.99,1.021,0.03134,cm,ultimate total length,LopeGonz1987,,Total length measured as shell length (anterior-posterior).,Thyasira_flexuosa,,8.0,Thyasira_flexuosa,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira flexuosa
+Ri,79.0,79.08,0.0009811,#/d,maximum reprod rate,guess,Temperature: 10 C,"based on kap = 0.88, as found for Thyasira_cf_gouldi",Thyasira_flexuosa,10.0,8.0,Thyasira_flexuosa,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira flexuosa
+am,2190.0,2186.0,0.001652,d,life span,Dufo2017,Temperature: 6 C,,Parathyasira_sp,6.0,8.0,Parathyasira_sp,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira sp
+Lb,0.0138,0.01377,0.002015,cm,total length at birth,GiolDufo2015,,Measured as the length of the smallest individual found bearing eggs.,Parathyasira_sp,,8.0,Parathyasira_sp,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira sp
+Lp,0.28,0.2797,0.001091,cm,total length at puberty,Dufo2017,,,Parathyasira_sp,,8.0,Parathyasira_sp,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira sp
+Li,0.514,0.4885,0.04966,cm,ultimate total length,Dufo2017,,Total length measured as shell length (anterior-posterior).,Parathyasira_sp,,8.0,Parathyasira_sp,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira sp
+Wdi,0.002783,0.002911,0.04606,g,ultimate ash-free dry weight,Mari2017,,,Parathyasira_sp,,8.0,Parathyasira_sp,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira sp
+Ri,6.137,6.107,0.004815,#/d,maximum reprod rate,guess,Temperature: 10 C,"Guessed based on Thyasira gouldi (Blac1973).The Ri is taken as the maximum number of eggs contained within the gonad divided by days in a year.In this population, temperature ranges from 7 to 13°C.",Parathyasira_sp,10.0,8.0,Parathyasira_sp,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira sp
+ab,2.0,2.069,0.03436,d,age at birth,RoosRhod1980,Temperature: 18 C,,Mya_arenaria,18.0,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+tj,291.0,285.4,0.01917,d,time since birth at metam,Card2007,Temperature: 12 C,,Mya_arenaria,12.0,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+am,10220.0,10220.0,1.937e-05,d,life span,MacDThom1980,Temperature: 6 C,FreiCard2009 gives 8030 d for Norway at 7C,Mya_arenaria,6.0,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+Lb,0.0165,0.05995,2.633,cm,shell length at birth,HendDure2005,,st 15C; LosaDavi1963 gives 0.009 cm at 22C,Mya_arenaria,,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+Lp,2.34,2.424,0.03611,cm,shell length at puberty,CardWitt2009,,,Mya_arenaria,,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+Li,15.0,19.31,0.2875,cm,ultimate shell length,Tebb1966,,,Mya_arenaria,,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+Wdp,0.03,0.03103,0.03441,g,dry weight at puberty,Card2007,,,Mya_arenaria,,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+Wdi,22.3,15.68,0.2967,g,ultimate dry weight,Card2007,,computed from AFDW (mg) = 5.489 * shell length^3(cm^3),Mya_arenaria,,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+Ri,8219.0,8956.0,0.08962,#/d,maximum reprod rate,NeweHidu1986,Temperature: 10 C,Brou1978 gives 120000 eggs per year for a 6cm female at 10C,Mya_arenaria,10.0,11.5,Mya_arenaria,Mollusca,Bivalvia,Myida,Myidae,Mya arenaria
+ab,0.25,0.2554,0.02147,d,age at birth,guess,Temperature: 14 C,Trochophore stage,Corbula_gibba,14.0,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+aj,9.0,9.332,0.03685,d,age at metamorphosis,guess,Temperature: 14 C,,Corbula_gibba,14.0,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+am,511.0,512.2,0.002428,d,life span,Jens1990,Temperature: 11 C,,Corbula_gibba,11.0,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+Lj,0.035,0.03249,0.07171,cm,total length at metamorphosis,Jens1990,,,Corbula_gibba,,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+Lp,0.4,0.3768,0.05791,cm,total length at puberty,guess,,based on pubert in autumn after settlement,Corbula_gibba,,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+Li,1.2,1.303,0.0862,cm,ultimate total length,marlin,,,Corbula_gibba,,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+Wwb,1.131e-07,1.134e-07,0.002528,g,wet weight at birth,guess,,based on egg diameter of 0.006 cm: pi/6*(0.006)^3,Corbula_gibba,,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+Wdi,0.0175,0.01722,0.01627,g,ultimate dry weight,Laur1986,,"based on same relative weight, compared to Corbicula fluminea: 0.08 * (1.2/2)^3",Corbula_gibba,,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+Ri,63.01,63.52,0.008095,#/d,maximum reprod rate,guess,Temperature: 14 C,,Corbula_gibba,14.0,13.25,Corbula_gibba,Mollusca,Bivalvia,Myida,Corbulidae,Corbula gibba
+ah,1.0,1.257,0.2567,d,age at hatching,Cull1975,Temperature: 25 C,trochophora hatches when gastrulation is completed; S = 30 %%,Teredo_navalis,25.0,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+ab,9.0,4.028,0.5524,d,age at birth,Cull1975,Temperature: 25 C,feeding stats when trochophora becomes umboveliger,Teredo_navalis,25.0,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+tj,51.0,62.43,0.2241,d,time since birth at settlement,Grave1928,Temperature: 15 C,"Observation of first release mid-May while the veliger had spent 2 to 3 weeks (mean=17d) in the gill chamber of the females. Then, veliger and umboveliger spent 14-30d (mean=21d) of Pelagic Larval Dispersal (PLD) at in situ temperature. Then, it takes between 14-21d (mean=17d) to complete metamorphosis after settling (acquiring rasping ridges into its shell to bore the wood). First observation of young metamorphosized juveniles at the beginning of July: 17+17+17=51 days.  (May temperature 10 C, June temperature in Woods Hole 15 C, July = 19 C)",Teredo_navalis,15.0,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+tp,56.0,37.33,0.3334,d,time since settlement at puberty,Grave1942,Temperature: 18 C,from in situ Wood Holes July/August (19/20 C) it took 8 weeks after settlement to reach puberty,Teredo_navalis,18.0,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+am,1095.0,1083.0,0.0106,d,life span,ADW,Temperature: 8 C,,Teredo_navalis,8.0,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+am11,730.0,757.1,0.03708,d,life span,Grave1928,Temperature: 11.5 C,,Teredo_navalis,11.5,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Lh,0.005,0.003871,0.2258,cm,length of trochophora,Cull1975,,,Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Lb,0.012,0.01003,0.1642,cm,shell length of umboveliger,Cull1975,,,Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Lj,0.1,0.03908,0.6092,cm,body length at the end of metamorphosis,Grave1928,,,Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Lp,4.0,2.391,0.4023,cm,total length at puberty,Grave1928,,,Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Li,60.0,60.76,0.0126,cm,ultimate total length,Wiki,,,Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Wwb,1.3e-07,1.129e-07,0.1317,g,wet weight at birth,ADW,,"75 to 88 mum long, 55 to 57 mum wide: pi/6*56^2*80e-12; MannGall1985a gives 0.5 mug dry",Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Wdp,0.01,0.007057,0.2943,g,dry weight at puberty,MannGall1985,,,Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Wwi,47.0,50.63,0.07726,g,ultimate wet weight,Wiki,,"computed from length of 60 cm, diameter of 1 cm: pi*0.5^2*60",Teredo_navalis,,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+Ri,27400.0,26420.0,0.03575,#/d,maximum reprod rate,ADW,Temperature: 8 C,"spawns 3 to 4 times per season, spawning 1e6 to 5e6 eggs; Grave1928 gives yearly fecundity of 5e6 at 11.5 C at Woodshole",Teredo_navalis,8.0,15.785714285714286,Teredo_navalis,Mollusca,Bivalvia,Myida,Teredinidae,Teredo navalis
+tj,9.0,7.809,0.1323,d,time since birth at metamorphosis,guess,Temperature: 11 C,,Penitella_penita,11.0,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+tp,730.0,777.4,0.06495,d,time since birth at puberty,Evan1966,Temperature: 11 C,,Penitella_penita,11.0,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+am,7665.0,7604.0,0.007937,d,life span,sealifebase,Temperature: 11 C,,Penitella_penita,11.0,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+Li,5.2,4.903,0.05704,cm,ultimate shell depth,EoL,,,Penitella_penita,,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+Wwb,1.131e-07,1.123e-07,0.006846,g,wet weight at birth,guess,,based on egg diameter of 60 mum: pi/6*(0.006)^3,Penitella_penita,,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+Wwi,103.0,104.1,0.01113,g,ultimate wet weight,guess,,"based on photo: SL*SD^2*pi/4 with SL=7.8cm, SD=4.1 cm",Penitella_penita,,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+Ri,13700.0,13300.0,0.02895,#/d,maximum reprod rate,guess,Temperature: 11 C,,Penitella_penita,11.0,11.0,Penitella_penita,Mollusca,Bivalvia,Myida,Pholadidae,Penitella penita
+am,1825.0,1775.0,0.02767,d,life span,PinnRich2005,Temperature: 15 C,,Barnea_candida,15.0,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+Lp,1.7,1.57,0.07653,cm,total length at puberty,guess,,,Barnea_candida,,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+Li,3.82,3.492,0.08588,cm,ultimate total length,PinnRich2005,,,Barnea_candida,,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+Wwb,9.7e-07,9.676e-07,0.002501,g,wet weight at birth,guess,,based on egg diameter of 123 mum: pi/6*0.0123^3,Barnea_candida,,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+Wdp,0.0353,0.03232,0.08447,g,dry weight at puberty,"guess, BaguRich2013",,,Barnea_candida,,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+Wdi,0.37,0.3557,0.03878,g,ultimate dry weight,"BaguRich2013, PinnRich2005",,"Based on 10^(-5.02 + 2.9*log10(10*Li)), see F1",Barnea_candida,,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+GSI,0.12,0.1206,0.004678,g/g,gonado somatic index,guess,Temperature: 15 C,,Barnea_candida,15.0,15.0,Barnea_candida,Mollusca,Bivalvia,Myida,Pholadidae,Barnea candida
+am,2190.0,2251.0,0.02794,d,life span,PinnRich2005,Temperature: 15 C,,Barnea_parva,15.0,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+Lp,1.7,1.727,0.01598,cm,total length at puberty,guess,,,Barnea_parva,,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+Li,4.6,4.59,0.002199,cm,ultimate total length,PinnRich2005,,,Barnea_parva,,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+Wwb,9.7e-07,9.68e-07,0.0021,g,wet weight at birth,guess,,based on egg diameter of 123 mum: pi/6*0.0123^3,Barnea_parva,,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+Wdp,0.0353,0.03376,0.04371,g,dry weight at puberty,"guess, BaguRich2013",,,Barnea_parva,,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+Wdi,0.634,0.6335,0.0007395,g,ultimate dry weight,"BaguRich2013, PinnRich2005",,"Based on 10^(-5.02 + 2.9*log10(10*Li)), see F1",Barnea_parva,,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+GSI,0.12,0.12,0.0002257,g/g,gonado somatic index,guess,Temperature: 15 C,,Barnea_parva,15.0,15.0,Barnea_parva,Mollusca,Bivalvia,Myida,Pholadidae,Barnea parva
+am,5475.0,5474.0,9.656e-05,d,life span,PinnRich2005,Temperature: 15 C,,Pholas_dactylus,15.0,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+Lp,3.7,3.716,0.004354,cm,total length at puberty,guess,,,Pholas_dactylus,,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+Li,7.54,7.43,0.0146,cm,ultimate total length,PinnRich2005,,,Pholas_dactylus,,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+Wwb,9.7e-07,9.704e-07,0.0003678,g,wet weight at birth,guess,,based on egg diameter of 123 mum: pi/6*0.0123^3,Pholas_dactylus,,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+Wdp,0.337,0.3344,0.007599,g,dry weight at puberty,"guess, BaguRich2013",,,Pholas_dactylus,,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+Wdi,2.66,2.673,0.004888,g,ultimate dry weight,"BaguRich2013, PinnRich2005",,"Based on 10^(-5.02 + 2.9*log10(10*Li)), see F1",Pholas_dactylus,,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+GSI,0.12,0.1201,0.0005251,g/g,gonado somatic index,guess,Temperature: 15 C,,Pholas_dactylus,15.0,15.0,Pholas_dactylus,Mollusca,Bivalvia,Myida,Pholadidae,Pholas dactylus
+ah,2.0,2.478,0.2389,d,age at hatching,Culliney1976,Temperature: 12 C,9-14 C; hatch is when gastrulation is completed (trochophora),Xylonora_atlantica,12.0,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+ab,25.0,15.49,0.3804,d,age at birth,Culliney1976,Temperature: 12 C,between 11 and 13 C; birth is when trochophora transforms to umboveliger,Xylonora_atlantica,12.0,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+tj,31.0,28.4,0.084,d,time since birth at end of metamorphosis,Romey1994,Temperature: 12 C,,Xylonora_atlantica,12.0,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+tp,108.0,81.32,0.2471,d,time since birth at puberty,Romey1994,Temperature: 12 C,74 d after settlement,Xylonora_atlantica,12.0,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+am,547.0,544.5,0.00452,d,life span,Turner1973,Temperature: 8 C,,Xylonora_atlantica,8.0,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Lh,0.004,0.003241,0.1898,cm,length of trochophore,Culliney1976,,,Xylonora_atlantica,,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Lb,0.0135,0.01674,0.2398,cm,shell height of the umboveliger,Culliney1976,,,Xylonora_atlantica,,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Lj,0.035,0.04696,0.3418,cm,shell height at the end of metamorphosis,Culliney1976,,,Xylonora_atlantica,,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Lp,0.2,0.1307,0.3465,cm,shell height at puberty,Gaud2019,,,Xylonora_atlantica,,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Li,1.5,1.598,0.06506,cm,ultimate shell height,Turner1973,,,Xylonora_atlantica,,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Wwp,0.004,0.001108,0.723,g,wet weight at puberty,GaudHaga2016,,,Xylonora_atlantica,,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+Ri,10.85,10.81,0.003541,#/d,maximum reprod rate,GaudHaga2016,Temperature: 4 C,,Xylonora_atlantica,4.0,10.0,Xylonora_atlantica,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora atlantica
+ab,4.0,4.247,0.06171,d,age at birth,LutzMann1982,Temperature: 13 C,4d from Fig.2,Arctica_islandica,13.0,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+tj,34.0,27.52,0.1906,d,time since birth at metamorphosis,LutzMann1982,Temperature: 13 C,32-36 days after fertilization,Arctica_islandica,13.0,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+tp,2190.0,2090.0,0.04573,d,time since birth at puberty,ThomJone1980,Temperature: 13 C,6 years and average annual temperature from NOAA report (Taylor et al.2009),Arctica_islandica,13.0,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+am,185100.0,185100.0,7.281e-07,d,life span,ButlWana2012,Temperature: 6 C,,Arctica_islandica,6.0,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+Lj,0.024,0.09088,2.787,cm,shell length at metamorphosis,LutzMann1982,,"smallest shell lenght metamorphosed = 240 um;possible 200, this value used so similar to length ",Arctica_islandica,,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+Lp,4.0,4.634,0.1584,cm,shell lenght at puberty,"ThomJone1980, Ball2017",,,Arctica_islandica,,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+Li,14.0,11.2,0.2001,cm,ultimate shell length,Rope1985,,,Arctica_islandica,,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+Ww0,0.01375,0.01279,0.06952,mg,wet weight of an egg.,Oerz1972,,400000 eggs -5500 mg (fresh weight)- 1egg= 0.01375 mg. 0.0095 oocytes length from Ingoya by Ball2017; ,Arctica_islandica,,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+Wdp,0.98,0.9166,0.06474,g,dry weight at puberty,Ball2017,,,Arctica_islandica,,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+RL,1096.0,1122.0,0.02333,#/d,maximum reprod rate,Oerz1972,Temperature: 10 C,mean number eggs per 5 cm length indiv = 400000(/365 days=1096) Annual mean temperature kiel Bay: Begum et al. 2008,Arctica_islandica,10.0,11.0,Arctica_islandica,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica islandica
+ab,1.4,0.9045,0.3539,d,age at birth,Zhan2013,Temperature: 26 C,,Geloina_coaxans,26.0,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+tp,438.0,390.1,0.1093,d,time since birth at puberty,LiuWang2018,Temperature: 26 C,,Geloina_coaxans,26.0,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+am,1825.0,1990.0,0.09039,d,life span,CaiHuan1995,Temperature: 26 C,,Geloina_coaxans,26.0,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+Lp,3.5,3.887,0.1106,cm,shell length at puberty,"Zhan2013, LiuWang2018",Temperature: 26 C,,Geloina_coaxans,26.0,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+Li,7.65,7.8,0.01959,cm,ultimate shell length,LiuWang2018,Temperature: 26 C,,Geloina_coaxans,26.0,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+Wwb,2.7e-07,2.747e-07,0.01739,g,wet weight at birth,guess,,based on egg diameter of 0.008 cm: pi/6*(0.008)^3,Geloina_coaxans,,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+Wwi,20.2,19.66,0.02649,g,ultimate wet weight,EoL,,species is not clear,Geloina_coaxans,,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+GSI,0.24,0.2103,0.1239,g/g,gonado somatic index,Chen2021,Temperature: 26 C,,Geloina_coaxans,26.0,26.0,Geloina_coaxans,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina coaxans
+ab,3.0,1.722,0.426,d,age at birth,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+tj,24.0,23.74,0.01099,d,time since birth at metamorphosis,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+tp,180.0,172.2,0.04316,d,time since birth at puberty,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+am,1460.0,1468.0,0.005589,d,life span,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+Lp,1.0,0.8836,0.1164,cm,shell lenght at puberty,CardWitt2007,,,Spisula_subtruncata,,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+Li,3.5,3.509,0.002571,cm,ultimate shell height,Wiki,,,Spisula_subtruncata,,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+Wwb,9.7e-08,9.641e-08,0.006072,g,wet weight at birth,CardWitt2007,,based on egg diameter of 57 mum: pi/6*0.0057^3,Spisula_subtruncata,,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+Wdp,0.02,0.004586,0.7707,g,ashfree dry weight at puberty,CardWitt2007,,,Spisula_subtruncata,,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+WdR1,0.014,0.0,1.0,g,ashfree dry gonadal mass at 0.05 g AFDW,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+WdR2,0.03,0.02904,0.03215,g,ashfree dry gonadal mass at 0.13 g AFDW,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+WdR3,0.038,0.03505,0.07776,g,ashfree dry gonadal mass at 0.17 g AFDW,CardWitt2007,Temperature: 15 C,,Spisula_subtruncata,15.0,15.0,Spisula_subtruncata,Mollusca,Bivalvia,Venerida,Mactridae,Spisula subtruncata
+ab,2.0,2.12,0.05995,d,age at birth,EystMors1984,Temperature: 20 C,,Spisula_solidissima,20.0,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+aj,30.0,14.74,0.5088,d,age at metamorphosis,FayNeve1983,Temperature: 20 C,,Spisula_solidissima,20.0,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+ap,365.0,414.0,0.1344,d,age at puberty,CargGrie1999,Temperature: 12 C,,Spisula_solidissima,12.0,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+am,11320.0,11540.0,0.0199,d,life span,JoneThom1978,Temperature: 15 C,,Spisula_solidissima,15.0,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Lb,0.0056,0.00521,0.06963,cm,shell length at birth,Alle1953,,,Spisula_solidissima,,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Lj,0.025,0.02662,0.06479,cm,shell length at metamorphosis,Rope1980,,,Spisula_solidissima,,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Lp,4.0,3.328,0.1681,cm,shell length at puberty,CargGrie1999,,,Spisula_solidissima,,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Li,22.6,18.94,0.1622,cm,ultimate shell length,Rope1980,,,Spisula_solidissima,,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Wdb,9.19e-08,7.361e-08,0.1991,g,dry tissue weight at birth,Guess,,computed from Lb,Spisula_solidissima,,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Wdj,8.18e-06,9.817e-06,0.2002,g,dry tissue weight at metamorphosis,Guess,,computed from Lj,Spisula_solidissima,,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+Ri,360000.0,369400.0,0.02598,#/d,maximum reprod rate,WalkHurl1996,Temperature: 20 C,Value estimated from measurements on mid-age individuals,Spisula_solidissima,20.0,17.4,Spisula_solidissima,Mollusca,Bivalvia,Venerida,Mactridae,Spisula solidissima
+am,2190.0,2216.0,0.01182,d,life span,guess,Temperature: 17 C,,Amarilladesma_mactroides,17.0,17.0,Amarilladesma_mactroides,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma mactroides
+Lp,4.0,3.981,0.004755,cm,shell length at puberty,guess,,,Amarilladesma_mactroides,,17.0,Amarilladesma_mactroides,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma mactroides
+Li,8.5,8.628,0.01512,cm,ultimate shell length,HerrAlfa2011,,,Amarilladesma_mactroides,,17.0,Amarilladesma_mactroides,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma mactroides
+Wwb,4.2e-06,4.252e-06,0.01241,g,wet weight at birth,guess,,based on egg diameter of 200 mum: pi/6*0.02^3,Amarilladesma_mactroides,,17.0,Amarilladesma_mactroides,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma mactroides
+Wwi,11.6,11.61,0.0006393,g,ultimate wet tissue weight,"FiorFron2019, HerrAlfa2011",,"based on 5.75e-5*(Li*10)^2.75, see F1",Amarilladesma_mactroides,,17.0,Amarilladesma_mactroides,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma mactroides
+Ri,3000.0,2963.0,0.01242,#/d,maximum reprod rate,guess,Temperature: 17 C,based on kap = 0.6,Amarilladesma_mactroides,17.0,17.0,Amarilladesma_mactroides,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma mactroides
+am,427.0,427.0,8.744e-05,d,life span,ItuaPres2017,Temperature: 9 C,,Neolepton_cobbi,9.0,9.0,Neolepton_cobbi,Mollusca,Bivalvia,Venerida,Neoleptonidae,Neolepton cobbi
+Lb,0.026,0.02653,0.02029,cm,shell length at birth,ItuaPres2017,,,Neolepton_cobbi,,9.0,Neolepton_cobbi,Mollusca,Bivalvia,Venerida,Neoleptonidae,Neolepton cobbi
+Lp,0.13,0.1303,0.002518,cm,shell length at puberty,ItuaPres2017,,no females found below 1.3 mm; males changes to females in the full size spectrum,Neolepton_cobbi,,9.0,Neolepton_cobbi,Mollusca,Bivalvia,Venerida,Neoleptonidae,Neolepton cobbi
+Li,0.42,0.4735,0.1274,cm,ultimate shell height,ItuaPres2017,,,Neolepton_cobbi,,9.0,Neolepton_cobbi,Mollusca,Bivalvia,Venerida,Neoleptonidae,Neolepton cobbi
+Wwi,0.0173,0.01727,0.002002,g,ultimate wet weight,guess,,based on size-corrected value for Chamelea_gallina: 19.9*(0.42/4.4)^3,Neolepton_cobbi,,9.0,Neolepton_cobbi,Mollusca,Bivalvia,Venerida,Neoleptonidae,Neolepton cobbi
+ab,2.167,2.098,0.03156,d,age at birth,PereDelg2011,Temperature: 20 C,,Callista_chione,20.0,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+am,16420.0,16420.0,9.228e-05,d,life span,EzgePeha2011,Temperature: 20 C,,Callista_chione,20.0,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+Lp,5.1,5.099,0.0001933,cm,total length at puberty,EzgePeha2011,,,Callista_chione,,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+Li,8.0,7.941,0.007434,cm,ultimate shell length,EzgePeha2011,,,Callista_chione,,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+Wwb,3.8e-07,3.839e-07,0.01036,g,wet weight at birth,PereDelg2011,,Computed from guessed egg diameter of 90 mum: pi/6*0.009^3,Callista_chione,,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+Wwi,122.5,122.6,0.0008546,g,ultimate wet weight,guess,,"Computed as 0.0002*(Li*10)^3.041, see F1",Callista_chione,,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+Ri,54790.0,65930.0,0.2033,#/d,maximum reprod rate,guess,Temperature: 20 C,based on kap = 0.85,Callista_chione,20.0,20.0,Callista_chione,Mollusca,Bivalvia,Venerida,Veneridae,Callista chione
+ab,2.167,2.065,0.04691,d,age at birth,guess,Temperature: 20 C,,Chamelea_gallina,20.0,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+am,16420.0,16340.0,0.004897,d,life span,guess,Temperature: 20 C,,Chamelea_gallina,20.0,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+Lp,1.03,1.015,0.0148,cm,total length at puberty,DelgSilv2013,,,Chamelea_gallina,,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+Li,4.4,4.358,0.009513,cm,ultimate shell length,BargVasa2020,,,Chamelea_gallina,,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+Wwb,1.44e-07,1.447e-07,0.004772,g,wet weight at birth,DelgSilv2013,,Computed from guessed egg diameter of 65 mum: pi/6*0.0065^3,Chamelea_gallina,,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+Wwi,19.9,19.75,0.007555,g,ultimate wet weight,guess,,"Computed as 0.0002*(Li*10)^3.041, see F1",Chamelea_gallina,,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+Ri,2185.0,2166.0,0.008785,#/d,maximum reprod rate at SL 3 cm,DelgSilv2013,Temperature: 20 C,partial fecundity; possibly more spawnings per yr,Chamelea_gallina,20.0,20.0,Chamelea_gallina,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea gallina
+ab,3.5,3.504,0.001088,d,age at birth,guess,Temperature: 15 C,,Dosinia_exoleta,15.0,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+am,4380.0,4370.0,0.002212,d,life span,guess,Temperature: 15 C,,Dosinia_exoleta,15.0,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+Lp,1.2,1.089,0.09225,cm,total length at puberty,guess,,"guess based on same relative length, compared to Ruditapes_philippinarum: 6/5*1 cm ",Dosinia_exoleta,,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+Li,6.0,6.59,0.0984,cm,ultimate shell length,Wiki,,,Dosinia_exoleta,,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+Wwb,5.2e-07,5.203e-07,0.0005372,g,wet weight at birth,guess,,Computed from guessed egg diameter of 100 mum: 4/3*pi*(0.01/2)^3,Dosinia_exoleta,,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+Wwp,0.13,0.135,0.03839,g,wet weight at puberty,guess,,"Computed as 0.07*Lp^3.398, see F1",Dosinia_exoleta,,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+Wwi,30.85,29.89,0.03097,g,ultimate wet weight,"GaspSant2001, Wiki",,"based on 0.07*Li^3.398, see F1",Dosinia_exoleta,,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+Ri,27400.0,27390.0,0.0003173,#/d,maximum reprod rate,guess,Temperature: 15 C,,Dosinia_exoleta,15.0,15.0,Dosinia_exoleta,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia exoleta
+ab,1.5,1.476,0.01593,d,age at birth,guess,Temperature: 15 C,,Dosinia_japonica,15.0,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+am,4380.0,4347.0,0.007485,d,life span,Sato1994,Temperature: 15 C,,Dosinia_japonica,15.0,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+Lj,0.05,0.05276,0.05523,cm,total length at settlement,guess,,,Dosinia_japonica,,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+Lp,3.8,3.914,0.02995,cm,total length at puberty,Sato1994,,,Dosinia_japonica,,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+Li,7.5,7.052,0.05977,cm,ultimate shell length,Sato1994,,,Dosinia_japonica,,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+Wwb,3.4e-08,3.398e-08,0.0006376,g,wet weight at birth,Sato1994,,Computed from guessed egg diameter of 40 mum: pi/6*0.004^3,Dosinia_japonica,,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+Wwi,65.8,67.16,0.0206,g,ultimate wet weight,"GaspSant2001, Sato1994",,"based on 0.07*Li^3.398 for D. exoleta, see F1; is nonsistent with Sato1994; weight includes shell",Dosinia_japonica,,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+GSI,0.12,0.1202,0.001539,g/g,gonado somatic index,Sato1994,Temperature: 15 C,"the value 0.42 is given, but based on tissue weights, while wet weight in Wwi includes shell",Dosinia_japonica,15.0,15.0,Dosinia_japonica,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia japonica
+ab,0.75,0.7628,0.01704,d,age at birth,KraeCast2001,Temperature: 20 C,,Mercenaria_mercenaria,20.0,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+aj,15.0,33.0,1.2,d,age at metamorphosis,"KraeCast2001, Ever1987",Temperature: 20 C,,Mercenaria_mercenaria,20.0,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+ap,1095.0,956.3,0.1267,d,age at puberty,Ever1987,Temperature: 15 C,,Mercenaria_mercenaria,15.0,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+am,36500.0,36500.0,0.0001368,d,life span,RigwRich2011,Temperature: 15 C,,Mercenaria_mercenaria,15.0,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Lb,0.008,0.003784,0.527,cm,diameter of a D-larvae,KraeCast2001,,,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Lj,0.025,0.05358,1.143,cm,diameter of a pediveliger larvae,KraeCast2001,,,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Lp,3.0,3.38,0.1268,cm,shell length at puberty,KraeCast2001,,,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Li,11.0,13.62,0.2385,cm,ultimate shell length,RigwRich2011,,,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Wwb,2.2e-08,2.326e-08,0.05714,g,wet weight at birth,KraeCast1982,,based on egg diameter of 35 mum: pi/6*0.0035^3,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Wdj,7.5e-06,5.943e-06,0.2076,g,dry weight at metamorphosis,LabaFern1999,,Data on Ostrea edulis,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Wdp,0.25,0.2016,0.1938,g,dry weight at puberty,"KraeCast2001, HofmKlin2006",,based on Wdp = (Lp/Li)^3 * Wdi,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Wdi,12.3,13.19,0.07275,g,ultimate dry weight,HofmKlin2006,,,Mercenaria_mercenaria,,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+Ri,108200.0,108500.0,0.003041,#/d,maximum reprod rate,"Ever1987, Anse1967",Temperature: 15 C,,Mercenaria_mercenaria,15.0,17.0,Mercenaria_mercenaria,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria mercenaria
+ab,2.0,1.899,0.05044,d,age at birth,"HelmPeli1990, JoneSanf1993",Temperature: 21.5 C,,Ruditapes_philippinarum,21.5,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+aj,11.0,11.03,0.002786,d,age at metamorphosis,Calvez2002,Temperature: 25.5 C,,Ruditapes_philippinarum,25.5,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+tp,363.0,348.0,0.0414,d,time since birth at puberty,HollandChew1974,Temperature: 20 C,,Ruditapes_philippinarum,20.0,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+am,6000.0,6000.0,4.172e-05,d,life span,Flye2008,Temperature: 15 C,guess,Ruditapes_philippinarum,15.0,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Lb,0.0095,0.006615,0.3037,cm,total length at birth,"HelmPeli1990, JoneSanf1993",,,Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Lj,0.025,0.04418,0.7672,cm,total length at metamorphosis,LeTreut1986,,,Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Lp,1.5,1.673,0.1154,cm,total length at puberty,HollandChew1974,,,Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Li,5.212,4.792,0.08052,cm,ultimate total length,Mahe2018,,"Berre Lagoon, France (2018)",Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Wdb,2.3e-09,2.608e-09,0.1338,g,dry weight at birth,Flye2008,,"guess, taken from Mytilus edulis",Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Wdj,1e-05,8.631e-06,0.1369,g,dry weight at metamorphosis,guess,,,Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Wdp,0.043,0.04219,0.01892,g,dry weight at puberty,guess,,,Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Wdi,0.98,0.9914,0.01165,g,ultimate dry weight,Mahe2018,,"In Berre lagoon, personal observations 2018",Ruditapes_philippinarum,,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+Ri,7500.0,7515.0,0.002003,#/d,maximum reprod rate,Laru1999,Temperature: 14.6 C,"Data from Gulf of Morbihan, computed from Laru1999",Ruditapes_philippinarum,14.6,19.32,Ruditapes_philippinarum,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes philippinarum
+ab,1.625,1.74,0.07068,d,age at birth,AranBur2014,Temperature: 20 C,,Ruditapes_decussatus,20.0,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+aj,27.0,20.95,0.2239,d,age at metamorphosis,AranBur2014,Temperature: 20 C,,Ruditapes_decussatus,20.0,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+aj28,13.0,15.32,0.1781,d,age at metamorphosis,Beiras1994,Temperature: 28 C,,Ruditapes_decussatus,28.0,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+tp,365.0,518.6,0.4209,d,time since birth at puberty,Cama1980,Temperature: 20 C,,Ruditapes_decussatus,20.0,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+am,2920.0,2919.0,0.0004033,d,life span,UrruIbar1999,Temperature: 20 C,,Ruditapes_decussatus,20.0,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+L0,0.00674,0.006853,0.01678,cm,egg diameter,AranBur2014,,,Ruditapes_decussatus,,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+Lb,0.01,0.008728,0.1272,cm,length at birth,AranBur2014,,,Ruditapes_decussatus,,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+Lj,0.02076,0.03395,0.6352,cm,length at metamorphosis,AranBur2014,,,Ruditapes_decussatus,,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+Lp,2.0,2.112,0.05604,cm,total length at puberty,Cama1980,,,Ruditapes_decussatus,,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+Li,6.8,6.801,7.995e-05,cm,ultimate total length,Cama1980,,,Ruditapes_decussatus,,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+Ri,22000.0,20480.0,0.06921,#/d,daily egg production,Maynou2021,Temperature: 17 C,aprox 1.02+/-0.12 million eggs (0.95 probability) along 6 years of reproductive years (1st egg at 2years old) (Cama1980),Ruditapes_decussatus,17.0,20.83333333333333,Ruditapes_decussatus,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes decussatus
+am,5110.0,4943.0,0.03278,d,life span,PehaPopo2013,Temperature: 21 C,,Venus_verrucosa,21.0,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa
+Lj,0.05,0.04864,0.02711,cm,shell length at settling,guess,,,Venus_verrucosa,,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa
+Lp,2.58,2.518,0.02396,cm,shell length at puberty,PopoMlad2013,,,Venus_verrucosa,,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa
+Li,5.5,5.35,0.02732,cm,ultimate shell height,PehaPopo2013,,,Venus_verrucosa,,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa
+Wwb,2.3e-06,2.332e-06,0.01374,g,wet weight at birth,PopoMlad2013,,based onegg diameter of 164 mum: pi/6*0.0164^3,Venus_verrucosa,,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa
+Wwi,37.9,38.57,0.01763,g,ultimate wet weight,sealifebase,,"based on 0.1591*Li^3.210, see F1",Venus_verrucosa,,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa
+GSI,0.05,0.04888,0.02249,g/g,gonado somatic index,PopoMlad2013,Temperature: 21 C,,Venus_verrucosa,21.0,21.0,Venus_verrucosa,Mollusca,Bivalvia,Venerida,Veneridae,Venus verrucosa

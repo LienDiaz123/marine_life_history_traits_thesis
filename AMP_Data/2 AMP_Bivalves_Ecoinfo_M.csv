@@ -1,0 +1,93 @@
+COMPLETE,MRE,SMSE,Model,climate,migrate,ecozone,habitat,gender,food,embryo,reprod,phylum,class,order,family,ID
+2.4,0.007,0.0,abj,ME,,MS,"0jMp, jiMb, jiMi",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Nuculanida,Sareptidae,Aequiyoldia_eightsii
+2.4,0.026,0.002,abj,MB,,MAm,"0jMp, jiMb, jiMi",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Arcida,Arcidae,Arca_noae
+2.4,0.153,0.052,abj,"MB, MC",,"MANE, MAm","0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris_glycymeris
+2.3,0.041,0.003,abj,MB,,MASW,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris_longior
+2.4,0.056,0.006,abj,MB,,"MAE, MAm","0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris_pilosa
+2.4,0.052,0.008,abj,ME,,MS,"0jMp, jiMb, jiMi",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Arcida,Philobryidae,Lissarca_notorcadensis
+2.5,0.071,0.064,abj,ME,,MS,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Adamussium_colbecki
+3.6,0.17,0.087,abj,"MC, ME",,MANW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten_magellanicus
+2.5,0.172,0.114,abj,MB,,MPE,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Argopecten_purpuratus
+2.5,0.051,0.006,abj,MC,,"MAN, MAE","0jMp, jiMb",Hh,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten_opercularis
+3.0,0.147,0.023,abj,"MB, MA",,MPE,"0jMp, jiMb",Hh,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Nodipecten_subnodosus
+2.5,0.047,0.009,abj,MC,,MANE,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten_maximus
+2.7,0.067,0.011,abj,MC,,MAN,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys_islandica
+2.5,0.16,0.06,abj,MC,,MASW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Zygochlamys_patagonica
+2.4,0.053,0.006,abj,"ME, MC",,MPNE,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Patinopecten_caurinus
+2.5,0.028,0.004,abj,MC,,MISE,"0jMp, jiMb",Hh,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys_asperrima
+2.5,0.036,0.003,abj,MC,,"MANE, MAE, MAm","0jMp, jiMb",Hh,biPp,Mp,O,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys_varia
+3.3,0.4,0.419,asj,MC,,"MPE, MPSE, MAN","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Ostreoida,Ostreidae,Magallana_gigas
+2.5,0.207,0.076,abj,MA,,MPE,"0iMm, 0iMi",D,biB,Mp,O,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea_corteziensis
+3.5,0.276,0.176,abj,"MB, MC",,MAW,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Ostreoida,Ostreidae,Crassostrea_virginica
+3.5,0.151,0.049,asj,MC,,"MANW, MAm, MAn","jiMcb, jiMr, jiMi",Hsb,biPp,Mp,O,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea_edulis
+3.0,0.169,0.12,abj,MC,,MPS,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Ostreoida,Ostreidae,Ostrea_chilensis
+2.3,0.124,0.027,abj,MA,,"MA, MP","0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Ostreoida,Ostreidae,Saccostrea_cuccullata
+2.5,0.201,0.058,abj,"MA, MB",,"MI, MIr, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Brachidontes_pharaonis
+2.5,11.961,0.789,abj,MC,,MAW,"0jMp, jiMm, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Geukensia_demissa
+2.3,0.008,0.005,abj,MB,,MAm,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilaster_minimus
+2.5,0.07,0.014,abj,MC,,MASW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Leiosolenus_patagonicus
+2.5,0.076,0.008,abj,"MA, MB",,MANE,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Lithophaga_lithophaga
+2.2,0.066,0.007,abj,"MC, ME",,"MANE, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus_barbatus
+2.2,0.042,0.003,abj,"MC, ME",,"MN, MAN, MAW, MPE","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Myida,Mytilidae,Modiolus_modiolus
+2.1,0.037,0.004,std,"MC, ME",,"MN, MAN, MAb, MAm, MPN","0jMp, jiMb, jiMi",Hsm,biPp,Mn,O,Mollusca,Bivalvia,Mytilida,Mytilidae,Musculus_discors
+3.8,0.102,0.118,abj,"MC, ME",,"MAN, MPN, MN","0jMp, jiMb, jiMi",Da,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus_edulis
+2.5,0.145,0.068,abj,MC,,MPE,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus_californianus
+2.0,0.174,0.056,abj,MB,,"MAm, MPE","0jMp, jiMb, jiMi",Da,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus_galloprovincialis
+2.5,0.038,0.009,abj,"MC, ME",,"MAN, MPN, MN","0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Mytilus_trossulus
+2.5,0.193,0.065,abj,"MA, MB",,"MPSE, MAW","0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna_viridis
+2.6,0.223,0.091,abj,"MA, MB",,MA,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna_perna
+5.5,0.134,0.062,abj,MC,,MPSW,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Perna_canaliculus
+2.5,0.035,0.005,abj,MB,,MPW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Mytiloida,Mytilidae,Septifer_virgatus
+3.4,0.31,0.126,abj,MA,,MI,"0jMp, jiMr",Hsm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada_margaritifera
+2.0,0.038,0.003,abj,MA,,"MIN, MPSW","0jMp, jiMr",Hsm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pteriidae,Pinctada_imbricata
+2.4,0.032,0.002,abj,MB,,MAm,"0jMp, jiMr",Hsm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria_hirundo
+2.4,0.073,0.013,abj,MA,,"MI, MPSE","0jMp, jiMr",Hsmm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria_penguin
+2.4,0.045,0.004,abj,MA,,MPE,"0jMp, jiMr",Hsm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pteriidae,Pteria_sterna
+2.0,0.055,0.004,abj,MA,,MPE,"0jMp, jiMr",Hsm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pinnidae,Atrina_maura
+3.0,0.167,0.06,abj,MB,,MAm,"0jMp, jiMr",Hsm,biPp,Mp,O,Mollusca,Bivalvia,Pterioida,Pinnidae,Pinna_nobilis
+2.3,0.046,0.004,std,ME,,"MN, MAN","0jMp, jiMb, jiMi",D,biPp,Ms,O,Mollusca,Bivalvia,Carditida,Astartidae,Astarte_borealis
+2.5,0.104,0.027,std,MC,,MPSE,"0jMp, jiMb, jiMi",Hsm,biPp,Mn,O,Mollusca,Bivalvia,Cyamioida,Cyamiidae,Reloncavia_chilenica
+2.5,0.052,0.009,abj,MC,,MANE,"0jMp, jiMb, jiMi","D, Hh",biPp,Mb,O,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Kurtiella_bidentata
+2.5,0.041,0.005,std,MC,,"MANE, MAm","0jMp, jiMb, jiMi",D,biPp,Mb,Ap,Mollusca,Bivalvia,Galeommatida,Lasaeidae,Lasaea_rubra
+2.4,0.048,0.005,abj,ME,,MS,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Anomalodesmata,Laternulidae,Laternula_elliptica
+2.4,0.08,0.012,abj,"MB, MC, ME",,MC,"0jMp, jiMb, jiMi",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Hiatella_arctica
+2.4,0.042,0.005,abj,MB,,MASW,"0jMp, jiMb, jiMi",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Adapedonta,Hiatellidae,Panopea_abbreviata
+3.5,0.241,0.125,abj,MC,,MAN,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis_directus
+2.5,0.024,0.001,abj,MC,,MAE,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Adapedonta,Solenidae,Ensis_siliqua
+2.5,0.033,0.002,abj,"MB, MC",,MAE,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma_edule
+2.5,0.02,0.001,abj,"MB, MC",,MAE,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma_glaucum
+2.4,0.031,0.004,abj,"MC, ME",,"MAN, MN","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Cardiida,Cardiidae,Ciliatocardium_ciliatum
+2.4,0.148,0.061,abj,MA,,"MPSW, MI","0jMp, jiMb",Hh,"biP, jiAa",Mp,O,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna_gigas
+2.2,0.023,0.001,abj,"MA, MB, MC",,MASW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Cardiida,Donacidae,Donax_hanleyanus
+2.5,0.008,0.0,abj,MC,,"MAE, MAm","0jMp, jiMb, jiMi",D,"bjPp, jiD",Mp,O,Mollusca,Bivalvia,Cardiida,Donacidae,Donax_trunculus
+2.2,0.03,0.002,abj,MC,,"MAE, MAm","0jMp, jiMb, jiMi","D, Hsm","bjPp, jiD",Mp,O,Mollusca,Bivalvia,Cardiida,Donacidae,Donax_vittatus
+2.5,0.04,0.002,abj,Am,,TPa,"0iFm, 0iMm",D,"bjPp, jiD","Mp, Fp",O,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea_paradoxa
+2.1,0.09,0.026,abj,MC,,"MAE, MAm","0jMp, jiMb, jiMi",D,"bjPp, jiD",Mp,O,Mollusca,Bivalvia,Cardiida,Semelidae,Abra_segmentum
+2.0,0.034,0.003,abj,MB,,MASW,"0jMp, jiMb, jiMi",D,"bjPp, jiD",Mp,O,Mollusca,Bivalvia,Cardiida,Solecurtidae,Tagelus_plebeius
+2.4,0.058,0.027,abj,MC,,MAE,"0jMp, jiMb, jiMi",D,"bjPp, jiD",Mp,O,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma_balthica
+2.4,0.037,0.005,abj,"MB, MC",,"MAE, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Cardiida,Tellinidae,Macomangulus_tenuis
+1.5,0.053,0.025,abj,"MC, ME",,"MAN, MPE, MN","0jMp, jiMb",D,"biPp, biAb",Mp,O,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira_cf_gouldi
+1.5,0.055,0.006,abj,MC,,MANW,"0jMp, jiMb",D,"biPp, biAb",Mp,O,Mollusca,Bivalvia,Lucinida,Thyasiridae,Thyasira_flexuosa
+1.5,0.066,0.027,abj,ME,,MN,"0jMp, jiMb",D,"biPp, biAb",Mp,O,Mollusca,Bivalvia,Lucinida,Thyasiridae,Parathyasira_sp
+2.6,0.347,0.129,abj,MC,,MAN,"0jMp, jiMb, jiMi",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Myida,Myidae,Mya_arenaria
+2.1,0.051,0.008,abj,MC,,"MANE, MAm","0jMp, jiMcd",D,piPp,Mp,O,Mollusca,Bivalvia,Myida,Corbulidae,Corbula_gibba
+2.8,0.159,0.064,abj,"MC, MB, MA",,MC,"0iMp, jiMcb",Hsm,"bjPp, jiAb, jiHw",Mp,O,Mollusca,Bivalvia,Myida,Teredinidae,Teredo_navalis
+2.1,0.165,0.071,abj,MC,,"MPN, MPE","0jMp, jiMcd",D,piPp,Mp,O,Mollusca,Bivalvia,Myida,Pholadidae,Penitella_penita
+2.2,0.096,0.019,abj,MC,,"MAE, MAm, MPE","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Myida,Pholadidae,Barnea_candida
+2.2,0.133,0.042,abj,MC,,MANE,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Myida,Pholadidae,Barnea_parva
+2.2,0.116,0.036,abj,MC,,"MANE, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Myida,Pholadidae,Pholas_dactylus
+2.6,0.221,0.119,abj,MC,,MAN,"0jMp, jiMdb",D,"bjPp, jiAb, jiHw",Mp,O,Mollusca,Bivalvia,Myida,Xylophagaidae,Xylonora_atlantica
+2.7,0.256,0.083,abj,"MC, ME",,"MAN, MN","0jMp, jiMb",D,"bjPp, jiHa",Mp,O,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica_islandica
+2.5,0.057,0.007,abj,MA,,"MIE, MPW",0iMm,"D, Hh",biPp,Mb,O,Mollusca,Bivalvia,Venerida,Cyrenidae,Geloina_coaxans
+2.5,0.201,0.271,abj,MC,,MAE,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Mactridae,Spisula_subtruncata
+2.5,0.147,0.058,abj,MC,,MAE,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Mactridae,Spisula_solidissima
+2.3,0.042,0.005,abj,MC,,MASE,"0jMp, jiMb, jiMi",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Mactridae,Amarilladesma_mactroides
+2.5,0.056,0.009,std,"MC, ME",,"MN, MAN, MAb, MAm, MPN","0jMp, jiMb, jiMi",Hsm,biPp,Mn,O,Mollusca,Bivalvia,Venerida,Neoleptonidae,Neolepton_cobbi
+2.3,0.044,0.004,abj,"MB, MC",,"MAE, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Veneridae,Callista_chione
+2.4,0.07,0.009,abj,"MB, MC",,"MAE, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Veneridae,Chamelea_gallina
+1.8,0.041,0.003,abj,"MB, MC",,"MAE, MAm","0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia_exoleta
+2.8,0.053,0.006,abj,"MB, MC",,MPW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia_japonica
+3.5,0.121,0.026,abj,"MA, MB, MC",,MAW,"0jMp, jiMb",D,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria_mercenaria
+2.5,0.13,0.036,abj,"MB, MC",,"MANE, MPNW","0jMp, jiMb",Da,biPp,Mp,O,Mollusca,Bivalvia,Veneroida,Veneridae,Ruditapes_philippinarum
+3.5,0.125,0.027,abj,"MB, MC",,"MAE, MAm","0jMp, jiMb",Da,biPp,Mp,O,Mollusca,Bivalvia,Venerida,Veneridae,Ruditapes_decussatus
+2.5,0.025,0.001,abj,MC,,"MANE, MAm","0jMp, jiMb, jiMi","D, Hh",biPp,Mb,O,Mollusca,Bivalvia,Venerida,Veneridae,Venus_verrucosa
